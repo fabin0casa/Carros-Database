@@ -1,0 +1,197 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1EA618F9-73D5-9F3E-52EE-243EC410AA70" name="Vendas">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<comment><![CDATA[Tabela que armazena as vendas de carros]]></comment>
+<commentInRDBMS><![CDATA[Tabela com o registro de todas as vendas com os seus respectivos vendedores]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>9D4EB33C-240D-97B4-82BE-F236F349FBED</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="vnd_id" id="08C369D4-E64A-BF84-34CC-F44FEA91B981">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Identificador único da venda]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>F9CC3053-D786-5E60-8DFE-F34B6FFB23A4</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>CK_VND_NN_01</notNullConstraintName>
+</Column>
+<Column name="vnd_mmr" id="585114F8-32FE-7E84-2D20-0328FAEFD684">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[mmr do carro, o valor de mercado do carro]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>B24C411C-585F-83F5-8C44-AD0EDEDF8F2E</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vnd_preco" id="00CAA545-56A9-8015-7765-EE1E6D3CD9B3">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Preco que o carro foi vendido]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>53AED285-C18F-50CC-7A00-4E4380650256</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>7</dataTypePrecision>
+<ownDataTypeParameters>,7,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vnd_dia_semana" id="D8827D4A-7420-E431-8A18-6522DDC9FF9B">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Dia da semana em que a venda foi feita
+]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>F558A215-A11E-9967-C268-DD9B9B375F6D</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vnd_data" id="B5E0C5ED-4472-E130-5663-F9597A7B0031">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Data da venda]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>6483EF10-5E3F-EEAA-5132-9BDB90D6FF53</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vnd_fuso_horario" id="6723FA4B-45A1-7CBD-2449-DA891AC4C670">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Fuso horário do local em que a venda foi realizada
+]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>75246B66-C727-7A8E-428D-20C27D3C0772</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vnd_zona" id="ED535ADF-4CD9-DFFE-080D-9FBE71A63182">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Se a venda foi feita dentro do horário de verão ou não]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>ED73E2D0-6A0E-C64A-CE43-F64FEE12347E</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>3</dataTypeSize>
+<ownDataTypeParameters>3,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vnd_estado" id="609E73C5-AB10-246E-FD06-BB1948812007">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Estado americano de onde ocorreu a venda]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>8CD5CB18-06B5-DD2D-66DC-4A6714811246</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>2</dataTypeSize>
+<ownDataTypeParameters>2,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vnd_vdr_id" id="D4CF57A1-29C7-6464-A483-7CDDF54C307F">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Chave estrangeira do vendedor]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>C2401567-345D-497F-5CFB-15A516FC9306</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>CK_VND_NN_02</notNullConstraintName>
+<associations>
+<colAssociation fkAssociation="5BB0500E-19E1-67A0-F166-833E1A70E868" referredColumn="67438357-53BA-7037-9A83-D8BCE2434444"/>
+</associations>
+</Column>
+<Column name="vnd_car_id" id="4AB88580-518A-18B5-AC1E-30F1BA466E7E">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Chave estrangeira do carro]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>9C2F2C92-0EA6-3C1B-A1D7-CCBEB4930826</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>CK_VND_NN_03</notNullConstraintName>
+<associations>
+<colAssociation fkAssociation="FE5A5485-EE22-1F2E-E497-6F7FD2F16085" referredColumn="886FAB4B-BA01-83A7-F288-4E3C2B50E6B7"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="9C10A01D-AB70-C8B1-2C4F-5AE8A9DFC79A" name="PK_VND">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>E71CBCA7-22AA-903E-DC5A-A10C84134DFA</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="08C369D4-E64A-BF84-34CC-F44FEA91B981"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="43553C88-30D2-E127-77DF-60799217B847" name="FK_VND_VDR">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<generatorID>C3A061C8-43C9-E8E2-A6F8-6479E8041000</generatorID>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D4CF57A1-29C7-6464-A483-7CDDF54C307F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="38E8B0C4-811F-54AF-96BE-40FA0134087F" name="FK_VND_CAR">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<generatorID>1B11EDC4-C640-5E4E-7189-9516E47A219E</generatorID>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4AB88580-518A-18B5-AC1E-30F1BA466E7E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

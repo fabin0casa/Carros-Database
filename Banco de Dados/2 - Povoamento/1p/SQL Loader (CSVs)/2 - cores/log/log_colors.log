@@ -1,0 +1,52 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Sáb Out 5 08:44:35 2024
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Arquivo de Controle:   load_colors.ctl
+Arquivo de Dados:      colors.csv
+  Arquivo de Incorreções:     bad/colors.bad
+  Arquivo de Descarte:  nenhum(a) foi especificado(a)
+ 
+ (Permite todos os descartes)
+
+Número a ser carregado: ALL
+Número a ser ignorado: 0
+Erros permitidos: 50
+Array de ligação:     250 linhas, máximo de 1048576 bytes
+Continuação:    nenhum(a) foi especificado(a)
+Caminho usado:      Convencional
+
+Tabela CORES, carregada a partir de cada registro lógico.
+Opção de inserção em vigor para esta tabela: INSERT
+
+   Nome da Coluna                  Posição   Tam  Term Incl Tipo de Dados
+------------------------------ ---------- ----- ---- ---- ---------------------
+COR_ID                              FIRST     *   ,       CHARACTER            
+COR_NOME                             NEXT     *   ,       CHARACTER            
+
+Registro 1: Rejeitado - Erro na tabela CORES, coluna COR_ID.
+ORA-01722: número inválido
+
+
+Tabela CORES:
+  14 Linhas carregados com sucesso.
+  1 Linha não carregado devido a erros de dados.
+  0 Linhas não carregado porque todas as cláusulas WHEN falharam.
+  0 Linhas não carregado porque todos os campos eram nulos.
+
+
+Espaço alocado para o array de ligação:                 129000 bytes(250 linhas)
+Bytes do buffer de leitura: 1048576
+
+Total de registros lógicos ignorados:          0
+Total de registros lógicos lidos:            15
+Total de registros lógicos rejeitados:         1
+Total de registros lógicos descartados:        0
+
+A execução começou em Sáb Out 05 08:44:35 2024
+A execução foi finalizada em Sáb Out 05 08:44:36 2024
+
+O tempo decorrido foi:     00:00:00.91
+O tempo de CPU foi:         00:00:00.03

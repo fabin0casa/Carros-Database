@@ -1,0 +1,26 @@
+REM INSERTING into MARCAS
+SET DEFINE OFF;
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('29','Aston Martin');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('30','Audi');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('31','Bentley');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('32','Buick');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('33','Daewoo');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('34','FIAT');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('35','Ferrari');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('36','Fisker');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('37','Geo');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('38','HUMMER');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('39','Isuzu');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('40','Jeep');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('41','Lamborghini');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('42','Land Rover');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('43','Maserati');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('44','Mercury');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('45','Mitsubishi');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('46','Oldsmobile');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('47','Plymouth');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('48','Rolls-Royce');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('49','Saab');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('50','Scion');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('51','Tesla');
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('52','smart');

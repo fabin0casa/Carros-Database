@@ -1,0 +1,34 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Relacional" id="614DE979-0E91-3182-22D0-219E62084840" version="3.5">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:01:24 UTC</createdTime>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>614DE979-0E91-3182-22D0-219E62084840</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="ABBFF033-037E-009A-D781-67BA5AC67583">
+<designStoragePath>C:\Users\joao7\Documents\Fatec\4º Semestre\Lab BD\Entrega 1\Modelagem\DataModeler\Laboratorio de Banco de Dados car prices</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="43EAB5A0-F6A8-A271-FD09-E5277715A5B6">
+<designStoragePath>C:\Users\joao7\Documents\Fatec\4º Semestre\Lab BD\Entrega 1\Lab BD - Entrega 1 - versão 1.1\DataModeler\Modelos Lógico e Relacional</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="82EBF2E6-2BB8-CC79-B031-D571C4FAD9DE">
+<designStoragePath>C:\Users\joao7\Documents\Fatec\4º Semestre\Lab BD\Entrega 1\Compartilhado\Lab BD - Entrega 1\Modelagem\DataModeler\Modelo Relacional e Lógico</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="D4B48CA3-87B8-1D08-641A-5077C3F89F56">
+<designStoragePath>C:\Users\joao7\Documents\Fatec\4º Semestre\Lab BD\Entrega 1\Compartilhado\Lab BD - Entrega 1\Modelagem\DataModeler\TEste\Modelo Lógico e Relacional</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="274678DB-1100-CD45-5836-19538682D1B4">
+<designStoragePath>C:\Users\jvcvi\Documents\Lab BD - Entrega 1\Lab BD - Entrega 1\Modelagem\DataModeler\Modelo Lógico e Relacional</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="8D787B87-B8D4-0B3F-9A2B-2FB120047B5B">
+<designStoragePath>C:\Users\joao7\Desktop\Modelo Lógico e Relacional 2.0.1.246365</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="7B4134F0-8F81-67F4-BB27-0024A29CF811">
+<designStoragePath>C:\Users\joao7\Documents\Fatec\4º Semestre\Lab BD\Entrega 1\Compartilhado\Lab BD - Entrega 1\Modelagem\DataModeler\Modelo Relacional</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="24DAA9AC-7331-528E-E958-A313C10750BF">
+<designStoragePath>C:\Users\joao7\Documents\Fatec\4º Semestre\Lab BD\Entrega 1\Compartilhado\Lab BD - Entrega 1\Modelagem\DataModeler\Modelo Relacional</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>

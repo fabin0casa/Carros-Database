@@ -1,0 +1,162 @@
+year,make,model,trim,body,transmission,vin,state,condition,odometer,color,interior,seller,mmr,sellingprice,diaSemana,data,fuso_horario,zona
+2012,Nissan,Altima,2.5 S,Sedan,automatic,1n4al2ap9cc126546,ca,19,37887,white,black,nissan-infiniti lt,12050,19000,Monday,06-01-2014 12:30:00,GMT-0800,PST
+2007,Dodge,Charger,RT,Sedan,automatic,2b3ka53h07h761901,ca,35,1,black,black,wells fargo dealer services,12450,1200,Wednesday,08-01-2014 12:00:00,GMT-0800,PST
+2014,Ford,Escape,SE,SUV,automatic,1fmcu0gx7eua39653,ca,45,29131,gray,black,ford motor credit company,16200,16700,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2014,Ford,Escape,SE,SUV,automatic,1fmcu9g96eua24082,ca,43,26035,white,gray,ford motor credit company,18900,18600,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2014,Ford,Fusion,SE,Sedan,automatic,3fa6p0h78er301488,ca,44,23074,white,black,ford motor credit company,15400,16800,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2014,Ford,Expedition,EL King Ranch,SUV,automatic,1fmjk1j56eef17694,ca,44,21062,black,beige,ford motor credit company,33500,31300,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2014,Ford,Focus,SE,Hatchback,automatic,1fadp3k24el239723,ca,43,16579,gray,black,ford motor credit company,12600,13600,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2014,Ford,Focus,SE,Hatchback,automatic,1fadp3k2xel239712,ca,48,15277,white,black,ford motor credit company,12650,13300,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2014,Ford,Taurus,SEL,Sedan,automatic,1fahp2e8xeg163753,ca,45,16230,gray,black,ford motor credit company,17600,18200,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2013,Ford,Fiesta,Titanium,Hatchback,automatic,3fadp4fj8dm220595,ca,42,17391,gray,black,ford motor credit company llc pd,11250,12700,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2013,Ford,Fusion,SE,Sedan,automatic,3fa6p0h7xdr108516,ca,46,16158,black,black,ford motor credit company llc pd,14750,15800,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2012,Mercedes-Benz,GL-Class,GL450 4MATIC,SUV,automatic,4jgbf7be5ca783013,ca,27,55953,gray,black,the hertz corporation,28600,40750,Monday,06-01-2014 12:30:00,GMT-0800,PST
+2009,Jaguar,XF,Luxury,Sedan,automatic,sajwa05b39hr42352,ca,35,73334,black,gray,jaguar land rover north scottsdale,16750,17000,Monday,06-01-2014 12:00:00,GMT-0800,PST
+2011,Lincoln,MKT,Base,Wagon,automatic,2lmhj5at0bbj52545,sc,38,77801,black,beige,pee dee auto buyers,18000,18000,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2010,Volvo,XC60,3.2,SUV,automatic,yv4982dl2a2124581,sc,41,84002,blue,tan,pee dee auto buyers,12300,13400,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2009,Ford,Fusion,SEL,Sedan,automatic,3fahp08z09r134348,ca,19,1,black,black,ford motor credit company llc,9850,16000,Wednesday,08-01-2014 12:00:00,GMT-0800,PST
+2014,Ford,F-250 Super Duty,XL,Crew Cab,automatic,1ft7w2b66eea10763,sc,42,19808,white,gray,enterprise veh exchange/rental,28100,26500,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Ford,Focus,SE,Hatchback,automatic,1fadp3k25el302876,tn,47,20163,black,gray,avis budget group,12500,11400,Wednesday,08-01-2014 11:00:00,GMT-0800,PST
+2007,Ford,Edge,SEL,SUV,automatic,2fmdk38c97bb22002,mi,49,81458,purple,black,kevins marysville auto sales inc,9450,3700,Wednesday,08-01-2014 09:30:00,GMT-0800,PST
+2007,Toyota,Sienna,XLE 7-Passenger,Minivan,automatic,5tdzk22c87s093619,sc,33,141965,beige,beige,pee dee auto buyers,6625,8000,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2006,Ford,F-150,STX,Regular Cab,automatic,1ftrf02w96kb52203,sc,35,100359,gray,gray,faulkner auto sales,6375,8300,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2004,Ford,F-250 Super Duty,Lariat,SuperCab,automatic,1ftnx20p14ec53525,sc,44,139133,blue,gray,dab auto world & leasing,8000,10500,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2004,Ford,F-150,FX4,SuperCab,automatic,1ftpx04594kc73142,sc,27,153730,blue,gray,primeritus remarketing/jack's auto sales,6150,6000,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Nissan,Altima,2.5 S,Sedan,automatic,1n4al3ap6en337054,nc,41,45263,red,black,avis corporation,13450,13600,Monday,06-01-2014 09:15:00,GMT-0800,PST
+2014,Ram,1500,R/T,Regular Cab,automatic,3c6jr6ct7eg128667,il,2,21689,black,black,chrysler group llc,23700,23000,Wednesday,15-01-2014 11:00:00,GMT-0800,PST
+2014,Toyota,Camry,XLE,Sedan,automatic,4t1bf1fk3eu327266,sc,3,33959,gray,gray,enterprise vehicle exchange / tra / rental / tulsa,16450,14800,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Cadillac,ATS,Luxury,Sedan,automatic,1g6ab5ra5d0157989,sc,19,29538,silver,black,enterprise veh exchange/rental,19800,20300,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Chevrolet,Volt,Base,Hatchback,automatic,1g1ra6e49du122060,pa,33,24562,silver,black,ge fleet services for itself/servicer,15800,28000,Thursday,02-01-2014 09:00:00,GMT-0800,PST
+2013,Ford,Escape,SE,SUV,automatic,1fmcu0gx1dub69992,mi,48,15591,white,beige,ford motor credit company llc,16000,20800,Wednesday,08-01-2014 09:00:00,GMT-0800,PST
+2013,Ford,Edge,SE,SUV,automatic,2fmdk3gc9dbb21929,ca,45,27239,silver,black,ford motor credit company llc pd,16950,17500,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2013,Ford,Edge,SEL,SUV,automatic,2fmdk3jc3dbb11826,ca,42,31523,white,gray,ford motor credit company llc pd,20400,22900,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2013,Ford,Edge,SEL,SUV,automatic,2fmdk3jc7dbb22117,ca,45,51650,black,black,ford motor credit company llc pd,18250,19300,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2013,Ford,Escape,SE,SUV,automatic,1fmcu0gx3dub64342,ca,42,18783,gray,gray,ford motor credit company llc pd,15750,16400,Tuesday,07-01-2014 13:00:00,GMT-0800,PST
+2013,Suzuki,SX4,LE Popular Package,Sedan,automatic,js2yc5a31d6103095,pr,36,17022,gray,beige,oriental bank,7100,8500,Wednesday,08-01-2014 11:30:00,GMT-0800,PST
+2012,Ford,Edge,SEL,SUV,automatic,2fmdk3jc7cba82216,ca,19,1,silver,black,ford motor credit company llc,22800,30000,Wednesday,08-01-2014 12:00:00,GMT-0800,PST
+2012,Honda,Accord,EX,Sedan,automatic,1hgcp2f74ca015061,pa,33,31158,gray,tan,ahfc/honda lease trust/hvt  inc. eot,13800,11800,Thursday,02-01-2014 09:00:00,GMT-0800,PST
+2012,Honda,Odyssey,EX,Minivan,automatic,5fnrl5h45cb021967,pa,42,35845,silver,gray,kentland car co inc,18200,13800,Thursday,02-01-2014 09:00:00,GMT-0800,PST
+2012,Honda,Accord,LX,Sedan,automatic,1hgcp2f32ca044362,pa,38,36761,gray,black,mehdis car company,12150,11300,Thursday,02-01-2014 09:00:00,GMT-0800,PST
+2012,Honda,Odyssey,Touring,Minivan,automatic,5fnrl5h94cb010230,pa,43,35996,black,gray,ahfc/honda lease trust/hvt  inc. eot,26800,11700,Thursday,02-01-2014 09:00:00,GMT-0800,PST
+2012,Mazda,Mazda3,s Grand Touring,Sedan,automatic,jm1bl1w52c1695587,la,4,12852,red,black,jpmorgan chase bank n.a.,14450,14700,Tuesday,14-01-2014 11:00:00,GMT-0800,PST
+2014,Ford,F-150,XLT,SuperCrew,automatic,1ftfw1ef4efc09466,ga,41,40447,silver,gray,triangle rent a car,25800,26800,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2014,Ford,Focus,SE,Sedan,automatic,1fadp3f22el306975,ny,42,21542,blue,black,ford motor credit company,12100,12000,Tuesday,07-01-2014 09:20:00,GMT-0800,PST
+2014,Ford,Focus,SE,Sedan,automatic,1fadp3f29el302602,tx,41,24382,black,black,avis budget group,12000,13600,Tuesday,07-01-2014 11:00:00,GMT-0800,PST
+2013,Ford,Mustang,GT,Coupe,manual,1zvbp8cf9d5281501,pa,46,26130,blue,black,all car care,22200,18500,Thursday,02-01-2014 09:00:00,GMT-0800,PST
+2010,Acura,TSX,Base,Sedan,automatic,jh4cu4f68ac000198,sc,38,76360,gray,black,graham motor co,13300,14800,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2010,Chrysler,Town and Country,Limited Fleet,Minivan,automatic,2a4rr6dx0ar193338,sc,31,62715,white,gray,select auto sales,15850,15200,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2009,Saturn,VUE,XE,SUV,automatic,3gscl33p59s520476,ca,35,1,black,gray,wells fargo dealer services,9350,3800,Wednesday,08-01-2014 12:00:00,GMT-0800,PST
+2008,Ford,Mustang,Premium,Coupe,manual,1zvht80n785102105,tn,16,85570,red,black,wells fargo dealer services,6925,7500,Tuesday,07-01-2014 10:30:00,GMT-0800,PST
+2014,Ford,Edge,Limited,SUV,automatic,2fmdk3kc3eba54351,ga,47,13121,white,brown,avis budget group,23800,24800,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2004,Chevrolet,Tahoe,LS,SUV,automatic,1gnec13z34r167684,sc,1,282549,white,beige,georgetown kraft credit union,1050,2300,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Ford,Escape,Titanium,SUV,automatic,1fmcu0j95eua71656,ga,49,27333,red,black,avis budget group,20600,21100,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Escape,Titanium,SUV,automatic,1fmcu0j92eua39747,ga,45,31083,black,black,avis budget group,20100,20300,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2014,Ford,Escape,Titanium,SUV,automatic,1fmcu0j91eua71668,ga,48,33820,white,black,avis budget group,19700,20500,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Escape,SE,SUV,automatic,1fmcu0gx0eua47187,ga,45,35494,gray,black,avis budget group,15800,16400,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Escape,Titanium,SUV,automatic,1fmcu0j98eua71666,ga,47,19094,silver,black,avis budget group,21700,21700,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2004,Porsche,Cayenne,Turbo,SUV,automatic,wp1ac29p74la91861,ca,28,114954,blue,black,elad motors,10950,11750,Monday,06-01-2014 12:30:00,GMT-0800,PST
+2014,Ford,Explorer,Limited,SUV,automatic,1fm5k8f85egc48783,ny,44,16849,black,black,ars/enterprise,32400,33500,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,Expedition,EL King Ranch,SUV,automatic,1fmjk1h51eef42086,ga,49,24147,red,beige,ford motor credit company,29700,30400,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Expedition,Limited,SUV,automatic,1fmju2a55eef47687,ny,5,14551,black,black,ars/enterprise,37600,34200,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,Explorer,Limited,SUV,automatic,1fm5k8f83egc36907,ny,48,12571,gray,black,ars/enterprise,33200,33800,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,F-150,XLT,SuperCrew,automatic,1ftfw1ef8efb17793,ny,5,21233,white,gray,ars/enterprise,27500,27100,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,F-150,XLT,SuperCrew,automatic,1ftfw1ef3efb62656,ny,5,13594,black,tan,ars/enterprise,28500,27700,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,F-150,XLT,SuperCrew,automatic,1ftew1cm8efa78250,tx,48,14156,red,gray,ford motor credit company,23700,24300,Tuesday,07-01-2014 00:00:00,GMT-0800,PST
+2014,Ford,F-150,XLT,SuperCrew,automatic,1ftfw1ef2efb18549,ga,5,15118,silver,gray,avis budget group,28200,29100,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Focus,SE,Hatchback,automatic,1fadp3k27el283540,fl,5,16266,white,black,avis budget group,12600,14100,Tuesday,07-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Focus,SE,Sedan,automatic,1fadp3f2xel296373,ny,5,16726,silver,gray,ford motor credit company,12350,12400,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,Focus,SE,Sedan,automatic,1fadp3f26el314609,ny,5,13608,black,black,ford motor credit company,12500,13200,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,Focus,SE,Sedan,automatic,1fadp3f23el318522,ny,48,18426,white,black,ford motor credit company,12250,12300,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Ford,Focus,SE,Sedan,automatic,1fadp3f26el273219,ga,45,22744,gray,black,avis budget group,12100,12000,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Fusion,SE,Sedan,automatic,3fa6p0h90er308016,ga,48,19516,red,black,avis budget group,16750,17400,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Fusion,Titanium,Sedan,automatic,3fa6p0k94er279077,fl,47,17685,white,black,avis budget group,19850,21200,Tuesday,07-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Fusion,SE,Sedan,automatic,1fa6p0h71e5389688,ga,48,18079,red,black,avis budget group,15850,16800,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Fusion,Titanium,Sedan,automatic,3fa6p0k99er261089,ga,47,20829,white,black,avis budget group,19600,20500,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Mustang,V6,Convertible,automatic,1zvbp8em8e5322861,ga,46,17835,white,black,avis budget group,17700,19400,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Mustang,V6,Convertible,automatic,1zvbp8em7e5323113,ga,46,17738,black,gray,avis budget group,17700,18600,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Taurus,SEL,Sedan,automatic,1fahp2e83eg165408,ga,48,14035,white,tan,ford motor credit company,18100,19400,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Taurus,SEL,Sedan,automatic,1fahp2e85eg165412,ga,48,23395,silver,beige,ford motor credit company,16950,17900,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Taurus,Limited,Sedan,automatic,1fahp2f83eg163575,ga,47,14163,white,black,avis budget group,20800,21500,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Taurus,Limited,Sedan,automatic,1fahp2f80eg149620,ga,47,28127,black,beige,avis budget group,18900,19900,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Ford,Taurus,Limited,Sedan,automatic,1fahp2f82eg165415,ga,48,14339,silver,black,ford motor credit company,20800,21500,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Kia,Rio,LX,Sedan,automatic,knadm4a34e6372626,fl,38,12154,black,beige,kia motors america  inc,11150,10500,Friday,14-02-2014 09:40:00,GMT-0800,PST
+2014,Lincoln,MKZ,Base,Sedan,automatic,3ln6l2gk5er802860,ga,48,4713,silver,black,ford motor credit company,26800,29400,Sunday,12-01-2014 10:00:00,GMT-0800,PST
+2014,Toyota,Camry,SE,Sedan,automatic,4t1bf1fk4eu314607,sc,3,36029,silver,gray,enterprise vehicle exchange / tra / rental / tulsa,15600,13500,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Ford,Edge,SEL,SUV,automatic,2fmdk4jc7dba02369,ny,48,32466,gray,gray,ford motor credit company llc,22400,24500,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2013,Ford,Escape,SE,SUV,automatic,1fmcu0gx9duc41165,ga,46,23744,black,black,ford motor credit company llc pd,15400,16000,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2013,Ford,Explorer,XLT,SUV,automatic,1fm5k7d82dgb46434,ga,5,15220,white,gray,ford motor credit company llc pd,27500,29200,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2013,Ford,Escape,SE,SUV,automatic,1fmcu0g96duc26477,tx,34,36348,silver,gray,avis budget group,14500,13500,Tuesday,07-01-2014 00:00:00,GMT-0800,PST
+2013,Ford,Focus,SE,Sedan,automatic,1fadp3f20dl230154,ny,48,22693,white,black,ford motor credit company llc,11600,13500,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2013,Hyundai,Sonata,Limited,Sedan,automatic,5npec4ab4dh638023,sc,34,33069,gray,gray,palmetto health credit union,16000,16000,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Lincoln,MKX,Base,SUV,automatic,2lmdj8jk8dbl22130,ny,49,19945,gray,tan,ford motor credit company llc,28200,29400,Monday,06-01-2014 00:00:00,GMT-0800,PST
+2013,Lincoln,MKX,Base,SUV,automatic,2lmdj8jk5dbl19492,ny,5,10454,white,black,ford motor credit company llc,30200,31200,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2012,Chevrolet,Cruze,2LT,Sedan,automatic,1g1pg5sc0c7199389,sc,25,50457,white,black,the hertz corporation,9750,8900,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2012,Ford,Edge,SEL,SUV,automatic,2fmdk3jc8cba12787,ca,32,57326,gray,black,ford motor credit company llc pd,16900,16100,Wednesday,08-01-2014 12:00:00,GMT-0800,PST
+2014,Chevrolet,Captiva Sport,LTZ Fleet,SUV,automatic,3gnal4ek8es560059,sc,28,34169,black,gray,enterprise veh exchange/rental,15800,15000,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2012,Ford,Focus,SE,Hatchback,automatic,1fahp3k21cl317874,ny,5,33053,gray,black,ford motor credit company llc,10100,9700,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2012,Lincoln,MKZ,Base,Sedan,automatic,3lnhl2jc6cr811980,ny,44,29782,gray,black,ford motor credit company llc,16100,15800,Monday,06-01-2014 09:50:00,GMT-0800,PST
+2014,Chevrolet,Impala,LTZ,Sedan,automatic,2g1155s38e9118877,fl,5,12974,silver,black,gm remarketing,26300,16200,Sunday,12-01-2014 13:00:00,GMT-0800,PST
+2011,Ford,F-150,XLT,SuperCrew,automatic,1ftfw1ct3bfc43631,ga,43,80930,white,beige,ford motor credit company llc pd,17900,19000,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2011,Kia,Sedona,EX,Minivan,automatic,kndmh4c73b6387198,sc,34,54167,black,gray,select auto sales,12950,14000,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2011,MINI,Cooper,S,Hatchback,manual,wmwsv3c50bty20273,sc,44,74534,gray,black,graham motor co,10650,10700,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2002,Lexus,LS 430,Base,Sedan,automatic,jthbn30f120065991,mi,45,37949,gold,beige,tdaf remarketing/gateway auto & truck,9775,9900,Wednesday,08-01-2014 09:30:00,GMT-0800,PST
+2003,Mercedes-Benz,C-Class,C240,Sedan,automatic,wdbrf61j93e009902,nc,28,1,gold,gray,north state acceptance,5950,3600,Sunday,05-01-2014 09:30:00,GMT-0800,PST
+2014,Ford,Expedition,XLT,SUV,automatic,1fmju1j5xeef49087,il,41,10708,blue,tan,ford motor credit company,33700,33400,Monday,13-01-2014 11:00:00,GMT-0800,PST
+2015,Hyundai,Sonata,SE,Sedan,automatic,5npe24afxfh005731,ga,44,20201,red,gray,hyundai motor america,14450,15700,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2014,Toyota,Prius,Two,Hatchback,automatic,jtdkn3du7e0364982,pa,46,45753,gray,gray,enterprise veh exchange/rental,15350,15300,Thursday,02-01-2014 09:00:00,GMT-0800,PST
+2013,Dodge,Grand Caravan,SE,Minivan,automatic,2c4rdgbgxdr716334,fl,38,27709,red,gray,wells fargo dealer services,13100,13000,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2013,Ford,Escape,S,SUV,automatic,1fmcu0f78dua99019,oh,44,24094,gray,black,ford motor credit company llc,14050,14600,Monday,06-01-2014 09:00:00,GMT-0800,PST
+2013,Ford,Escape,SE,SUV,automatic,1fmcu0gx1dub21795,oh,44,17448,gray,gray,ford motor credit company llc,15850,16000,Monday,06-01-2014 09:00:00,GMT-0800,PST
+2013,Ford,Escape,S,SUV,automatic,1fmcu0f75duc02168,oh,42,24235,black,gray,ford motor credit company llc,14000,14800,Monday,06-01-2014 09:00:00,GMT-0800,PST
+2013,Ford,Escape,SEL,SUV,automatic,1fmcu0hx6duc33720,il,46,19209,silver,gray,ford motor credit company llc,18200,18600,Wednesday,08-01-2014 10:00:00,GMT-0800,PST
+2013,Ford,Escape,SEL,SUV,automatic,1fmcu0h90duc21662,oh,5,10045,black,black,ford motor credit company llc,20200,19100,Monday,06-01-2014 09:00:00,GMT-0800,PST
+2012,Ford,Explorer,XLT,SUV,automatic,1fmhk7d80cga92644,oh,42,36112,silver,black,ford motor credit company llc,22100,21000,Monday,06-01-2014 09:00:00,GMT-0800,PST
+2011,Ford,Edge,SEL,SUV,automatic,2fmdk3jc6bbb38015,oh,44,30295,white,black,ford motor credit company llc,18550,19300,Monday,06-01-2014 09:00:00,GMT-0800,PST
+2014,Chevrolet,Malibu,LT,Sedan,automatic,1g11e5slxef160832,sc,28,36385,black,gray,enterprise veh exchange/rental,14200,13300,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Chevrolet,Malibu,LT,Sedan,automatic,1g11e5sl4ef137451,sc,27,27495,black,black,enterprise veh exchange/rental,14800,13800,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Chrysler,200,LX,Sedan,automatic,1c3ccbab5en141595,sc,2,28176,burgundy,silver,enterprise vehicle exchange / tra / rental / tulsa,11500,9700,Wednesday,01-01-2014 11:00:00,GMT-0800,PST
+2008,Dodge,Charger,Base,Sedan,automatic,2b3ka43r48h231886,sc,19,154031,silver,black,south carolina state credit union,3950,3800,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Chrysler,Town and Country,Touring,Minivan,automatic,2c4rc1bg9er131861,sc,2,28905,white,tan,enterprise vehicle exchange / tra / rental / tulsa,18450,13600,Wednesday,01-01-2014 11:00:00,GMT-0800,PST
+2008,Volvo,S40,2.4i,Sedan,automatic,yv1ms390682402390,sc,18,125660,black,black,carolina trust fcu,5275,1000,Wednesday,01-01-2014 11:00:00,GMT-0800,PST
+2014,Dodge,Challenger,SXT,Coupe,automatic,2c3cdyagxeh224606,sc,2,25586,silver,black,enterprise vehicle exchange / tra / rental / tulsa,17450,15900,Wednesday,01-01-2014 11:00:00,GMT-0800,PST
+2006,Chevrolet,TrailBlazer,LS,SUV,automatic,1gnds13s962204461,sc,15,123843,gray,blue,carolina trust fcu,3850,4300,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2006,Hyundai,Azera,SE,Sedan,automatic,kmhfc46f26a137010,sc,27,130948,white,beige,automobile acceptance corp,4575,4100,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2006,Jaguar,X-Type,3.0L,Sedan,automatic,sajwa51ax6we99931,sc,25,96819,green,beige,palmetto health credit union,3750,3800,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2006,Subaru,Impreza,WRX,Sedan,manual,jf1gd79676g519412,sc,34,136037,black,black,primeritus remarketing/farm bureau,6475,6700,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2006,Volkswagen,Jetta,2.5,Sedan,automatic,3vwrf71kx6m753195,sc,28,132388,blue,beige,myrddin fleet services,3250,3000,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Ford,C-Max Hybrid,SEL,Wagon,automatic,1fadp5bu8el501790,tn,46,29385,black,black,ford motor credit company,17300,18000,Wednesday,08-01-2014 11:00:00,GMT-0800,PST
+2014,Ford,Edge,Limited,SUV,automatic,2fmdk3kcxeba46974,sc,49,15501,silver,tan,enterprise veh exchange/rental,23700,23800,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2004,Nissan,Maxima,3.5 SL,Sedan,automatic,1n4ba41e34c888244,sc,36,121581,blue,gray,south carolina state credit union,3625,3700,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2003,Honda,Accord,EX,Sedan,automatic,jhmcm56633c021002,sc,23,243643,beige,tan,motors acceptance corporation,2175,3100,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2003,Infiniti,G35,Base,Sedan,automatic,jnkcv51e03m009539,sc,2,148749,beige,beige,south carolina state credit union,3800,1200,Wednesday,01-01-2014 11:00:00,GMT-0800,PST
+2002,Ford,Focus,ZX5,Hatchback,automatic,3fafp37302r134491,sc,21,109475,white,gray,jd byrider/cnac,1950,1800,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2001,BMW,M3,Base,Coupe,manual,wbsbl934x1jr10150,nc,36,110326,blue,gray,crossroads ford inc,10850,15000,Sunday,05-01-2014 09:00:00,GMT-0800,PST
+2015,Hyundai,Sonata,SE,Sedan,automatic,5npe24af8fh005775,ga,45,18128,white,gray,hyundai motor america,14650,15700,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2015,Hyundai,Sonata,SE,Sedan,automatic,5npe24af8fh005761,ga,49,20444,white,gray,hyundai motor america,14450,15600,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2015,Hyundai,Sonata,SE,Sedan,automatic,5npe24af4fh005529,ga,46,22807,white,gray,hyundai motor america,14200,15600,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2015,Kia,Sorento,LX,SUV,automatic,5xykt3a68fg566463,sc,5,16013,off-white,black,enterprise veh exchange/rental,18950,18500,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2014,Volkswagen,Passat,Wolfsburg Edition PZEV,Sedan,automatic,1vwat7a32ec058742,sc,2,21680,burgundy,black,enterprise vehicle exchange / tra / rental / tulsa,13650,11500,Wednesday,01-01-2014 11:00:00,GMT-0800,PST
+2013,Chevrolet,Captiva Sport,LTZ Fleet,SUV,automatic,3gnal4ek7ds642265,sc,48,30999,white,gray,enterprise veh exchange/rental,14200,15200,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Chevrolet,Cruze,1LT,Sedan,automatic,1g1pc5sbxd7101635,sc,41,55209,white,black,the hertz corporation,9900,9500,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Ford,Escape,SE,SUV,automatic,1fmcu0g97dub27764,tn,48,17909,black,black,ford motor credit company llc,15900,17900,Wednesday,08-01-2014 11:00:00,GMT-0800,PST
+2013,Ford,Mustang,V6,Convertible,automatic,1zvbp8em2d5239487,sc,36,60259,white,black,dtg operations inc,11600,13300,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Hyundai,Accent,GLS,Sedan,automatic,kmhct4ae2du394620,sc,37,37929,silver,gray,enterprise veh exchange/rental,9700,9000,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2013,Hyundai,Accent,SE,Hatchback,automatic,kmhcu5ae6du070606,ga,37,40320,gray,gray,hyundai motor america/co car,9250,9900,Monday,06-01-2014 09:30:00,GMT-0800,PST
+2013,Infiniti,JX,JX35,SUV,automatic,5n1al0mm7dc324331,sc,39,37290,silver,black,myrddin fleet services,31500,32500,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2012,Hyundai,Sonata,GLS,Sedan,automatic,5npeb4ac1ch385446,tn,37,33890,white,tan,hyundai motor finance,11550,24700,Tuesday,07-01-2014 10:30:00,GMT-0800,PST
+2012,Nissan,Altima,2.5 S,Sedan,automatic,1n4al2ap4cn471701,sc,19,84325,blue,black,south carolina state credit union,8600,7300,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2010,Honda,Accord,EX,Sedan,manual,1hgcp2e71aa087012,pa,19,43808,black,black,alans autos,11900,6700,Thursday,02-01-2014 08:29:00,GMT-0800,PST
+2007,Cadillac,DTS,Base,Sedan,automatic,1g6kd57y07u127195,sc,34,106426,beige,tan,blackmons automotive llc,6250,7100,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2007,Pontiac,G6,GT,Convertible,automatic,1g2zh361474271474,nc,19,92501,blue,tan,nextgear capital,6575,5000,Monday,06-01-2014 09:15:00,GMT-0800,PST
+2006,Chevrolet,Avalanche,1500 LS,Crew Cab,automatic,3gnec12z96g177687,sc,21,99247,black,gray,pra receivables management llc,7500,6800,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2006,Chrysler,300,C,Sedan,automatic,2c3la63h46h291271,sc,3,94901,silver,gray,bethpage fcu,7275,6300,Wednesday,01-01-2014 09:15:00,GMT-0800,PST
+2003,Chevrolet,Express,3500,Van,automatic,1gahg39u831209550,pa,2,92801,blue,gray,enterprise fleet management exchange  inc.,4850,4000,Thursday,02-01-2014 08:29:00,GMT-0800,PST
+2002,Dodge,Dakota,Sport,Quad Cab,automatic,1b7hg38n22s563090,nc,19,140271,blue,gray,nextgear capital,2725,1500,Monday,06-01-2014 09:15:00,GMT-0800,PST
+2002,Ford,Ranger,XL,SuperCab,automatic,1ftyr44u52pa51307,nc,35,161918,black,gray,nextgear capital,1800,2500,Monday,06-01-2014 09:15:00,GMT-0800,PST
+2001,Pontiac,Grand Am,SE1,Coupe,automatic,1g2nf12e51m638746,nc,19,181871,burgundy,gray,nextgear capital,750,600,Monday,06-01-2014 09:15:00,GMT-0800,PST
+2001,Toyota,Camry,LE,Sedan,automatic,4t1bf22k81u960254,nc,19,185721,green,tan,nextgear capital,1800,1500,Monday,06-01-2014 09:15:00,GMT-0800,PST
+2014,Toyota,Corolla,LE,Sedan,automatic,5yfburhe5ep050360,pa,2,23713,green,gray,enterprise-tra,13350,11200,Thursday,02-01-2014 08:29:00,GMT-0800,PST
+2013,Ford,Escape,SEL,SUV,automatic,1fmcu0hxxduc53758,il,46,12924,blue,black,ford motor credit company llc,18950,18300,Monday,13-01-2014 11:00:00,GMT-0800,PST
+2013,Hyundai,Sonata,GLS,Sedan,automatic,5npeb4ac3dh742854,sc,5,7529,white,beige,pee dee auto buyers,14350,14800,Wednesday,01-01-2014 10:00:00,GMT-0800,PST
+2011,BMW,3 Series,335i,Sedan,automatic,wbapm5c52be576103,fl,49,37377,white,beige,financial services remarketing (lease),25000,25025,Monday,13-01-2014 12:00:00,GMT-0800,PST
+2012,GMC,Acadia,SLT-1,SUV,automatic,1gkkrred5cj311506,ca,5,69223,white,gray,premium auto wholesale,18100,19500,Wednesday,08-01-2014 12:00:00,GMT-0800,PST

@@ -1,0 +1,4990 @@
+mod_id,mod_mrc_id,model,trim,body,mod_trm_id
+1,1,Sorento,LX,SUV,1
+2,2,3 Series,328i SULEV,Sedan,1
+3,3,S60,T5,Sedan,1
+4,2,6 Series Gran Coupe,650i,Sedan,1
+5,4,Altima,2.5 S,Sedan,1
+6,2,M5,Base,Sedan,1
+7,5,Cruze,1LT,Sedan,1
+8,6,A4,2.0T Premium Plus quattro,Sedan,1
+9,5,Camaro,LT,Convertible,1
+10,6,A6,3.0T Prestige quattro,Sedan,1
+11,1,Optima,LX,Sedan,1
+12,7,Fusion,SE,Sedan,1
+13,6,Q5,2.0T Premium Plus quattro,SUV,1
+14,5,Camaro,LS,Coupe,1
+15,2,6 Series,650i,Convertible,1
+16,2,5 Series,528i,Sedan,1
+17,6,A3,1.8 TFSI Premium,Sedan,1
+18,3,XC70,T6,Wagon,1
+19,5,Camaro,LT,Coupe,1
+20,6,SQ5,3.0T Premium Plus quattro,SUV,1
+21,6,S5,Premium Plus quattro,Coupe,1
+22,5,Suburban,LTZ,SUV,1
+23,8,ELR,Base,Coupe,1
+24,3,V60,T5,Wagon,1
+25,2,X6,xDrive35i,SUV,1
+26,5,Cruze,2LT,Sedan,1
+27,9,ILX,Technology Package,Sedan,1
+28,1,K900,Luxury,Sedan,1
+29,5,Malibu,LT,Sedan,1
+30,10,RX 350,Base,SUV,1
+31,4,Versa,1.6 SL,Sedan,2
+32,11,Elantra,SE,Sedan,1
+33,4,Versa Note,1.6 SV,Hatchback,1
+34,6,A8,L 3.0T quattro,Sedan,1
+35,2,X1,sDrive28i,SUV,1
+36,12,Enclave,Leather Group,SUV,1
+37,6,TTS,quattro,Coupe,1
+38,2,4 Series,428i SULEV,Coupe,1
+39,9,MDX,Advance and Entertainment Packages,SUV,1
+40,5,Silverado 1500,LT,Crew Cab,1
+41,5,Camaro,LS,Coupe,2
+42,2,5 Series,535d,Sedan,1
+43,8,SRX,Luxury,SUV,1
+44,2,X5,xDrive35i,SUV,1
+45,9,ILX,Base,Sedan,1
+46,13,G Coupe,G37 Sport,G Coupe,1
+47,13,G Sedan,G37 Journey,G Sedan,1
+48,13,FX,FX37,SUV,1
+49,11,Santa Fe,Limited,SUV,1
+50,11,Genesis,5.0 R-Spec,Sedan,1
+51,11,Equus,Signature,Sedan,1
+52,11,Elantra,GLS,Sedan,1
+53,11,Sonata,GLS,Sedan,1
+54,11,Elantra,GLS,Sedan,2
+55,11,Sonata Hybrid,Limited,Sedan,1
+56,11,Santa Fe,Sport,SUV,1
+57,11,Sonata,Limited,Sedan,1
+58,11,Elantra,Limited,Sedan,1
+59,11,Santa Fe,Sport 2.0T,SUV,1
+60,11,Accent,GLS,Sedan,1
+61,11,Veloster,Turbo,Hatchback,1
+62,11,Elantra Coupe,SE,Elantra Coupe,1
+63,11,Accent,GS,Hatchback,1
+64,11,Azera,Base,Sedan,1
+65,11,Sonata Hybrid,Base,Sedan,1
+66,11,Tucson,GLS,SUV,1
+67,11,Equus,Ultimate,Sedan,1
+68,11,Accent,SE,Hatchback,1
+69,11,Genesis,3.8,Sedan,1
+70,11,Elantra Coupe,GS,Elantra Coupe,1
+71,11,Veloster,Base,Hatchback,1
+72,11,Genesis Coupe,3.8 Track,Genesis Coupe,1
+73,11,Accent,GS,Hatchback,2
+74,11,Tucson,Limited,SUV,1
+75,11,Sonata,SE,Sedan,1
+76,14,Wrangler,Unlimited Rubicon,SUV,2
+77,1,Optima,EX Hybrid,Sedan,1
+78,4,Altima,2.5,Sedan,1
+79,15,S-Class,S550,Sedan,1
+80,10,GS 350,Base,Sedan,1
+81,16,Outlander,SE,SUV,1
+82,1,Optima,SX,Sedan,1
+83,14,Wrangler,Unlimited Sahara,SUV,1
+84,17,Mazda2,Sport,Hatchback,1
+85,1,Rio,LX,Sedan,1
+86,15,C-Class,C250 Sport,Sedan,1
+87,17,Mazda2,Touring,Hatchback,1
+88,4,370Z,Base,Convertible,1
+89,1,Soul,Base,Wagon,2
+90,16,Outlander Sport,LE,SUV,1
+91,10,ES 350,Base,Sedan,1
+92,15,E-Class,E350 Sport,Sedan,1
+93,17,Mazda3,i SV,Sedan,1
+94,18,Cooper Clubman,Base,Hatchback,1
+95,17,CX-9,Touring,SUV,1
+96,4,Altima,2.5 S,Coupe,1
+97,1,Forte,LX,Sedan,1
+98,1,Sorento,SX,SUV,1
+99,14,Compass,Latitude,SUV,1
+100,4,370Z,Base,Coupe,1
+101,17,Mazda3,i Touring,Sedan,1
+102,13,JX,JX35,SUV,1
+103,13,G Sedan,G37x,G Sedan,1
+104,1,Rio,SX,Hatchback,2
+105,19,LR4,HSE LUX,SUV,1
+106,1,Optima,EX,Sedan,1
+107,17,Mazda5,Touring,Minivan,1
+108,1,Rio,LX,Hatchback,1
+109,17,Mazda3,i Sport,Sedan,1
+110,13,G Coupe,G37x,G Coupe,1
+111,13,M,M37,Sedan,1
+112,1,Forte,EX,Sedan,1
+113,18,Cooper,Base,Hatchback,1
+114,17,Mazda5,Sport,Minivan,1
+115,19,Range Rover Evoque,Pure Plus,SUV,1
+116,1,Rio,LX,Sedan,2
+117,13,G Sedan,G37 Journey,G Sedan,2
+118,15,C-Class,C250,Coupe,1
+119,10,LS 460,L,Sedan,1
+120,15,GLK-Class,GLK350,SUV,1
+121,14,Wrangler,Unlimited Sport,SUV,1
+122,1,Sportage,LX,SUV,1
+123,14,Grand Cherokee,Limited,SUV,1
+124,20,MKX,Base,SUV,1
+125,21,XF,Base,Sedan,1
+126,15,GL-Class,GL450 4MATIC,SUV,1
+127,1,Rio,EX,Hatchback,1
+128,15,M-Class,ML350,SUV,1
+129,18,Cooper Countryman,Base,Wagon,1
+130,1,Sorento,EX,SUV,1
+131,19,Range Rover Evoque,Pure Premium,SUV,1
+132,16,Lancer,Ralliart,Sedan,1
+133,13,G Coupe,G37 Sport,G Coupe,2
+134,19,Range Rover Sport,Supercharged Limited Edition,SUV,1
+135,15,E-Class,E350,Coupe,1
+136,16,Lancer,ES,Sedan,1
+137,22,Passat,SE PZEV,Sedan,1
+138,23,Corolla,LE,Sedan,1
+139,3,XC60,3.2,SUV,1
+140,23,Sienna,LE 7-Passenger Mobility Auto Access,Minivan,1
+141,4,Juke,S,Hatchback,1
+142,23,Yaris,L,Hatchback,1
+143,4,NV,1500 S,Van,1
+144,23,Corolla,S,Sedan,1
+145,22,CC,R-Line PZEV,Sedan,1
+146,23,Camry,LE,Sedan,1
+147,23,Camry,XLE,Sedan,1
+148,23,Tacoma,PreRunner,Double Cab,1
+149,22,Jetta,SE PZEV,Sedan,1
+150,24,Impreza WRX,Base,Sedan,2
+151,4,Altima,3.5 SL,Sedan,1
+152,23,FJ Cruiser,Base,SUV,1
+153,22,Beetle,2.5L PZEV,Hatchback,1
+154,23,Avalon,XLE,Sedan,1
+155,25,FR-S,Base,Coupe,1
+156,4,NV200,S,Minivan,1
+157,22,Passat,Wolfsburg Edition PZEV,Sedan,1
+158,4,Rogue,S,SUV,1
+159,22,Jetta,TDI,Sedan,1
+160,4,Maxima,3.5 SV,Sedan,1
+161,26,Cayenne,Base,SUV,1
+162,26,911,Carrera S,Convertible,1
+163,4,Xterra,S,SUV,1
+164,4,Versa,1.6 S Plus,Sedan,1
+165,4,Sentra,SR,Sedan,1
+166,23,Prius,Two,Hatchback,1
+167,3,S80,3.2,Sedan,1
+168,4,Frontier,SV,Crew Cab,1
+169,26,Boxster,S,Convertible,1
+170,23,Camry Hybrid,XLE,Sedan,1
+171,4,Sentra,SV,Sedan,1
+172,25,xB,Base,Wagon,1
+173,4,Cube,1.8 SL,Wagon,1
+174,22,Jetta SportWagen,S PZEV,Wagon,1
+175,4,Sentra,FE+ S,Sedan,1
+176,4,Rogue,SV,SUV,1
+177,23,4Runner,Limited,SUV,1
+178,23,Sequoia,SR5,SUV,1
+179,24,Legacy,2.5i Premium PZEV,Sedan,1
+180,4,Leaf,S,Hatchback,1
+181,4,Armada,SV,SUV,1
+182,23,Venza,LE,Wagon,1
+183,23,Tacoma,PreRunner V6,Double Cab,1
+184,26,Cayenne,S Hybrid,SUV,1
+185,4,Pathfinder,SV,SUV,1
+186,26,Panamera,Base,Sedan,1
+187,23,Corolla,S Special Edition,Sedan,1
+188,4,Frontier,S,King Cab,1
+189,4,Sentra,S,Sedan,1
+190,23,Highlander,Limited,SUV,1
+191,23,Avalon,Limited,Sedan,1
+192,23,Tacoma,V6,Double Cab,1
+193,24,Impreza WRX,STI,Sedan,2
+194,4,Maxima,3.5 S,Sedan,1
+195,4,Versa,1.6 S Plus,Sedan,2
+196,23,Camry,SE,Sedan,1
+197,25,FR-S,Base,Coupe,2
+198,4,Sentra,FE+ SV,Sedan,1
+199,22,Passat,TDI SE,Sedan,1
+200,4,Murano,SV,SUV,1
+201,26,Boxster,Base,Convertible,1
+202,23,Camry Hybrid,LE,Sedan,1
+203,23,Yaris,LE,Hatchback,1
+204,23,Corolla,L,Sedan,1
+205,4,Murano,S,SUV,1
+206,4,Murano,SL,SUV,1
+207,23,Camry,L,Sedan,1
+208,9,TSX,Base,Sedan,1
+209,2,6 Series,650i,Coupe,1
+210,2,7 Series,740i,Sedan,1
+211,2,3 Series,335is,Convertible,1
+212,2,3 Series,328i,Convertible,1
+213,2,6 Series,640i,Coupe,1
+214,9,TL,Base,Sedan,1
+215,2,5 Series,535i,Sedan,1
+216,2,7 Series,740Li,Sedan,1
+217,2,5 Series,528i xDrive,Sedan,1
+218,6,S4,Premium Plus quattro,Sedan,1
+219,6,A7,Premium quattro,Sedan,1
+220,2,3 Series,335i,Coupe,1
+221,2,6 Series,640i,Convertible,1
+222,2,3 Series,328i,Sedan,1
+223,6,A5,2.0T Premium quattro,Coupe,1
+224,2,1 Series,128i,Convertible,1
+225,9,TSX,Special Edition,Sedan,1
+226,2,1 Series,128i,Coupe,2
+227,2,M3,Base,Convertible,1
+228,2,5 Series,550i,Sedan,1
+229,2,3 Series,328i,Coupe,1
+230,2,6 Series,650i xDrive,Convertible,1
+231,18,Cooper Coupe,S,Hatchback,2
+232,2,3 Series,335i,Coupe,2
+233,9,TL,Technology Package,Sedan,1
+234,9,RDX,Technology Package,SUV,1
+235,9,ZDX,Technology Package,Hatchback,1
+236,6,A4,2.0T Premium quattro,Sedan,1
+237,6,A6,3.0T Premium quattro,Sedan,1
+238,6,R8,4.2 quattro,Coupe,1
+239,9,MDX,Technology Package,SUV,1
+240,2,X3,xDrive28i,SUV,1
+241,6,Q5,3.2 Premium Plus quattro,SUV,1
+242,9,MDX,Technology and Entertainment Packages,SUV,1
+243,2,5 Series,535i xDrive,Sedan,1
+244,9,MDX,Base,SUV,1
+245,27,Avenger,SE,Sedan,1
+246,7,Escape,Limited,SUV,1
+247,7,Edge,SEL,SUV,1
+248,2,X5,xDrive35i Premium,SUV,1
+249,8,SRX,Base,SUV,1
+250,7,Focus,Titanium,Hatchback,1
+251,2,Z4,sDrive28i,Convertible,1
+252,2,X5,xDrive35d,SUV,1
+253,5,Cruze,LT Fleet,Sedan,1
+254,5,Traverse,LS,SUV,1
+255,5,Malibu,LS Fleet,Sedan,1
+256,7,Focus,SE,Sedan,1
+257,7,F-350 Super Duty,Lariat,Crew Cab,1
+258,7,Fiesta,SES,Hatchback,1
+259,28,500,Sport,Hatchback,2
+260,29,200,LX,Sedan,1
+261,7,Focus,SEL,Hatchback,1
+262,7,Fiesta,SE,Hatchback,2
+263,7,Escape,XLS,SUV,1
+264,27,Journey,SXT,SUV,1
+265,7,Edge,SE,SUV,1
+266,7,Focus,SEL,Sedan,1
+267,27,Charger,SRT8,Sedan,1
+268,7,Flex,SE,Wagon,1
+269,7,Flex,Limited,Wagon,1
+270,2,X5,xDrive50i,SUV,1
+271,5,Cruze,LS,Sedan,2
+272,5,Equinox,LT,SUV,1
+273,29,300,S V6,Sedan,1
+274,7,Explorer,Base,SUV,1
+275,28,500,C Pop,Convertible,2
+276,5,Captiva Sport,LTZ Fleet,SUV,1
+277,5,Impala,LT Fleet,Sedan,1
+278,5,Silverado 2500HD,Work Truck,Crew Cab,1
+279,8,Escalade,Luxury,SUV,1
+280,27,Grand Caravan,American Value Package,Minivan,1
+281,27,Grand Caravan,SXT,Minivan,1
+282,7,Edge,Limited,SUV,1
+283,2,X6,xDrive50i,SUV,1
+284,7,Focus,SE,Hatchback,1
+285,7,Fiesta,S,Sedan,1
+286,8,CTS Coupe,Premium,CTS Coupe,1
+287,5,Cruze,LS,Sedan,1
+288,7,F-150,FX2,SuperCrew,1
+289,8,Escalade,Premium,SUV,1
+290,7,E-Series Van,E-150,E-Series Van,1
+291,5,Volt,Base,Hatchback,1
+292,7,Fusion,Hybrid,Sedan,1
+293,5,Silverado 1500,Work Truck,Extended Cab,1
+294,2,X3,xDrive35i,SUV,1
+295,7,E-Series Wagon,E-350 Super Duty XL,Van,1
+296,7,Escape,XLT,SUV,1
+297,5,Express Cargo,1500,Van,1
+298,5,Cruze,Eco,Sedan,2
+299,2,X5 M,Base,SUV,1
+300,7,F-150,XLT,SuperCrew,1
+301,5,Captiva Sport,2LS Fleet,SUV,1
+302,7,Fusion,SEL,Sedan,1
+303,7,Edge,Sport,SUV,1
+304,27,Charger,SXT,Sedan,1
+305,5,Captiva Sport,1LT Fleet,SUV,1
+306,7,F-150,Lariat,SuperCab,1
+307,7,Expedition,Limited,SUV,1
+308,7,Explorer,XLT,SUV,1
+309,7,Focus,Titanium,Sedan,1
+310,7,Focus,S,Sedan,2
+311,5,Colorado,Work Truck,Extended Cab,1
+312,5,Express,LS 3500,Van,1
+313,5,Equinox,LS,SUV,1
+314,7,Explorer,Limited,SUV,1
+315,30,California,Base,Convertible,1
+316,8,Escalade ESV,Platinum Edition,SUV,1
+317,7,Fiesta,SE,Sedan,1
+318,5,Silverado 1500,LT,Extended Cab,1
+319,5,Sonic,LT,Sedan,1
+320,5,Impala,LTZ,Sedan,1
+321,5,Impala,LS Fleet,Sedan,1
+322,31,Accord,SE,Sedan,1
+323,31,CR-V,EX,SUV,1
+324,31,Accord,LX,Sedan,1
+325,13,G Sedan,G25,G Sedan,1
+326,7,Mustang,V6,Coupe,1
+327,31,Accord,LX-P,Sedan,1
+328,7,Mustang,V6,Convertible,1
+329,31,Civic,LX,Sedan,1
+330,31,Fit,Sport,Hatchback,2
+331,31,Pilot,LX,SUV,1
+332,31,Odyssey,LX,Minivan,1
+333,31,Civic,EX,Sedan,1
+334,31,Accord,LX-S,Coupe,1
+335,11,Genesis,4.6,Sedan,1
+336,31,Accord,EX V-6,Sedan,1
+337,31,Pilot,EX-L,SUV,1
+338,31,Accord,EX-L V-6,Coupe,1
+339,31,Odyssey,EX,Minivan,1
+340,31,Civic,EX,Coupe,1
+341,31,Accord,EX,Sedan,1
+342,31,Pilot,Touring,SUV,1
+343,7,Mustang,GT,Coupe,2
+344,31,CR-V,EX-L,SUV,1
+345,31,Pilot,EX,SUV,1
+346,31,Civic,LX,Coupe,1
+347,31,Crosstour,EX-L,Hatchback,1
+348,32,Terrain,SLE-2,SUV,1
+349,7,Fusion,S,Sedan,1
+350,31,Accord,EX-L,Sedan,1
+351,31,Odyssey,EX-L,Minivan,1
+352,7,Taurus,SEL,Sedan,1
+353,7,Taurus,SE,Sedan,1
+354,13,G Convertible,G37,G Convertible,1
+355,31,Civic,EX-L,Sedan,1
+356,31,Accord,EX-L V-6,Sedan,1
+357,13,FX,FX35,SUV,1
+358,32,Yukon,Denali,SUV,1
+359,13,G Coupe,G37,G Coupe,1
+360,11,Veracruz,Limited,SUV,1
+361,31,Odyssey,Touring,Minivan,1
+362,31,Civic,HF,Sedan,1
+363,21,XJ,Base,Sedan,1
+364,15,E-Class,E350 Luxury,Sedan,1
+365,14,Liberty,Sport,SUV,1
+366,10,IS 250,Base,Sedan,1
+367,21,XK,XKR,Convertible,1
+368,13,QX,QX56,SUV,1
+369,10,CT 200h,Premium,Hatchback,1
+370,17,Mazda6,i Touring,Sedan,1
+371,20,MKZ,Base,Sedan,1
+372,18,Cooper Clubman,S,Hatchback,2
+373,20,Navigator,Base,SUV,1
+374,21,XJ,XJL Supercharged,Sedan,1
+375,1,Forte,SX,Hatchback,1
+376,1,Sportage,EX,SUV,1
+377,17,Mazda6,i Grand Touring,Sedan,1
+378,14,Grand Cherokee,Laredo,SUV,1
+379,18,Cooper,Base,Hatchback,2
+380,13,M,M35h,Sedan,1
+381,21,XK,Base,Coupe,1
+382,15,E-Class,E350,Convertible,1
+383,21,XF,Portfolio,Sedan,1
+384,1,Forte,SX,Sedan,1
+385,19,Range Rover,HSE,SUV,1
+386,1,Forte,Koup EX,Koup,1
+387,15,SL-Class,SL550,Convertible,1
+388,17,Mazda6,i Sport,Sedan,1
+389,18,Cooper,Base,Convertible,1
+390,1,Soul,Base,Wagon,1
+391,17,Mazda3,s Touring,Hatchback,1
+392,21,XJ,Supercharged,Sedan,1
+393,1,Sedona,LX,Minivan,1
+394,19,Range Rover Sport,HSE,SUV,1
+395,17,Mazda3,i Touring,Hatchback,1
+396,1,Optima,Hybrid,Sedan,1
+397,17,Mazda3,i Touring,Sedan,2
+398,18,Cooper Coupe,Base,Hatchback,1
+399,13,G Coupe,G37,G Coupe,2
+400,13,M,M37x,Sedan,1
+401,10,IS 350,Base,Sedan,1
+402,14,Patriot,Sport,SUV,1
+403,4,Sentra,2,Sedan,1
+404,33,1500,ST,Regular Cab,1
+405,23,Avalon,Base,Sedan,1
+406,4,Versa,1.8 S,Hatchback,1
+407,4,NV,3500 S,Van,1
+408,24,Impreza,WRX,Hatchback,2
+409,4,GT-R,Black Edition,Coupe,1
+410,4,Leaf,SL,Hatchback,1
+411,15,M-Class,ML350 4MATIC,SUV,1
+412,4,Armada,SL,SUV,1
+413,26,Panamera,S Hybrid,Sedan,1
+414,24,Forester,2.5X Touring PZEV,SUV,1
+415,33,1500,SLT,Quad Cab,1
+416,25,tC,Base,Hatchback,1
+417,15,S-Class,S350 BlueTEC 4MATIC,Sedan,1
+418,26,911,Carrera S (Midyear Redesign),Coupe,1
+419,26,Panamera,4,Sedan,1
+420,16,Galant,ES,Sedan,1
+421,15,E-Class,E350 Luxury 4MATIC,Sedan,1
+422,15,M-Class,ML350 BlueTEC,SUV,1
+423,16,Outlander Sport,SE,SUV,1
+424,24,Impreza,WRX,Sedan,2
+425,24,Legacy,2.5i Premium,Sedan,1
+426,4,Versa,1.6 S,Sedan,1
+427,34,fortwo,passion coupe,Hatchback,1
+428,2,3 Series,335i,Convertible,1
+429,6,A4,2.0T Premium,Sedan,1
+430,22,GLI,Autobahn PZEV,Sedan,1
+431,2,3 Series,335i,Sedan,1
+432,23,Prius,Three,Hatchback,1
+433,2,5 Series Gran Turismo,535i xDrive,Hatchback,1
+434,3,XC90,3.2,SUV,1
+435,9,RDX,SH-AWD,SUV,1
+436,23,Highlander,Base,SUV,1
+437,22,Tiguan,S,SUV,1
+438,2,3 Series,328i xDrive,Sedan,1
+439,22,GTI,PZEV,Hatchback,1
+440,3,S60,T6,Sedan,1
+441,2,M3,Base,Sedan,1
+442,23,Tundra,Tundra,CrewMax Cab,1
+443,22,CC,Sport PZEV,Sedan,1
+444,2,3 Series,328i,Wagon,1
+445,22,Beetle,2.0T White Turbo Launch Edition PZEV,Hatchback,1
+446,6,S5,3.0T Premium Plus quattro,Convertible,1
+447,23,Highlander Hybrid,Limited,SUV,1
+448,6,Q5,2.0T Premium quattro,SUV,1
+449,22,CC,Lux Limited PZEV,Sedan,1
+450,2,3 Series,335d,Sedan,1
+451,23,Sienna,Base 7-Passenger,Minivan,1
+452,2,3 Series,335i xDrive,Sedan,1
+453,23,RAV4,Sport,SUV,1
+454,2,3 Series,328i,Coupe,2
+455,23,Tundra,Tundra,Double Cab,1
+456,3,XC70,3.2,Wagon,1
+457,23,Prius Plug-in,Base,Hatchback,1
+458,27,Charger,Base,Sedan,1
+459,29,200,Limited,Sedan,1
+460,5,Equinox,LT1,SUV,1
+461,5,Silverado 1500,LS,Extended Cab,1
+462,31,CR-Z,Base,Hatchback,2
+463,29,300,C,Sedan,1
+464,5,Malibu,LT1,Sedan,1
+465,27,Grand Caravan,Express,Minivan,1
+466,7,F-150,FX4,SuperCab,1
+467,13,EX,EX35,SUV,1
+468,5,Suburban,LTZ 1500,SUV,1
+469,5,Traverse,LT1,SUV,1
+470,32,Sierra 1500,SLE,Extended Cab,1
+471,7,Transit Connect,Cargo Van XLT,Minivan,1
+472,12,LaCrosse,CXL,Sedan,1
+473,5,HHR,LS,Wagon,1
+474,7,F-150,STX,Regular Cab,1
+475,31,Accord Crosstour,EX-L,Hatchback,1
+476,5,Silverado 2500HD,LTZ,Crew Cab,1
+477,12,LaCrosse,CXS,Sedan,1
+478,31,CR-V,LX,SUV,1
+479,8,CTS,Base,Sedan,1
+480,7,F-150,XL,SuperCab,1
+481,31,Fit,Sport,Hatchback,1
+482,27,Nitro,SE Fleet,SUV,1
+483,8,Escalade ESV,Premium,SUV,1
+484,5,Tahoe,LT,SUV,1
+485,27,Challenger,Base,Coupe,1
+486,8,CTS-V,Base,Sedan,1
+487,7,F-150,Lariat,SuperCrew,1
+488,7,Flex,SEL,Wagon,1
+489,5,Malibu,LS,Sedan,1
+490,7,F-150,FX2,SuperCab,1
+491,12,LaCrosse,CX,Sedan,1
+492,11,Elantra,GLS PZEV,Sedan,1
+493,7,Fusion,SPORT,Sedan,1
+494,7,Escape Hybrid,Base,SUV,1
+495,31,Civic,LX-S,Sedan,1
+496,29,300,Base,Sedan,1
+497,11,Santa Fe,GLS,SUV,1
+498,5,Traverse,LT2,SUV,1
+499,2,X6 M,Base,SUV,1
+500,7,Ranger,XL,Regular Cab,1
+501,5,Express Cargo,2500,Van,1
+502,7,E-Series Van,E-250,E-Series Van,1
+503,31,Insight,EX,Hatchback,1
+504,11,Santa Fe,SE,SUV,1
+505,7,Fusion Hybrid,Base,Sedan,1
+506,7,F-150,XLT,SuperCab,1
+507,8,CTS-V Coupe,Base,CTS-V Coupe,1
+508,7,F-250 Super Duty,XL,Crew Cab,1
+509,29,Town and Country,Touring,Minivan,1
+510,32,Acadia,SLE,SUV,1
+511,5,HHR,LT,Wagon,1
+512,27,Nitro,Heat,SUV,1
+513,5,Camaro,2LT,Coupe,1
+514,5,Equinox,LTZ,SUV,1
+515,31,Accord,EX,Coupe,2
+516,5,Camaro,2LT,Convertible,1
+517,32,Terrain,SLE-1,SUV,1
+518,31,Civic,Si,Coupe,2
+519,7,Fiesta,SEL,Sedan,1
+520,29,200,Touring,Sedan,1
+521,29,Town and Country,Touring-L,Minivan,1
+522,5,Impala,LT,Sedan,1
+523,5,Impala Limited,LT Fleet,Sedan,1
+524,27,Charger,SE,Sedan,1
+525,27,Grand Caravan,R/T,Minivan,1
+526,27,Dart,Aero,Sedan,2
+527,5,Malibu,LTZ,Sedan,1
+528,29,300,SRT8,Sedan,1
+529,5,Cruze,LTZ,Sedan,1
+530,27,Challenger,SXT,Coupe,1
+531,5,Sonic,LTZ,Sedan,1
+532,5,Traverse,LT,SUV,1
+533,21,XF,Supercharged,Sedan,1
+534,21,XF,Premium,Sedan,1
+535,17,Mazda3,s Sport,Hatchback,1
+536,21,XK,Base,Convertible,1
+537,19,Range Rover,Supercharged,SUV,1
+538,13,G Sedan,G25x,G Sedan,1
+539,13,M37,Base,Sedan,1
+540,15,GL-Class,GL550 4MATIC,SUV,1
+541,15,Sprinter,2500 144 WB Passenger,Van,1
+542,13,G Coupe,IPL,G Coupe,1
+543,15,S-Class,S400 Hybrid,Sedan,1
+544,15,E-Class,E350,Sedan,1
+545,20,Town Car,Signature Limited,Sedan,1
+546,10,LS 460,Base,Sedan,1
+547,21,XJ,XJL,Sedan,1
+548,1,Sorento,Base,SUV,1
+549,15,C-Class,C350 Sport,Sedan,1
+550,15,E-Class,E350 BlueTEC,Sedan,1
+551,18,Cooper Clubman,Base,Hatchback,2
+552,14,Compass,Base,SUV,1
+553,21,XK,XKR,Coupe,1
+554,19,Range Rover Sport,Supercharged,SUV,1
+555,17,Mazda3,s Sport,Sedan,1
+556,15,C-Class,C300 Sport,Sedan,1
+557,14,Wrangler,Unlimited Rubicon,SUV,1
+558,15,E-Class,E350 4MATIC,Wagon,1
+559,17,Mazda3,s Grand Touring,Hatchback,1
+560,10,RX 450h,Base,SUV,1
+561,20,MKT,Base,Wagon,1
+562,13,QX56,Base,SUV,1
+563,17,CX-7,s Grand Touring,SUV,1
+564,22,Jetta,S,Sedan,2
+565,24,Impreza,2.5i Premium,Sedan,1
+566,4,Sentra,2.0 SR,Sedan,1
+567,5,Aveo,1LT,Sedan,1
+568,27,Challenger,SE,Coupe,1
+569,23,RAV4,Base,SUV,1
+570,23,Corolla,Base,Sedan,1
+571,23,Sienna,XLE 8-Passenger,Minivan,1
+572,5,Tahoe,LS,SUV,1
+573,22,Jetta,SEL PZEV,Sedan,1
+574,4,Armada,Platinum,SUV,1
+575,24,Impreza,2.5i,Sedan,1
+576,4,Murano,LE,SUV,1
+577,24,Outback,2.5i Premium,Wagon,1
+578,4,Juke,SL,Hatchback,2
+579,27,Caliber,SXT Fleet,Wagon,1
+580,23,Camry,Base,Sedan,1
+581,5,Camaro,1LT,Coupe,1
+582,4,Sentra,2.0 SL,Sedan,1
+583,5,Camaro,1SS,Coupe,2
+584,27,Avenger,SXT,Sedan,1
+585,2,7 Series,750Li,Sedan,1
+586,29,Sebring,Touring,Sedan,1
+587,5,Suburban,1500 LT,SUV,1
+588,23,Venza,Base,Wagon,1
+589,27,Charger,SXT Fleet,Sedan,1
+590,27,Charger,3.5L,Sedan,1
+591,15,Sprinter,2500 170 WB Passenger,Van,1
+592,29,300,Touring,Sedan,1
+593,23,RAV4,Limited,SUV,1
+594,5,Corvette,Base,Coupe,1
+595,22,GTI,Autobahn PZEV,Hatchback,1
+596,35,Continental GT Speed,Base,Coupe,1
+597,4,Leaf,SV,Hatchback,1
+598,5,malibu,ls,sedan,1
+599,23,Land Cruiser,Base,SUV,1
+600,5,Impala,LS,Sedan,1
+601,4,Sentra,2.0 S,Sedan,1
+602,33,1500,ST,Quad Cab,1
+603,8,CTS,Performance,Sedan,1
+604,3,V50,T5 R-Design,Wagon,1
+605,22,Jetta,Base,Sedan,1
+606,9,RDX,Base,SUV,1
+607,4,Versa,1.8 S,Sedan,1
+608,7,F-150,XL,Regular Cab,1
+609,7,F-250 Super Duty,XL,SuperCab,1
+610,14,Commander,Limited,SUV,1
+611,4,Altima Hybrid,Base,Sedan,1
+612,13,G37 Convertible,Base,G37 Convertible,1
+613,4,Frontier,SE,Crew Cab,1
+614,7,Expedition,EL Limited,SUV,1
+615,7,Focus,SE,Sedan,2
+616,23,Sequoia,Platinum,SUV,1
+617,4,Altima,3.5 SR,Sedan,1
+618,9,TL,SH-AWD,Sedan,1
+619,22,GTI,PZEV,Hatchback,2
+620,23,Tundra,Tundra Grade,CrewMax Cab,1
+621,17,Mazda3,s Grand Touring,Sedan,1
+622,15,S-Class,S600,Sedan,1
+623,14,Compass,Sport,SUV,1
+624,14,Wrangler,Sport,SUV,2
+625,22,Tiguan,SE,SUV,1
+626,4,Cube,1.8 SL,Wagon,2
+627,16,Outlander,ES,SUV,1
+628,22,Jetta,Wolfsburg Edition PZEV,Sedan,2
+629,22,New Beetle,2.5L Red Rock Edition PZEV,Hatchback,1
+630,7,F-250 Super Duty,Lariat,Crew Cab,1
+631,3,XC90,3.2 R-Design,SUV,1
+632,22,Golf,2.5L PZEV,Hatchback,1
+633,6,A3,2.0T quattro,Wagon,1
+634,4,370Z,Base,Convertible,2
+635,7,F-150,Harley-Davidson,SuperCrew,1
+636,23,Prius,III,Hatchback,1
+637,31,Civic,DX-VP,Sedan,1
+638,27,Journey,SE,SUV,1
+639,3,XC60,T6 R-Design,SUV,1
+640,24,Impreza,2.5i,Hatchback,1
+641,19,LR2,HSE,SUV,1
+642,16,Lancer Sportback,GTS,Hatchback,1
+643,11,Accent,Blue,Hatchback,2
+644,15,S-Class,S63 AMG,Sedan,1
+645,7,Focus,S,Sedan,1
+646,34,fortwo,BRABUS coupe,Hatchback,1
+647,36,G5,Base,Coupe,1
+648,22,GTI,Base,Hatchback,1
+649,32,Yukon XL,Denali,SUV,1
+650,8,Escalade Hybrid,Base,SUV,1
+651,4,Versa,1.8 SL,Hatchback,1
+652,17,Mazda6,i SV,Sedan,1
+653,5,Tahoe,LTZ,SUV,1
+654,15,GL-Class,GL550,SUV,1
+655,15,GL-Class,GL450,SUV,1
+656,17,CX-9,Grand Touring,SUV,1
+657,5,Avalanche,LT1,Crew Cab,1
+658,16,Lancer,ES-Sport,Sedan,2
+659,21,XF,Premium Luxury,Sedan,1
+660,2,X5,xDrive48i,SUV,1
+661,18,Cooper,S,Hatchback,1
+662,8,Escalade,Base,SUV,1
+663,16,Lancer,DE,Sedan,1
+664,15,SLK-Class,SLK350,Convertible,1
+665,5,Impala,SS,Sedan,1
+666,16,Lancer,GTS,Sedan,2
+667,22,Jetta,SportWagen S PZEV,Wagon,1
+668,2,X5,xDrive30i,SUV,1
+669,2,M3,Base,Coupe,1
+670,5,Suburban,1500 LTZ,SUV,1
+671,29,Town and Country,LX,Minivan,1
+672,23,Camry Hybrid,Base,Sedan,1
+673,1,Spectra,EX,Sedan,1
+674,1,Rondo,LX,Wagon,1
+675,1,Borrego,LX,SUV,1
+676,29,Sebring,LX,Sedan,1
+677,15,G-Class,G550,SUV,1
+678,5,Aveo,2LT,Sedan,1
+679,32,Acadia,SLT-2,SUV,1
+680,20,MKS,Base,Sedan,1
+681,15,CLK-Class,CLK550,Convertible,1
+682,22,Jetta,TDI Loyal Edition,Sedan,1
+683,5,Tahoe Hybrid,Base,SUV,1
+684,31,Fit,Base,Hatchback,1
+685,15,C-Class,C300 Luxury,Sedan,1
+686,16,Lancer,GTS,Sedan,1
+687,27,Caliber,SXT,Wagon,1
+688,7,Econoline Cargo,E-150,Van,1
+689,7,Econoline Wagon,E-350 Super Duty XL,Van,1
+690,27,Challenger,R/T,Coupe,2
+691,5,Avalanche,LTZ,Crew Cab,1
+692,15,CLS-Class,CLS550,Sedan,1
+693,22,Jetta,S PZEV,Sedan,1
+694,8,STS,V8,Sedan,1
+695,23,Prius,Touring,Hatchback,1
+696,31,Ridgeline,RT,Crew Cab,1
+697,7,F-450 Super Duty,Lariat,Crew Cab,1
+698,27,Magnum,Base,Wagon,1
+699,27,Durango,SXT,SUV,1
+700,3,S40,2.4i,Sedan,1
+701,29,Sebring,LX,Convertible,1
+702,5,Malibu Classic,LS Fleet,Sedan,1
+703,6,Q7,3.6 quattro,SUV,1
+704,31,Accord,EX,Coupe,1
+705,5,Avalanche,LT,Crew Cab,1
+706,6,TT,3.2 quattro,Hatchback,1
+707,27,Caliber,SE,Wagon,1
+708,6,A8,L quattro,Sedan,1
+709,7,Explorer Sport Trac,XLT,Crew Cab,1
+710,7,Ranger,XLT,SuperCab,2
+711,31,Civic,Hybrid,Sedan,1
+712,2,X5,3.0si,SUV,1
+713,27,Ram Pickup 1500,SLT,Quad Cab,1
+714,5,Silverado 1500,Work Truck,Regular Cab,1
+715,7,F-350 Super Duty,FX4,Crew Cab,1
+716,29,PT Cruiser,Base,Wagon,1
+717,2,M3,Base,Coupe,2
+718,27,Charger,RT,Sedan,1
+719,5,Colorado,LT,Crew Cab,1
+720,27,Nitro,SLT,SUV,1
+721,32,Sierra 1500,Denali,Crew Cab,1
+722,27,Ram Pickup 1500,ST,Regular Cab,2
+723,2,Z4,3.0i,Convertible,1
+724,29,Pacifica,Touring,Wagon,1
+725,32,Acadia,SLT-1,SUV,1
+726,31,Accord,LX,Sedan,2
+727,22,Routan,S,Minivan,1
+728,7,F-250 Super Duty,XLT,SuperCab,1
+729,6,S6,quattro,Sedan,1
+730,2,X5,4.8i,SUV,1
+731,7,Focus,SE,Coupe,1
+732,29,300,LX,Sedan,1
+733,5,Suburban,1500 LS,SUV,1
+734,22,Rabbit,S PZEV,Hatchback,2
+735,2,X3,3.0si,SUV,1
+736,7,F-150,STX,SuperCab,1
+737,32,Sierra 2500HD,SLT,Crew Cab,1
+738,29,Town and Country,Limited,Minivan,1
+739,22,Jetta,SE,Sedan,1
+740,7,Focus,SES,Sedan,2
+741,12,Enclave,CXL,SUV,1
+742,3,C30,T5,Hatchback,1
+743,4,Armada,LE,SUV,1
+744,23,Prius,Base,Hatchback,1
+745,2,3 Series,328xi,Coupe,1
+746,37,VUE,XR,SUV,1
+747,6,A4,2.0T,Sedan,1
+748,38,GranTurismo,Base,Coupe,1
+749,36,G6,GT,Sedan,1
+750,9,TL,Type-S,Sedan,1
+751,23,Tundra,Limited,Double Cab,1
+752,36,G6,Base,Sedan,1
+753,15,S-Class,S550 4MATIC,Sedan,1
+754,36,Grand Prix,Base,Sedan,1
+755,4,350Z,Base,Coupe,1
+756,4,Versa,1.8 SL,Sedan,1
+757,16,Raider,LS,Double Cab,1
+758,17,Mazdaspeed Mazda3,Grand Touring,Hatchback,2
+759,36,Solstice,Base,Convertible,2
+760,1,Spectra,LX,Sedan,1
+761,6,A4,2.0T quattro,Sedan,1
+762,2,5 Series,525i,Sedan,1
+763,4,Pathfinder,LE,SUV,1
+764,39,Milan,Premier,Sedan,1
+765,15,G-Class,G500,SUV,1
+766,10,GX 470,Base,SUV,1
+767,10,RX 400h,Base,SUV,1
+768,3,XC90,3.2 Special Edition,SUV,1
+769,36,G6,GXP,Sedan,1
+770,23,Tundra,SR5,CrewMax Cab,1
+771,6,A8,quattro,Sedan,1
+772,31,Ridgeline,RTS,Crew Cab,1
+773,4,Armada,SE,SUV,1
+774,4,Titan,LE,Crew Cab,1
+775,40,H3,Base,SUV,1
+776,15,CL-Class,CL550,Coupe,1
+777,17,Mazda5,Grand Touring,Minivan,1
+778,37,Outlook,XE,SUV,1
+779,13,G37,Journey,Coupe,1
+780,10,IS F,Base,Sedan,1
+781,22,Touareg 2,VR6 FSI,SUV,1
+782,16,Lancer Evolution,GSR,Sedan,2
+783,13,G35,Base,Sedan,1
+784,23,Sienna,LE 7-Passenger,Minivan,1
+785,14,Wrangler,Unlimited X,SUV,1
+786,4,Maxima,3.5 SL,Sedan,1
+787,25,xD,Base,Hatchback,1
+788,22,Passat,VR6,Sedan,1
+789,23,Avalon,Touring,Sedan,1
+790,23,Tundra,SR5,Double Cab,1
+791,36,G5,Base,Coupe,2
+792,21,XJ-Series,XJ8 L,Sedan,1
+793,6,A4,3.2 quattro,Convertible,1
+794,36,G6,GXP,Coupe,1
+795,8,STS,V6,Sedan,1
+796,7,F-150,King Ranch,SuperCrew,1
+797,5,Cobalt,SS,Coupe,2
+798,32,Yukon,SLE,SUV,1
+799,7,Focus,ZX3 S,Hatchback,2
+800,40,H2,Base,SUV,1
+801,11,Elantra,SE SULEV,Sedan,1
+802,8,DTS,Base,Sedan,1
+803,8,Escalade ESV,Base,SUV,1
+804,32,Sierra 1500,Work Truck,Extended Cab,1
+805,29,PT Cruiser,Touring,Wagon,1
+806,8,SRX,V6,SUV,1
+807,5,Silverado 1500,Work Truck,Crew Cab,1
+808,29,PT Cruiser,Base,Convertible,1
+809,14,Commander,Sport,SUV,1
+810,31,Civic,EX,Coupe,2
+811,1,Spectra,SX,Sedan,1
+812,14,Wrangler,Unlimited Sahara,SUV,2
+813,29,Pacifica,Base,Wagon,1
+814,13,M45,Sport,Sedan,1
+815,5,Uplander,Cargo,Minivan,1
+816,10,GS 450h,Base,Sedan,1
+817,27,Magnum,SE,Wagon,1
+818,14,Commander,Overland,SUV,1
+819,5,Silverado 1500 Classic,LT3,Crew Cab,1
+820,7,Expedition,XLT,SUV,1
+821,27,Caliber,Base,Wagon,1
+822,5,Silverado 1500 Classic,LS,Extended Cab,1
+823,7,F-250 Super Duty,XLT,Crew Cab,1
+824,12,Rendezvous,CX,SUV,1
+825,18,Cooper,S,Convertible,1
+826,12,Rendezvous,CXL,SUV,1
+827,32,Acadia,SLE-1,SUV,1
+828,7,Ranger,SPORT,Regular Cab,1
+829,7,Taurus,SEL Fleet,Sedan,1
+830,13,FX35,Base,SUV,1
+831,1,Rondo,EX,Wagon,1
+832,4,Versa,1.8 SL,Hatchback,2
+833,37,ION,2,Sedan,2
+834,37,VUE,Base,SUV,1
+835,15,R-Class,R350,Wagon,1
+836,15,CLK-Class,CLK350,Coupe,1
+837,16,Eclipse,GS,Hatchback,1
+838,2,3 Series,325i,Sedan,1
+839,37,ION,2,Sedan,1
+840,22,Jetta,Wolfsburg Edition PZEV,Sedan,1
+841,4,Frontier,SE,Crew Cab,2
+842,23,Camry,SE V6,Sedan,1
+843,4,Pathfinder,SE,SUV,1
+844,22,Jetta,2.5,Sedan,1
+845,6,A6,3.2,Sedan,1
+846,23,Yaris,Base,Sedan,1
+847,22,Passat,2.0T,Wagon,1
+848,22,Jetta,2.5 PZEV,Sedan,1
+849,36,G6,GT,Coupe,1
+850,4,Titan,XE,King Cab,1
+851,23,Camry,CE,Sedan,1
+852,20,Navigator,Luxury,SUV,1
+853,6,A4,1.8T,Convertible,1
+854,3,V50,2.4i,Wagon,1
+855,4,Frontier,Nismo,King Cab,1
+856,2,3 Series,330i,Sedan,1
+857,22,New Beetle,2.5 PZEV,Hatchback,1
+858,24,Impreza,WRX Limited,Sedan,2
+859,15,CLK-Class,CLK550,Coupe,1
+860,4,Xterra,X,SUV,1
+861,4,Maxima,3.5 SE,Sedan,1
+862,9,MDX,Touring,SUV,1
+863,2,5 Series,530xi,Wagon,1
+864,37,Aura,XR,Sedan,1
+865,9,RSX,Base,Hatchback,1
+866,36,G6,GT,Convertible,1
+867,22,Jetta,Wolfsburg Edition,Sedan,1
+868,23,Corolla,CE,Sedan,1
+869,36,G6,Value Leader,Sedan,1
+870,23,Avalon,XLS,Sedan,1
+871,39,Milan,Base,Sedan,1
+872,22,Jetta,Base PZEV,Sedan,1
+873,6,A4,2.0T,Sedan,2
+874,32,Yukon XL,SL 1500,SUV,1
+875,14,Commander,Base,SUV,1
+876,32,Sierra 1500,SLE1,Crew Cab,1
+877,7,F-350 Super Duty,XL,SuperCab,1
+878,5,Malibu,SS,Sedan,1
+879,7,Five Hundred,SE,Sedan,1
+880,13,M45,Base,Sedan,1
+881,32,Envoy XL,SLE,SUV,1
+882,5,Express Cargo,3500,Van,1
+883,21,S-Type,3,Sedan,1
+884,5,Aveo,LT,Hatchback,1
+885,5,Cobalt,LT,Coupe,1
+886,7,Expedition,Eddie Bauer,SUV,1
+887,27,Ram Pickup 1500,Laramie,Quad Cab,1
+888,5,Silverado 1500,LT3,Crew Cab,1
+889,27,Durango,SLT,SUV,1
+890,5,Suburban,LS 1500,SUV,1
+891,11,Sonata,LX,Sedan,1
+892,5,Silverado 1500,LS2,Crew Cab,1
+893,27,Ram Pickup 1500,SLT,Regular Cab,1
+894,7,Focus,ZX4 SES,Sedan,2
+895,7,Focus,ZX4 SES,Sedan,1
+896,2,X3,3.0i,SUV,1
+897,29,Town and Country,Base,Minivan,1
+898,13,G35,Base,Coupe,2
+899,35,Continental Flying Spur,Base,Sedan,1
+900,31,S2000,Base,Convertible,2
+901,31,CR-V,Special Edition,SUV,1
+902,1,Sorento,LX,SUV,2
+903,5,Silverado 2500HD,LT3,Crew Cab,1
+904,27,Grand Caravan,SE,Minivan,1
+905,13,FX45,Base,SUV,1
+906,7,Mustang,Standard,Coupe,1
+907,7,F-150,FX4,SuperCrew,1
+908,8,DTS,Luxury III,Sedan,1
+909,14,Liberty,Limited,SUV,1
+910,29,300,SRT-8,Sedan,1
+911,7,Econoline Cargo,E-250,Van,1
+912,27,Magnum,RT,Wagon,1
+913,29,PT Cruiser,GT,Wagon,1
+914,32,Sierra 1500,SL2,Crew Cab,1
+915,7,Explorer,Eddie Bauer,SUV,1
+916,31,Element,EX-P,SUV,1
+917,2,X5,3.0i,SUV,1
+918,7,F-350 Super Duty,XL,Crew Cab,1
+919,7,F-150,XL,Regular Cab,2
+920,5,Monte Carlo,LT,Coupe,1
+921,3,XC90,V8,SUV,1
+922,23,Sienna,LE 8-Passenger,Minivan,1
+923,9,TL,3.2,Sedan,1
+924,15,E-Class,E350,Wagon,1
+925,15,CLK-Class,CLK500,Coupe,1
+926,22,Passat,2.0T,Sedan,1
+927,26,Cayman S,Base,Coupe,2
+928,22,New Beetle,2.5,Convertible,1
+929,20,Mark LT,Base,Crew Cab,1
+930,15,C-Class,C230 Sport,Sedan,1
+931,24,Impreza,2.5 i,Sedan,1
+932,6,S4,quattro,Convertible,1
+933,4,Murano,SE,SUV,1
+934,23,Camry,XLE V6,Sedan,1
+935,15,CLS-Class,CLS500,Sedan,1
+936,23,Sienna,XLE Limited 7-Passenger,Minivan,1
+937,15,CLK-Class,CLK350,Convertible,1
+938,15,CLK-Class,CLK500,Convertible,1
+939,15,CL-Class,CL500,Coupe,1
+940,10,GS 300,Base,Sedan,1
+941,15,M-Class,ML500,SUV,1
+942,23,Tundra,SR5,Access Cab,1
+943,15,E-Class,E55 AMG,Sedan,1
+944,15,E-Class,E500,Sedan,1
+945,23,Camry Solara,SLE V6,Coupe,1
+946,18,Cooper,S,Convertible,2
+947,23,Camry Solara,SLE V6,Convertible,1
+948,22,Touareg,V8,SUV,1
+949,23,Corolla,S,Sedan,2
+950,6,allroad quattro,Base,Wagon,1
+951,22,Jetta,Value Edition PZEV,Sedan,1
+952,4,Altima,3.5 SE,Sedan,1
+953,22,GTI,Base,Hatchback,2
+954,41,9-3,2.0T,Convertible,1
+955,20,Navigator,Ultimate,SUV,1
+956,7,Fiesta,SE,Hatchback,1
+957,28,500L,Easy,Wagon,1
+958,7,E-Series Wagon,E-350 Super Duty XLT,Van,1
+959,28,500L,Lounge,Wagon,1
+960,7,Mustang,V6,Coupe,2
+961,7,Fusion,Titanium,Sedan,1
+962,28,500L,Pop,Wagon,1
+963,7,F-350 Super Duty,XLT,Crew Cab,1
+964,7,Expedition,EL King Ranch,SUV,1
+965,7,Escape,S,SUV,1
+966,7,Escape,SE,SUV,1
+967,7,Fiesta,ST,Hatchback,2
+968,13,G35,Base,Coupe,1
+969,7,Five Hundred,Limited,Sedan,1
+970,2,5 Series,545i,Sedan,2
+971,27,Sprinter Cargo,2500 High Roof 140 WB,Van,1
+972,8,DeVille,Base,Sedan,1
+973,40,H2 SUT,Base,Crew Cab,1
+974,5,Monte Carlo,SS,Coupe,1
+975,5,Silverado 1500,LS,Crew Cab,1
+976,27,Ram Pickup 1500,SRT-10,Quad Cab,1
+977,31,Accord,Hybrid,Sedan,1
+978,7,Mustang,Deluxe,Convertible,1
+979,5,TrailBlazer,LS,SUV,1
+980,1,Sedona,EX,Minivan,1
+981,27,Ram Pickup 1500,SRT-10,Regular Cab,2
+982,5,Impala,Base,Sedan,1
+983,32,Canyon,Z85 SLE,Crew Cab,1
+984,7,Mustang,Deluxe,Coupe,1
+985,27,Dakota,ST,Club Cab,1
+986,35,Continental GT,Base,Coupe,1
+987,27,Neon,SE,Sedan,1
+988,10,ES 330,Base,Sedan,1
+989,2,5 Series,530i,Sedan,1
+990,7,Econoline Wagon,E-350 Super Duty XLT,Van,1
+991,2,5 Series,545i,Sedan,1
+992,7,Freestyle,Limited,Wagon,1
+993,32,Sierra 1500,Base,Extended Cab,1
+994,2,X5,4.4i,SUV,1
+995,29,PT Cruiser,Touring,Convertible,1
+996,27,Stratus,SXT,Sedan,1
+997,32,Yukon,Fleet,SUV,1
+998,29,Sebring,Touring,Convertible,1
+999,5,Silverado 2500HD,LS,Crew Cab,1
+1000,7,Explorer,XLS,SUV,1
+1001,5,Cobalt,Base,Sedan,1
+1002,31,Civic,Value Package,Sedan,1
+1003,7,Focus,ZX4 SE,Sedan,1
+1004,2,X3,2.5i,SUV,1
+1005,5,Silverado 2500HD,Base,Extended Cab,1
+1006,5,TrailBlazer,LT,SUV,1
+1007,32,Sierra 1500,Base,Regular Cab,1
+1008,7,Freestyle,SEL,Wagon,1
+1009,13,Q45,Base,Sedan,1
+1010,7,Mustang,Premium,Convertible,1
+1011,7,Freestar,SE,Minivan,1
+1012,15,C-Class,C230 Kompressor,Sedan,1
+1013,4,Quest,3.5 SE,Minivan,1
+1014,18,Cooper,S,Hatchback,2
+1015,15,E-Class,E320,Sedan,1
+1016,15,E-Class,E500 4MATIC,Sedan,1
+1017,22,New Beetle,Bi-Color Edition,Hatchback,1
+1018,22,New Beetle,Dark Flint Edition,Convertible,1
+1019,15,SL-Class,SL55 AMG,Convertible,1
+1020,8,XLR,Base,Convertible,1
+1021,4,Frontier,Nismo,Crew Cab,1
+1022,22,GTI,1.8T,Hatchback,2
+1023,23,Sienna,CE 7-Passenger,Minivan,1
+1024,20,Aviator,Luxury,SUV,1
+1025,4,Xterra,SE,SUV,1
+1026,2,7 Series,745i,Sedan,1
+1027,6,A4,1.8T quattro,Sedan,1
+1028,26,Cayenne,S,SUV,1
+1029,22,Passat,GLS 1.8T,Wagon,1
+1030,23,Highlander,V6,SUV,1
+1031,4,350Z,Touring,Convertible,2
+1032,4,Sentra,1.8 S,Sedan,1
+1033,23,Sequoia,Limited,SUV,1
+1034,17,Mazda3,i,Sedan,2
+1035,18,Cooper,Base,Convertible,2
+1036,17,Mazda3,s,Hatchback,1
+1037,10,LS 430,Base,Sedan,1
+1038,15,C-Class,C240 Luxury,Sedan,1
+1039,23,Sienna,XLE 7-Passenger,Minivan,1
+1040,2,6 Series,645Ci,Coupe,1
+1041,23,4Runner,SR5,SUV,1
+1042,25,xB,Base,Wagon,2
+1043,6,A4,1.8T,Sedan,1
+1044,5,Silverado 1500,Base,Extended Cab,1
+1045,5,Silverado 2500HD,LT,Crew Cab,1
+1046,15,CLK-Class,CLK320,Coupe,1
+1047,22,New Beetle,GLS 1.8T,Convertible,1
+1048,3,S80,T6,Sedan,1
+1049,4,350Z,Enthusiast,Convertible,2
+1050,23,Camry,LE V6,Sedan,1
+1051,11,Sonata,Base,Sedan,1
+1052,15,C-Class,C230,Hatchback,1
+1053,10,RX 330,Base,SUV,1
+1054,31,Civic,LX,Sedan,2
+1055,17,Mazda6,s,Hatchback,1
+1056,10,SC 430,Base,Convertible,1
+1057,15,C-Class,C230,Sedan,2
+1058,37,VUE,Base,SUV,2
+1059,32,Envoy XUV,SLE,SUV,1
+1060,36,Grand Prix,GT1,Sedan,1
+1061,31,Civic,Value Package,Coupe,2
+1062,5,Aveo,LS,Hatchback,1
+1063,27,Durango,ST,SUV,1
+1064,5,Corvette,Base,Convertible,1
+1065,7,Focus,ZX3,Hatchback,2
+1066,39,Monterey,Premier,Minivan,1
+1067,41,9-3,Aero,Sedan,1
+1068,5,Avalanche,1500,Crew Cab,1
+1069,15,S-Class,S430,Sedan,1
+1070,32,Sierra 2500HD,Base,Crew Cab,1
+1071,15,SL-Class,SL500,Convertible,1
+1072,15,CL-Class,CL600,Coupe,1
+1073,27,Ram Pickup 3500,SLT,Quad Cab,2
+1074,7,Mustang,Premium,Coupe,1
+1075,4,Quest,3.5 S,Minivan,1
+1076,41,9-3,Arc,Convertible,1
+1077,29,PT Cruiser,Touring Edition,Wagon,1
+1078,14,Liberty,Sport,SUV,2
+1079,7,Excursion,Eddie Bauer,SUV,1
+1080,39,Mountaineer,Convenience,SUV,1
+1081,5,Malibu Maxx,LT,Hatchback,1
+1082,23,Celica,GTS,Hatchback,2
+1083,15,C-Class,C230,Sedan,1
+1084,41,9-3,Linear,Sedan,1
+1085,36,Grand Am,SE1,Sedan,1
+1086,23,Matrix,Base,Wagon,2
+1087,32,Envoy,SLE,SUV,1
+1088,15,E-Class,E500 4MATIC,Wagon,1
+1089,16,Endeavor,XLS,SUV,1
+1090,31,Civic,Value Package,Coupe,1
+1091,4,Xterra,XE,SUV,1
+1092,17,Mazda6,s,Sedan,1
+1093,29,Concorde,LXi,Sedan,1
+1094,39,Marauder,Base,Sedan,1
+1095,7,Taurus,SES Deluxe,Sedan,1
+1096,3,XC90,2.5T,SUV,1
+1097,3,S40,T5,Sedan,1
+1098,3,C70,LPT,Convertible,1
+1099,6,A4,3.0 quattro,Sedan,1
+1100,7,Expedition,XLT Value,SUV,1
+1101,27,Ram Pickup 1500,ST,Quad Cab,1
+1102,22,Passat,GLS 1.8T 4Motion,Sedan,1
+1103,9,RSX,Type-S,Hatchback,2
+1104,20,LS,Premium,Sedan,1
+1105,13,Q45,Premium,Sedan,1
+1106,5,Blazer,LS,SUV,1
+1107,12,LeSabre,Custom,Sedan,1
+1108,16,Outlander,XLS,SUV,1
+1109,1,Rio,Base,Sedan,1
+1110,31,Accord,EX V-6,Coupe,1
+1111,2,3 Series,330Ci,Convertible,1
+1112,2,7 Series,745Li,Sedan,1
+1113,31,Civic,DX,Sedan,1
+1114,3,XC90,T6,SUV,1
+1115,22,New Beetle,GLS,Convertible,1
+1116,17,MPV,ES,Minivan,1
+1117,22,Touareg,V6,SUV,1
+1118,16,Montero,Limited,SUV,1
+1119,10,ES 300,Base,Sedan,1
+1120,3,S60,2.4,Sedan,1
+1121,15,CLK-Class,CLK320,Convertible,1
+1122,7,Thunderbird,Premium,Convertible,1
+1123,12,Century,Base,Sedan,1
+1124,7,Expedition,XLT Popular,SUV,1
+1125,5,Cavalier,Base,Coupe,2
+1126,5,Venture,LS,Minivan,1
+1127,5,S-10,LS,Regular Cab,1
+1128,11,Santa Fe,LX,SUV,1
+1129,3,S60,2.5T,Sedan,1
+1130,5,Malibu,Base,Sedan,1
+1131,5,Corvette,Z06,Coupe,2
+1132,42,XL-7,Limited,SUV,1
+1133,29,Sebring,Limited,Convertible,1
+1134,5,Silverado 1500HD,LS,Crew Cab,1
+1135,15,C-Class,C320,Sedan,1
+1136,32,Savana Cargo,2500,Van,1
+1137,14,Wrangler,Sahara,SUV,1
+1138,4,Altima,2.5 SL,Sedan,1
+1139,21,X-Type,2.5,Sedan,1
+1140,20,LS,Sport,Sedan,1
+1141,32,Yukon XL,1500 SLE,SUV,1
+1142,32,Sonoma,SLS,Crew Cab,1
+1143,23,Corolla,CE,Sedan,2
+1144,27,Dakota,SLT,Club Cab,1
+1145,22,Jetta,GL,Wagon,1
+1146,10,IS 300,Base,Sedan,2
+1147,29,Sebring,LXi,Convertible,1
+1148,15,E-Class,E320 4MATIC,Wagon,1
+1149,20,LS,Base,Sedan,1
+1150,31,Insight,Base,Hatchback,1
+1151,41,9-3,Arc,Sedan,1
+1152,29,Town and Country,LXi,Minivan,1
+1153,8,DeVille,DHS,Sedan,1
+1154,21,XJ-Series,XJ8,Sedan,1
+1155,27,Durango,Sport,SUV,1
+1156,17,Protege5,Base,Wagon,1
+1157,5,S-10,LS,Extended Cab,1
+1158,15,SLK-Class,SLK320,Convertible,1
+1159,6,S6,Avant quattro,Wagon,1
+1160,22,Passat,GLX,Sedan,1
+1161,15,C-Class,C240,Sedan,2
+1162,4,Frontier,XE,King Cab,2
+1163,32,Sierra 1500,SL,Extended Cab,1
+1164,7,Mustang,GT Deluxe,Coupe,2
+1165,43,Alero,GL1,Sedan,1
+1166,42,Grand Vitara,Base,SUV,1
+1167,10,RX 300,Base,SUV,1
+1168,37,L-Series,L300,Sedan,1
+1169,6,S4,quattro,Sedan,1
+1170,20,Town Car,Cartier,Sedan,1
+1171,3,S60,2.4T,Sedan,1
+1172,43,Intrigue,GX,Sedan,1
+1173,3,XC,Base,Wagon,1
+1174,29,Town and Country,EX,Minivan,1
+1175,36,Grand Prix,GT,Sedan,1
+1176,7,Taurus,SES,Sedan,1
+1177,22,New Beetle,GLS,Hatchback,2
+1178,37,S-Series,SL2,Sedan,1
+1179,7,Taurus,SE,Wagon,1
+1180,23,Avalon,XL,Sedan,1
+1181,19,Range Rover,4.6 HSE,SUV,1
+1182,15,S-Class,S55 AMG,Sedan,1
+1183,7,Mustang,Deluxe,Convertible,2
+1184,7,F-250 Super Duty,XL,Regular Cab,1
+1185,22,Jetta,GLX VR6,Sedan,2
+1186,19,Discovery Series II,SD,SUV,1
+1187,15,M-Class,ML430,SUV,1
+1188,23,Tacoma,PreRunner,Xtracab,1
+1189,5,Camaro,Base,Hatchback,1
+1190,23,Tacoma,Base,Regular Cab,2
+1191,24,Outback,Base,Wagon,2
+1192,7,Excursion,Limited,SUV,1
+1193,2,3 Series,330Ci,Coupe,1
+1194,4,Sentra,GXE,Sedan,1
+1195,13,QX4,Base,SUV,1
+1196,24,Outback,Limited,Wagon,1
+1197,20,Continental,Base,Sedan,1
+1198,4,Frontier,XE,King Cab,1
+1199,8,Seville,SLS,Sedan,1
+1200,5,Tahoe,Base,SUV,1
+1201,15,M-Class,ML320,SUV,1
+1202,2,3 Series,330Ci,Coupe,2
+1203,22,Passat,GLS 1.8T,Sedan,1
+1204,12,Park Avenue,Base,Sedan,1
+1205,21,S-Type,4,Sedan,1
+1206,2,7 Series,740iL,Sedan,1
+1207,2,3 Series,323Ci,Convertible,2
+1208,17,Millenia,S,Sedan,1
+1209,31,Civic,VP,Sedan,1
+1210,12,LeSabre,Limited,Sedan,1
+1211,7,Mustang,Base,Coupe,2
+1212,22,New Beetle,GLX 1.8T,Hatchback,1
+1213,7,Mustang,GT,Coupe,1
+1214,21,XJ-Series,Vanden Plas,Sedan,1
+1215,7,Mustang,GT,Convertible,1
+1216,4,Maxima,GXE,Sedan,1
+1217,2,Z3,2.3,Convertible,1
+1218,22,Golf,GLS,Hatchback,1
+1219,4,Maxima,GLE,Sedan,1
+1220,22,New Beetle,GL,Hatchback,1
+1221,23,Camry Solara,SE,Coupe,1
+1222,29,LHS,Base,Sedan,1
+1223,7,F-150,XLT,Extended Cab,1
+1224,22,New Beetle,GLX 1.8T,Hatchback,2
+1225,12,Regal,LS,Sedan,1
+1226,6,A4,1.8T,Sedan,2
+1227,13,G20,Base,Sedan,1
+1228,2,3 Series,323i,Sedan,1
+1229,2,M,Base,Convertible,2
+1230,4,Maxima,SE,Sedan,2
+1231,8,Eldorado,Touring,Coupe,1
+1232,23,Tundra,SR5,Extended Cab,1
+1233,31,Accord,EX V6,Sedan,1
+1234,27,Intrepid,ES,Sedan,1
+1235,7,Contour,SE Sport,Sedan,1
+1236,3,S90,Base,Sedan,1
+1237,24,Legacy,Outback Limited,Wagon,1
+1238,12,Regal,Custom,Sedan,1
+1239,13,I30,Base,Sedan,1
+1240,36,Grand Am,SE,Sedan,1
+1241,36,Sunfire,SE,Coupe,1
+1242,3,V70,GLT,Wagon,1
+1243,29,Sebring,JXi,Convertible,1
+1244,31,Accord,LX,Coupe,1
+1245,37,S-Series,SL2,Sedan,2
+1246,4,Frontier,XE,Extended Cab,2
+1247,2,5 Series,540i,Sedan,1
+1248,22,Jetta,GL,Sedan,1
+1249,7,Escort,LX,Wagon,1
+1250,3,V70,Base,Wagon,1
+1251,7,Explorer,Sport,SUV,1
+1252,22,New Beetle,GLS,Hatchback,1
+1253,5,Suburban,1500,SUV,1
+1254,4,Maxima,SE,Sedan,1
+1255,22,Jetta,GL,Sedan,2
+1256,5,Cavalier,LS,Sedan,1
+1257,31,Civic,DX,Coupe,1
+1258,7,Taurus,GL,Sedan,1
+1259,7,Ranger,XLT,Extended Cab,2
+1260,37,S-Series,SC1,Coupe,1
+1261,2,3 Series,328i,Convertible,2
+1262,2,3 Series,328is,Coupe,2
+1263,36,Grand Prix,SE,Sedan,1
+1264,37,S-Series,SL1,Sedan,2
+1265,7,Mustang SVT Cobra,Base,Convertible,2
+1266,39,Grand Marquis,LS,Sedan,1
+1267,10,LS 400,Base,Sedan,1
+1268,37,S-Series,SL1,Sedan,1
+1269,43,Cutlass Ciera,S,Sedan,1
+1270,11,Genesis Coupe,3.8 Ultimate,Genesis Coupe,1
+1271,7,Mustang,GT Premium,Coupe,1
+1272,11,Santa Fe Sport,Sport 2.0T,SUV,1
+1273,14,Cherokee,Sport,SUV,1
+1274,1,Cadenza,Premium,Sedan,1
+1275,14,Patriot,Limited,SUV,1
+1276,11,Elantra GT,Base,Hatchback,1
+1277,21,F-TYPE,V8 S,Convertible,1
+1278,11,Veloster,Turbo,Hatchback,2
+1279,7,Shelby GT500,Base,Coupe,2
+1280,11,Azera,Limited,Sedan,1
+1281,13,Q50,Premium,Sedan,1
+1282,13,QX70,Base,SUV,1
+1283,11,Elantra,SE,Sedan,2
+1284,1,Forte,Forte5 EX,Hatchback,1
+1285,11,Tucson,SE,SUV,1
+1286,13,Q50,Hybrid Sport,Sedan,1
+1287,21,XJ,XJR,Sedan,1
+1288,13,Q50,Hybrid Premium,Sedan,1
+1289,31,Accord,EX-L,Coupe,1
+1290,31,Accord,Sport,Sedan,1
+1291,11,Santa Fe Sport,Sport,SUV,1
+1292,31,Pilot,Touring w/Navigation and Rear Entertainment,SUV,1
+1293,21,F-TYPE,S,Convertible,1
+1294,32,Yukon XL,SLT 1500,SUV,1
+1295,13,Q60 Convertible,Base,Q60 Convertible,1
+1296,13,QX60,Base,SUV,1
+1297,11,Elantra,Sport,Sedan,1
+1298,13,QX60,Hybrid,SUV,1
+1299,17,CX-5,Sport,SUV,1
+1300,17,Mazda3,i Grand Touring,Sedan,2
+1301,17,CX-5,Touring,SUV,1
+1302,17,CX-5,Grand Touring,SUV,1
+1303,18,Cooper Paceman,John Cooper Works ALL4,Hatchback,1
+1304,17,CX-5,Sport,SUV,2
+1305,17,Mazda3,i Grand Touring,Hatchback,1
+1306,19,LR4,XXV,SUV,1
+1307,17,Mazda2,Sport,Hatchback,2
+1308,19,LR4,HSE,SUV,1
+1309,19,Range Rover,Autobiography LWB,SUV,1
+1310,19,Range Rover Sport,Autobiography,SUV,1
+1311,4,Pathfinder,SL,SUV,1
+1312,17,MX-5 Miata,Grand Touring,Convertible,2
+1313,4,Versa,1.6 SV,Sedan,1
+1314,17,MX-5 Miata,Club,Convertible,1
+1315,4,Rogue Select,S,SUV,1
+1316,17,MX-5 Miata,Grand Touring,Convertible,1
+1317,17,Mazda6,i Touring,Sedan,2
+1318,26,Cayman,Base,Coupe,1
+1319,17,Mazda6,i Sport,Sedan,2
+1320,4,Pathfinder,Platinum,SUV,1
+1321,15,CLA-Class,CLA45 AMG,Sedan,1
+1322,15,GL-Class,GL63 AMG,SUV,1
+1323,17,MX-5 Miata,Club,Convertible,2
+1324,15,E-Class,E550,Convertible,1
+1325,15,G-Class,G63 AMG,SUV,1
+1326,15,C-Class,C300 Sport 4MATIC,Sedan,1
+1327,4,Sentra,S,Sedan,2
+1328,15,E-Class,E63 AMG 4MATIC,Sedan,1
+1329,15,GLK-Class,GLK250 BlueTEC 4MATIC,SUV,1
+1330,15,CLA-Class,CLA250,Sedan,1
+1331,5,Captiva Sport,LS Fleet,SUV,1
+1332,6,allroad,Premium quattro,Wagon,1
+1333,8,ATS,Luxury,Sedan,1
+1334,2,3 Series,320i,Sedan,1
+1335,33,2500,SLT,Crew Cab,1
+1336,23,Prius v,Three,Wagon,1
+1337,5,Captiva Sport,LT Fleet,SUV,1
+1338,35,Continental GTC,Base,Convertible,1
+1339,9,ILX,Premium Package,Sedan,1
+1340,2,X1,xDrive35i,SUV,1
+1341,6,S6,Prestige,Sedan,1
+1342,22,Passat,S PZEV,Sedan,1
+1343,24,XV Crosstrek,Limited,SUV,1
+1344,6,A5,2.0T Premium Plus quattro,Convertible,1
+1345,5,Camaro,SS,Coupe,2
+1346,6,A5,2.0T Premium Plus quattro,Coupe,1
+1347,24,Forester,2.0XT Touring,SUV,1
+1348,22,Touareg,V6 Executive,SUV,1
+1349,12,LaCrosse,Leather Group,Sedan,1
+1350,6,Q7,3.0T Premium Plus quattro,SUV,1
+1351,23,Tundra,Limited,CrewMax Cab,1
+1352,7,C-Max Energi,SEL,Wagon,1
+1353,5,Sonic,LT,Hatchback,1
+1354,7,Escape,SEL,SUV,1
+1355,7,C-Max Hybrid,SE,Wagon,1
+1356,7,C-Max Hybrid,SEL,Wagon,1
+1357,5,Spark,2LT,Hatchback,1
+1358,7,Escape,Titanium,SUV,1
+1359,27,Dart,SE,Sedan,2
+1360,5,Spark,1LT,Hatchback,1
+1361,5,Cruze,Eco,Sedan,1
+1362,31,Civic,LX PZEV,Sedan,1
+1363,7,Taurus,Limited,Sedan,1
+1364,31,Civic,Si,Sedan,2
+1365,32,Terrain,SLT-1,SUV,1
+1366,31,Pilot,EX-L w/Rear Entertainment,SUV,1
+1367,31,Civic,LX,Coupe,2
+1368,7,Fusion Hybrid,SE,Sedan,1
+1369,31,Civic,Hybrid PZEV w/Leather and Navigation,Sedan,1
+1370,7,F-150,Limited,SuperCrew,1
+1371,32,Sierra 1500,SLE,Crew Cab,1
+1372,5,Silverado 1500,LT,Double Cab,1
+1373,6,RS 7,Prestige quattro,Sedan,1
+1374,5,Camaro,LT,Coupe,2
+1375,2,X5,sDrive35i,SUV,1
+1376,9,MDX,SH-AWD w/Technology Package,SUV,1
+1377,3,XC60,T6,SUV,1
+1378,6,Q7,3.0T Premium quattro,SUV,1
+1379,2,1 Series,128i,Coupe,1
+1380,23,Venza,XLE,Wagon,1
+1381,6,A8,L 4.2 quattro,Sedan,1
+1382,23,Sienna,Limited 7-Passenger,Minivan,1
+1383,24,Outback,2.5i Limited,Wagon,1
+1384,33,2500,Tradesman,Crew Cab,1
+1385,2,5 Series Gran Turismo,550i,Hatchback,1
+1386,10,GX 460,Base,SUV,1
+1387,19,Range Rover Evoque,Pure,SUV,1
+1388,10,CT 200h,Base,Hatchback,1
+1389,15,C-Class,C300 Luxury 4MATIC,Sedan,1
+1390,4,Titan,SV,King Cab,1
+1391,2,3 Series,328i xDrive,Sedan,2
+1392,24,Outback,2.5i Premium PZEV,Wagon,1
+1393,27,Avenger,Express,Sedan,1
+1394,27,Caliber,Heat,Wagon,1
+1395,19,LR4,V8,SUV,1
+1396,23,Tacoma,Base,Access Cab,1
+1397,6,Q7,3.6 Premium quattro,SUV,1
+1398,4,Juke,SV,Hatchback,1
+1399,15,SLK-Class,SLK300,Convertible,1
+1400,8,CTS Wagon,Sport,CTS Wagon,1
+1401,24,Outback,3.6R Limited,Wagon,1
+1402,15,SLS AMG,Base,Coupe,1
+1403,4,Altima,3.5 SR,Coupe,1
+1404,23,Corolla,XLE,Sedan,1
+1405,27,Ram Pickup 2500,Laramie,Crew Cab,1
+1406,27,Challenger,SRT8 Core,Coupe,2
+1407,2,1 Series,135i,Convertible,1
+1408,23,Yaris,Base,Sedan,2
+1409,22,Jetta,Limited Edition PZEV,Sedan,1
+1410,2,1 Series,128i,Convertible,2
+1411,31,Fit,Base,Hatchback,2
+1412,22,CC,Sport,Sedan,1
+1413,14,Grand Cherokee,SRT-8,SUV,1
+1414,17,CX-7,Sport,SUV,1
+1415,29,300,C HEMI,Sedan,1
+1416,15,R-Class,R350 4MATIC,Wagon,1
+1417,22,CC,Luxury,Sedan,1
+1418,5,Uplander,LS,Minivan,1
+1419,2,5 Series,535i,Sedan,2
+1420,4,Quest,3.5 SL,Minivan,1
+1421,16,Eclipse Spyder,GT,Convertible,2
+1422,7,F-450 Super Duty,XL,Crew Cab,1
+1423,27,Avenger,R/T,Sedan,1
+1424,14,Liberty,Limited Edition,SUV,1
+1425,5,Silverado 1500,LT2,Crew Cab,1
+1426,4,Altima,3.5 SE,Coupe,1
+1427,26,911,Turbo,Convertible,1
+1428,36,Vibe,Base,Wagon,1
+1429,22,New Beetle,S PZEV,Hatchback,2
+1430,6,A6,4.2 quattro,Sedan,1
+1431,4,Altima,3.5 SE,Coupe,2
+1432,22,Eos,Turbo,Convertible,1
+1433,1,Spectra,EX,Sedan,2
+1434,29,Sebring,Base,Sedan,1
+1435,5,Silverado 1500 Classic,LS2,Crew Cab,1
+1436,14,Wrangler,Unlimited X,SUV,2
+1437,27,Ram Pickup 3500,SLT,Quad Cab,1
+1438,15,SLK-Class,SLK280,Convertible,1
+1439,37,Aura,XE,Sedan,1
+1440,15,S-Class,S65 AMG,Sedan,1
+1441,4,Titan,SE,Crew Cab,1
+1442,27,Caravan,SXT,Minivan,1
+1443,5,Aveo,LS,Sedan,1
+1444,27,Caravan,SE,Minivan,1
+1445,5,Cobalt,LS,Sedan,1
+1446,5,Silverado 2500HD,LS,Extended Cab,1
+1447,5,Avalanche,1500 LS,Crew Cab,1
+1448,11,Sonata,GL,Sedan,1
+1449,17,Mazda6,i Sport,Hatchback,1
+1450,39,Mariner,Luxury,SUV,1
+1451,24,Outback,2.5i Special Edition,Wagon,1
+1452,39,Mariner,Premier,SUV,1
+1453,26,Cayman S,Base,Coupe,1
+1454,6,A4,3.2 quattro,Sedan,1
+1455,5,SSR,LS,Regular Cab,1
+1456,3,V50,T5,Wagon,1
+1457,32,Safari Cargo,Base,Minivan,1
+1458,7,Mustang,GT Premium,Convertible,1
+1459,1,Spectra,Spectra5,Wagon,1
+1460,1,Amanti,Base,Sedan,1
+1461,31,Accord,EX PZEV,Coupe,1
+1462,24,Legacy,2.5 GT Limited,Wagon,1
+1463,2,3 Series,330xi,Sedan,1
+1464,4,Titan,XE,Crew Cab,1
+1465,6,A6,2.7T S-Line quattro,Sedan,1
+1466,5,Monte Carlo,LS,Coupe,1
+1467,14,Wrangler,Sport,SUV,1
+1468,17,Tribute,LX-V6,SUV,1
+1469,29,Town and Country,LX Family Value,Minivan,1
+1470,39,Sable,GS,Sedan,1
+1471,7,Mustang,Base,Coupe,1
+1472,29,PT Cruiser,Limited Edition,Wagon,1
+1473,22,Phaeton,V8,Sedan,1
+1474,22,R32,Base,Hatchback,2
+1475,26,Cayenne,Turbo,SUV,1
+1476,7,Ranger,XLT,SuperCab,1
+1477,32,Envoy XL,SLT,SUV,1
+1478,41,9-5,Linear 2.3T,Sedan,1
+1479,20,Aviator,Premium,SUV,1
+1480,26,Boxster,S,Convertible,2
+1481,22,Jetta,GLS,Sedan,1
+1482,23,Matrix,XR,Wagon,1
+1483,8,DeVille,DTS,Sedan,1
+1484,6,TT,180hp,Convertible,2
+1485,15,E-Class,E320,Wagon,1
+1486,23,Prius,Base,Sedan,1
+1487,8,Eldorado,ESC,Coupe,1
+1488,7,Focus,ZX3,Hatchback,1
+1489,5,Express Cargo,G3500,Van,1
+1490,23,Tundra,Base,Regular Cab,2
+1491,5,Cavalier,Base,Sedan,1
+1492,4,Altima,GLE,Sedan,1
+1493,27,Dakota,SLT,Extended Cab,1
+1494,27,Ram Pickup 1500,Laramie SLT,Extended Cab,1
+1495,19,Range Rover,4.0 S,SUV,1
+1496,15,S-Class,S320 LWB,Sedan,1
+1497,4,Truck,XE,Extended Cab,2
+1498,23,Tercel,CE,Coupe,1
+1499,12,Roadmaster,Base,Sedan,1
+1500,10,SC 400,Base,Coupe,1
+1501,20,Navigator,L,SUV,1
+1502,10,LX 570,Base,SUV,1
+1503,14,Cherokee,Latitude,SUV,1
+1504,13,QX80,Base,SUV,1
+1505,6,RS 5,quattro,Coupe,1
+1506,6,Q7,TDI Prestige quattro,SUV,1
+1507,22,Jetta GLI,Edition 30 PZEV,Sedan,1
+1508,6,Q7,3.0T S line Prestige quattro,SUV,1
+1509,4,GT-R,Premium,Coupe,1
+1510,6,A7,Prestige quattro,Sedan,1
+1511,6,A4,2.0T Premium Plus,Sedan,1
+1512,27,Dart,SXT,Sedan,1
+1513,11,Genesis Coupe,3.8 R-Spec,Genesis Coupe,2
+1514,10,ES 300h,Base,Sedan,1
+1515,5,Suburban,LT,SUV,1
+1516,2,M4,Base,Coupe,1
+1517,5,Impala Limited,LTZ Fleet,Sedan,1
+1518,29,300,S,Sedan,1
+1519,33,1500,ST,Crew Cab,1
+1520,42,SX4,Base,Sedan,1
+1521,33,2500,Laramie,Crew Cab,1
+1522,33,1500,R/T,Regular Cab,1
+1523,24,Legacy,2.5i Premium,Sedan,2
+1524,33,1500,Sport,Quad Cab,1
+1525,25,iQ,Base,Hatchback,1
+1526,33,1500,Laramie,Crew Cab,1
+1527,24,Outback,2.5i Limited PZEV,Wagon,1
+1528,42,SX4,LE Popular Package,Sedan,1
+1529,42,SX4,LE,Sedan,1
+1530,33,3500,ST,Crew Cab,1
+1531,33,1500,SLT,Regular Cab,1
+1532,42,Grand Vitara,Premium,SUV,1
+1533,24,Legacy,2.5i Limited PZEV,Sedan,1
+1534,33,1500,SLT,Crew Cab,1
+1535,33,3500,SLT,Crew Cab,1
+1536,25,tC,Base,Hatchback,2
+1537,42,Kizashi,SE,Sedan,1
+1538,33,2500,ST,Crew Cab,1
+1539,33,2500,Laramie Longhorn Edition,Crew Cab,1
+1540,33,3500,Laramie,Crew Cab,1
+1541,33,1500,Laramie Longhorn Edition,Crew Cab,1
+1542,24,Impreza,WRX STI,Sedan,2
+1543,33,2500,SLT,Crew Cab,2
+1544,24,Impreza,2.0i,Hatchback,1
+1545,33,C/V Cargo Van,Base,Minivan,1
+1546,34,fortwo,passion cabriolet,Convertible,1
+1547,24,Forester,2.5X Premium PZEV,SUV,1
+1548,24,Impreza,WRX STI,Hatchback,2
+1549,23,Prius c,Two,Hatchback,1
+1550,23,Yaris,Fleet,Sedan,1
+1551,23,Tacoma,Base,Access Cab,2
+1552,22,CC,R-Line,Sedan,2
+1553,23,Yaris,LE,Hatchback,2
+1554,22,Beetle,2.5L,Hatchback,1
+1555,22,CC,R-Line,Sedan,1
+1556,23,Sienna,SE 8-Passenger,Minivan,1
+1557,22,CC,Lux Limited,Sedan,1
+1558,22,Tiguan,SEL 4Motion,SUV,1
+1559,22,Touareg,TDI Sport,SUV,1
+1560,22,Passat,S,Sedan,1
+1561,22,Passat,SE,Sedan,1
+1562,3,C70,T5,Convertible,1
+1563,22,Jetta,Base,Sedan,2
+1564,22,Passat,TDI SEL Premium,Sedan,1
+1565,3,S60,T6 R-Design,Sedan,1
+1566,22,Routan,SE,Minivan,1
+1567,22,Jetta,SE,Sedan,2
+1568,22,Jetta,SEL,Sedan,1
+1569,22,Jetta SportWagen,TDI,Wagon,1
+1570,6,A4,2.0T Avant Premium quattro,Wagon,1
+1571,6,A5,2.0T Premium quattro,Convertible,1
+1572,6,A3,2.0T Premium,Wagon,1
+1573,6,A6,3.2 Premium,Sedan,1
+1574,2,3 Series,335is,Coupe,1
+1575,6,A4,2.0T Premium quattro,Sedan,2
+1576,2,3 Series,335i,Convertible,2
+1577,2,5 Series Gran Turismo,535i,Hatchback,1
+1578,12,Enclave,CXL1,SUV,1
+1579,2,3 Series,335i xDrive,Coupe,1
+1580,2,5 Series,550i,Sedan,2
+1581,2,5 Series,550i xDrive,Sedan,1
+1582,8,Escalade ESV,Luxury,SUV,1
+1583,12,Regal,CXL Turbo,Sedan,1
+1584,12,Lucerne,CXL,Sedan,1
+1585,8,CTS Coupe,Performance,CTS Coupe,1
+1586,12,Enclave,CXL2,SUV,1
+1587,12,Enclave,CX,SUV,1
+1588,8,CTS,Luxury,Sedan,1
+1589,12,Regal,CXL,Sedan,1
+1590,8,DTS,Premium,Sedan,1
+1591,8,SRX,Performance,SUV,1
+1592,8,CTS,Premium,Sedan,1
+1593,8,DTS,Luxury,Sedan,1
+1594,5,Camaro,2SS,Coupe,2
+1595,5,Colorado,Work Truck,Regular Cab,1
+1596,5,Camaro,2SS,Convertible,2
+1597,5,Camaro,2LT,Coupe,2
+1598,5,Camaro,2SS,Convertible,1
+1599,5,Silverado 1500,LTZ,Extended Cab,1
+1600,5,Camaro,2SS,Coupe,1
+1601,5,Equinox,LT2,SUV,1
+1602,5,Silverado 3500HD,LT,Crew Cab,1
+1603,5,Silverado 2500HD,Work Truck,Extended Cab,1
+1604,5,Avalanche,LS,Crew Cab,1
+1605,5,Suburban,LT 1500,SUV,1
+1606,5,Silverado 1500,LTZ,Crew Cab,1
+1607,5,Malibu,LT2,Sedan,1
+1608,33,1500,Sport,Crew Cab,1
+1609,27,Challenger,SRT8,Coupe,2
+1610,27,Challenger,SRT8 Core,Coupe,1
+1611,27,Challenger,R/T,Coupe,1
+1612,27,Challenger,SRT8,Coupe,1
+1613,27,Charger,R/T,Sedan,1
+1614,5,Traverse,LTZ,SUV,1
+1615,27,Journey,Lux,SUV,1
+1616,27,Caliber,Mainstreet,Wagon,1
+1617,27,Avenger,Mainstreet,Sedan,1
+1618,27,Grand Caravan,Crew,Minivan,1
+1619,27,Durango,Crew,SUV,1
+1620,27,Journey,Mainstreet,SUV,1
+1621,27,Journey,Crew,SUV,1
+1622,27,Caliber,Rush,Wagon,2
+1623,27,Durango,Express,SUV,1
+1624,27,Grand Caravan,C/V,Minivan,1
+1625,27,Grand Caravan,Mainstreet,Minivan,1
+1626,27,Avenger,Lux,Sedan,1
+1627,27,Durango,Citadel,SUV,1
+1628,27,Journey,Express,SUV,1
+1629,7,E-Series Van,E-350 Super Duty,E-Series Van,1
+1630,7,Crown Victoria,LX Fleet,Sedan,1
+1631,7,F-150,XL,SuperCrew,1
+1632,7,F-150,SVT Raptor,SuperCrew,1
+1633,7,F-250 Super Duty,King Ranch,Crew Cab,1
+1634,7,F-150,Platinum,SuperCrew,1
+1635,7,Ranger,XL,SuperCab,1
+1636,7,Ranger,SPORT,SuperCab,1
+1637,7,Transit Connect,Cargo Van XL,Minivan,1
+1638,7,Flex,Titanium,Wagon,1
+1639,7,Ranger,SPORT,SuperCab,2
+1640,7,Focus,SES,Sedan,1
+1641,32,Sierra 3500HD,SLE,Crew Cab,1
+1642,32,Acadia,Denali,SUV,1
+1643,32,Sierra 1500,Work Truck,Regular Cab,1
+1644,32,Sierra 2500HD,SLE,Crew Cab,1
+1645,32,Canyon,SLE,Crew Cab,1
+1646,32,Yukon,SLT,SUV,1
+1647,32,Sierra 3500HD,Denali,Crew Cab,1
+1648,32,Sierra 1500,SL,Crew Cab,1
+1649,32,Acadia,SL,SUV,1
+1650,31,CR-V,SE,SUV,1
+1651,31,CR-Z,EX,Hatchback,1
+1652,31,Insight,LX,Hatchback,1
+1653,31,CR-Z,Base,Hatchback,1
+1654,31,CR-V,EX-L,SUV,2
+1655,31,Accord,EX-L V-6,Coupe,2
+1656,11,Genesis Coupe,3.8 Grand Touring,Genesis Coupe,1
+1657,11,Veracruz,GLS,SUV,1
+1658,11,Sonata,GLS,Sedan,2
+1659,11,Sonata,Limited PZEV,Sedan,1
+1660,11,Tucson,GL,SUV,1
+1661,13,M56,x,Sedan,1
+1662,13,G Coupe,G37 Journey,G Coupe,1
+1663,13,M56,Base,Sedan,1
+1664,21,XF,XFR,Sedan,1
+1665,14,Wrangler,Unlimited Sport,SUV,2
+1666,14,Patriot,Sport,SUV,2
+1667,14,Grand Cherokee,Overland,SUV,1
+1668,1,Forte,EX,Hatchback,1
+1669,14,Compass,Base,SUV,2
+1670,14,Wrangler,Rubicon,SUV,2
+1671,27,Durango,R/T,SUV,1
+1672,27,Durango,Limited,SUV,1
+1673,27,Dart,SE,Sedan,1
+1674,1,Soul,Sport,Wagon,1
+1675,1,Sportage,SX,SUV,1
+1676,1,Sportage,Base,SUV,2
+1677,10,GX 460,Premium,SUV,1
+1678,17,CX-9,Sport,SUV,1
+1679,18,Cooper Countryman,S,Wagon,1
+1680,17,CX-7,i Sport,SUV,1
+1681,18,Cooper Countryman,S ALL4,Wagon,1
+1682,17,CX-7,i SV,SUV,1
+1683,17,MX-5 Miata,Touring,Convertible,1
+1684,17,MX-5 Miata,Sport,Convertible,1
+1685,17,Mazda3,s Sport,Sedan,2
+1686,15,E-Class,E550,Sedan,1
+1687,17,Mazda3,i Sport,Sedan,2
+1688,17,Mazda3,s Sport,Hatchback,2
+1689,16,Lancer,DE,Sedan,2
+1690,16,Outlander Sport,ES,SUV,1
+1691,16,Endeavor,LS,SUV,1
+1692,16,Lancer,ES,Sedan,2
+1693,15,R-Class,R350 BlueTEC,Wagon,1
+1694,4,Frontier,PRO-4X,Crew Cab,1
+1695,4,Frontier,S,King Cab,2
+1696,4,Pathfinder,S,SUV,1
+1697,4,Quest,LE,Minivan,1
+1698,4,Sentra,SE-R,Sedan,1
+1699,33,Dakota,BigHorn,Extended Cab,1
+1700,4,Sentra,2,Sedan,2
+1701,4,Versa,1.8 S,Hatchback,2
+1702,4,Titan,SL,Crew Cab,1
+1703,4,Versa,1.6,Sedan,1
+1704,26,Panamera,S,Sedan,1
+1705,4,Sentra,SE-R Spec V,Sedan,2
+1706,24,Impreza,Outback Sport,Hatchback,1
+1707,42,SX4,SportBack Technology,Hatchback,1
+1708,24,Legacy,3.6R Limited,Sedan,1
+1709,24,Forester,2.5X Premium,SUV,1
+1710,24,Forester,2.5X,SUV,1
+1711,24,Impreza,2.5i Premium,Hatchback,1
+1712,33,Dakota,ST,Extended Cab,1
+1713,41,9-5,Turbo4 Premium,Sedan,1
+1714,24,Impreza,WRX STI,Sedan,1
+1715,24,Legacy,2.5i,Sedan,2
+1716,42,SX4,Sport GTS,Sedan,1
+1717,42,SX4,LE,Sedan,2
+1718,24,Legacy,2.5i Limited,Sedan,1
+1719,24,Impreza,Outback Sport,Hatchback,2
+1720,22,Jetta,SE PZEV,Sedan,2
+1721,23,Tacoma,Base,Regular Cab,1
+1722,22,Jetta,TDI,Sedan,2
+1723,22,Eos,Lux SULEV,Convertible,1
+1724,9,RL,Base,Sedan,1
+1725,3,C30,R-Design,Hatchback,1
+1726,22,Jetta,S,Sedan,1
+1727,22,Golf,2.5L,Hatchback,1
+1728,22,Tiguan,SEL,SUV,1
+1729,2,7 Series,750i,Sedan,1
+1730,2,ActiveHybrid X6,Base,SUV,1
+1731,6,Q5,3.2 Premium quattro,SUV,1
+1732,5,Cobalt,LT,Sedan,1
+1733,5,Aveo,LS,Sedan,2
+1734,5,Aveo,1LT,Sedan,2
+1735,5,Cobalt,LS,Coupe,2
+1736,8,STS,V6 Luxury Sport,Sedan,1
+1737,8,Escalade,Platinum Edition,SUV,1
+1738,5,Aveo,Aveo5 LS,Hatchback,2
+1739,5,Camaro,1SS,Coupe,1
+1740,5,Cobalt,LS,Sedan,2
+1741,5,Cobalt,LT,Sedan,2
+1742,5,Malibu,Fleet,Sedan,1
+1743,29,Sebring,Limited,Sedan,1
+1744,29,Town and Country,Limited Fleet,Minivan,1
+1745,27,Grand Caravan,Hero,Minivan,1
+1746,27,Charger,RT Fleet,Sedan,1
+1747,29,PT Cruiser,Classic,Wagon,1
+1748,27,Journey,R/T,SUV,1
+1749,27,Nitro,SXT Fleet,SUV,1
+1750,7,Escape,XLT,SUV,2
+1751,27,Ram Pickup 1500,SLT,Crew Cab,1
+1752,27,Ram Pickup 1500,ST,Regular Cab,1
+1753,7,F-150,SVT Raptor,SuperCab,1
+1754,7,Mustang,GT Premium,Convertible,2
+1755,7,Focus,SES,Coupe,1
+1756,7,Mustang,GT Premium,Coupe,2
+1757,31,Accord Crosstour,EX,Hatchback,1
+1758,31,Element,EX,SUV,1
+1759,32,Sierra 1500,SLT,Crew Cab,1
+1760,13,M35,Base,Sedan,1
+1761,31,Ridgeline,RTL,Crew Cab,1
+1762,11,Genesis Coupe,3.8 Track,Genesis Coupe,2
+1763,11,Elantra,Blue,Sedan,2
+1764,11,Elantra Touring,GLS,Hatchback,1
+1765,11,Elantra Touring,SE,Hatchback,1
+1766,13,G37 Coupe,x,G37 Coupe,1
+1767,14,Liberty,Renegade,SUV,1
+1768,11,Sonata,Limited V6,Sedan,1
+1769,10,HS 250h,Base,Sedan,1
+1770,1,Forte,LX,Sedan,2
+1771,10,HS 250h,Premium,Sedan,1
+1772,1,Sedona,Base,Minivan,1
+1773,27,Journey,Limited,SUV,1
+1774,28,500,Pop,Hatchback,2
+1775,28,500L,Easy,Wagon,2
+1776,7,E-Series Wagon,E-150 XL,Van,1
+1777,17,Mazda3,i SV,Sedan,2
+1778,17,Mazdaspeed3,Sport,Hatchback,2
+1779,18,Cooper Clubman,S,Hatchback,1
+1780,15,GL-Class,GL350 BlueTEC,SUV,1
+1781,15,E-Class,E63 AMG,Sedan,1
+1782,15,E-Class,E550 4MATIC,Sedan,1
+1783,15,E-Class,E350 4MATIC,Sedan,1
+1784,39,Mariner,Base,SUV,1
+1785,4,Frontier,SE,King Cab,2
+1786,4,Cube,1.8 Base,Wagon,1
+1787,15,GLK-Class,GLK350 4MATIC,SUV,1
+1788,16,Lancer Evolution,MR,Sedan,1
+1789,4,370Z,Touring,Convertible,1
+1790,16,Lancer Evolution,MR Touring,Sedan,2
+1791,39,Milan Hybrid,Base,Sedan,1
+1792,4,Cube,1.8 S,Wagon,1
+1793,15,M-Class,ML550 4MATIC,SUV,1
+1794,36,Vibe,Base,Hatchback,1
+1795,24,Impreza,2.5i,Sedan,2
+1796,26,Panamera,4S,Sedan,1
+1797,4,Rogue,SL,SUV,1
+1798,36,G6,Fleet,Sedan,1
+1799,26,911,Carrera,Coupe,2
+1800,24,Forester,2.5X Limited,SUV,1
+1801,26,Panamera,Turbo,Sedan,1
+1802,41,9-3,2.0T,Sedan,1
+1803,24,Legacy,2.5i,Sedan,1
+1804,42,Grand Vitara,XSport,SUV,1
+1805,26,Cayenne,GTS,SUV,1
+1806,44,Ghost,Base,Sedan,1
+1807,23,Corolla,Base,Sedan,2
+1808,23,Tundra,Tundra Grade,Double Cab,1
+1809,23,Matrix,Base,Hatchback,1
+1810,6,A5,quattro,Coupe,2
+1811,22,Golf,2.5L,Hatchback,2
+1812,23,Yaris,Base,Hatchback,2
+1813,6,A4,2.0T quattro,Convertible,1
+1814,6,A6,3.0T quattro,Sedan,1
+1815,22,Passat,Komfort,Wagon,1
+1816,22,Jetta,SportWagen SE,Wagon,1
+1817,22,Passat,Komfort PZEV,Sedan,1
+1818,22,Jetta,SportWagen TDI,Wagon,1
+1819,22,Jetta,Limited Edition PZEV,Sedan,2
+1820,22,Tiguan,S,SUV,2
+1821,22,New Beetle,2.5L Red Rock Edition,Hatchback,1
+1822,6,R8,quattro,Coupe,1
+1823,22,Jetta,SportWagen TDI,Wagon,2
+1824,22,Touareg,VR6 FSI,SUV,1
+1825,2,1 Series,135i,Coupe,1
+1826,12,Lucerne,Super,Sedan,1
+1827,2,3 Series,335i xDrive,Coupe,2
+1828,2,X5,xDrive30i,SUV,2
+1829,5,Silverado 1500 Hybrid,Base,Crew Cab,1
+1830,5,Suburban,1500 LT1,SUV,1
+1831,5,HHR,Panel LS,Wagon,1
+1832,5,Equinox,Sport,SUV,1
+1833,5,Aveo,Aveo5 2LT,Hatchback,2
+1834,5,Cobalt,LS,Coupe,1
+1835,5,Aveo,Aveo5 LS,Hatchback,1
+1836,29,Aspen,Limited,SUV,1
+1837,29,300,Limited,Sedan,1
+1838,5,Tahoe,LT2,SUV,1
+1839,7,F-350 Super Duty,XL,Crew Cab,2
+1840,27,Ram Pickup 2500,Laramie,Quad Cab,1
+1841,27,Ram Pickup 2500,ST,Quad Cab,1
+1842,7,Econoline Cargo,E-350 Super Duty,Van,1
+1843,7,Focus,SE,Coupe,2
+1844,31,Civic,EX-L,Coupe,1
+1845,32,Yukon XL,SLT2 1500,SUV,1
+1846,32,Savana Cargo,1500,Van,1
+1847,7,Taurus X,SEL,Wagon,1
+1848,32,Sierra 1500,Work Truck,Crew Cab,1
+1849,31,Accord,EX,Sedan,2
+1850,31,Civic,LX-S,Sedan,2
+1851,11,Sonata,SE V6,Sedan,1
+1852,13,G37,Base,Sedan,1
+1853,11,Sonata,GLS V6,Sedan,1
+1854,13,G37,x,Sedan,1
+1855,1,Optima,LX,Sedan,2
+1856,1,Borrego,EX,SUV,1
+1857,17,Mazda6,s Grand Touring,Sedan,1
+1858,15,GL-Class,GL320 BlueTEC,SUV,1
+1859,15,M-Class,ML550,SUV,1
+1860,17,6,i Sport,Sedan,2
+1861,17,Mazda6,s Touring,Sedan,1
+1862,18,Cooper,John Cooper Works,Hatchback,2
+1863,39,Sable,Premier,Sedan,1
+1864,4,Altima,2.5 S,Coupe,2
+1865,4,Frontier,SE,King Cab,1
+1866,16,Lancer,ES-Sport,Sedan,1
+1867,4,370Z,Base,Coupe,2
+1868,16,Eclipse,GT,Hatchback,1
+1869,16,Eclipse,GT,Hatchback,2
+1870,39,Mariner Hybrid,Base,SUV,1
+1871,37,VUE,XE,SUV,1
+1872,36,G8,GT,Sedan,1
+1873,36,Vibe,Base,Hatchback,2
+1874,36,Torrent,Base,SUV,1
+1875,37,VUE Hybrid,Base,SUV,1
+1876,36,G3,Base,Hatchback,2
+1877,41,9-7X,4.2i,SUV,1
+1878,26,Cayman,Base,Coupe,2
+1879,24,Impreza,2.5i,Hatchback,2
+1880,42,SX4,Sport,Sedan,1
+1881,23,Matrix,S,Hatchback,2
+1882,42,SX4,Crossover,Hatchback,2
+1883,22,CC,VR6 4Motion,Sedan,1
+1884,22,New Beetle,2.5L,Hatchback,1
+1885,6,A4,2.0T quattro,Sedan,2
+1886,22,CC,Sport,Sedan,2
+1887,22,Jetta,SportWagen SE PZEV,Wagon,1
+1888,22,Passat,Komfort,Sedan,1
+1889,22,Eos,Lux,Convertible,1
+1890,22,Eos,Komfort,Convertible,1
+1891,6,A4,2.0T,Convertible,1
+1892,22,Routan,SEL,Minivan,1
+1893,22,Routan,SEL Premium,Minivan,1
+1894,2,3 Series,335xi,Sedan,1
+1895,6,A6,3.2 quattro,Sedan,1
+1896,2,3 Series,335i,Sedan,2
+1897,2,3 Series,335xi,Coupe,1
+1898,6,TT,3.2 quattro,Convertible,1
+1899,2,5 Series,528xi,Sedan,1
+1900,6,Q7,4.2 Premium quattro,SUV,1
+1901,2,3 Series,328xi,Sedan,1
+1902,6,S5,quattro,Coupe,2
+1903,2,5 Series,535xi,Sedan,1
+1904,2,5 Series,535xi,Wagon,1
+1905,2,M3,Base,Convertible,2
+1906,8,DTS,Performance,Sedan,1
+1907,12,Lucerne,CX,Sedan,1
+1908,7,Expedition,King Ranch,SUV,1
+1909,5,Aveo,Aveo5 Special Value,Hatchback,1
+1910,5,Silverado 3500HD,LTZ,Crew Cab,1
+1911,5,Aveo,Aveo5 Special Value,Hatchback,2
+1912,5,Suburban,2500 LT,SUV,1
+1913,5,Cobalt,Sport,Coupe,1
+1914,5,TrailBlazer,Fleet,SUV,1
+1915,5,TrailBlazer,SS,SUV,1
+1916,5,Uplander,LT,Minivan,1
+1917,27,Caliber,R/T,Wagon,1
+1918,27,Nitro,SXT,SUV,1
+1919,27,Ram Pickup 2500,SLT,Quad Cab,1
+1920,27,Charger,SRT-8,Sedan,1
+1921,27,Ram Pickup 1500,ST,Quad Cab,2
+1922,27,Ram Pickup 3500,Laramie,Quad Cab,1
+1923,27,Magnum,SXT,Wagon,1
+1924,27,Ram Pickup 3500,ST,Quad Cab,1
+1925,27,Sprinter Cargo,3500 170 WB,Van,1
+1926,7,F-350 Super Duty,Lariat,SuperCab,1
+1927,7,F-350 Super Duty,XLT,SuperCab,1
+1928,7,Explorer Sport Trac,Limited,Crew Cab,1
+1929,7,F-250 Super Duty,XLT,Crew Cab,2
+1930,7,Expedition EL,XLT,SUV,1
+1931,7,F-250 Super Duty,FX4,Crew Cab,1
+1932,7,F-250 Super Duty,Lariat,SuperCab,1
+1933,7,F-150,60th Anniversary,SuperCrew,1
+1934,7,F-250 Super Duty,FX4,SuperCab,1
+1935,7,Mustang,Deluxe,Coupe,2
+1936,32,Envoy,SLT,SUV,1
+1937,32,Sierra 3500HD,SLE1,Crew Cab,1
+1938,32,Sierra 1500,SLT,Extended Cab,1
+1939,32,Sierra 1500,SLE1,Extended Cab,1
+1940,32,Yukon Hybrid,Base,SUV,1
+1941,31,Civic,Si,Sedan,1
+1942,31,Pilot,Special Edition,SUV,1
+1943,40,H3,Alpha,SUV,1
+1944,7,Fiesta,SE,Sedan,2
+1945,13,G35,x,Sedan,1
+1946,13,G37,Sport,Coupe,1
+1947,11,Tiburon,GT,Hatchback,2
+1948,11,Tiburon,GS,Hatchback,1
+1949,21,X-Type,3.0L,Sedan,1
+1950,13,G37,Base,Coupe,1
+1951,14,Patriot,Limited,SUV,2
+1952,14,Wrangler,X,SUV,1
+1953,14,Wrangler,Rubicon,SUV,1
+1954,1,Sportage,LX,SUV,2
+1955,19,LR3,V8 SE,SUV,1
+1956,19,LR2,SE,SUV,1
+1957,17,CX-7,Grand Touring,SUV,1
+1958,17,MX-5 Miata,Touring,Convertible,2
+1959,17,Mazda6,i Sport Value Edition,Sedan,2
+1960,39,Mariner,V6,SUV,1
+1961,15,CL-Class,CL63 AMG,Coupe,1
+1962,15,M-Class,ML320 CDI,SUV,1
+1963,39,Grand Marquis,GS,Sedan,1
+1964,15,R-Class,R320 CDI,Wagon,1
+1965,39,Mountaineer,Premier,SUV,1
+1966,4,Frontier,LE,Crew Cab,1
+1967,16,Eclipse,SE,Hatchback,1
+1968,36,G8,Base,Sedan,1
+1969,36,Grand Prix,GXP,Sedan,1
+1970,37,Outlook,XR,SUV,1
+1971,41,9-7X,5.3i,SUV,1
+1972,37,Astra,XR,Hatchback,2
+1973,24,Tribeca,Limited 5-Passenger,SUV,1
+1974,42,XL7,Premium,SUV,1
+1975,42,Grand Vitara,Luxury,SUV,1
+1976,34,fortwo,passion,Hatchback,1
+1977,24,Outback,3.0 R L.L.Bean Edition,Wagon,1
+1978,24,Forester,2.5 X Premium Package,Wagon,1
+1979,42,Forenza,Base,Sedan,1
+1980,42,XL7,Limited,SUV,1
+1981,37,Sky,Red Line,Convertible,1
+1982,24,Outback,2.5I Limited,Wagon,1
+1983,23,Yaris,Base,Hatchback,1
+1984,23,Highlander Hybrid,Base,SUV,1
+1985,23,Yaris,S,Hatchback,2
+1986,22,New Beetle,S,Hatchback,1
+1987,22,Eos,Komfort,Convertible,2
+1988,22,New Beetle,SE PZEV,Convertible,1
+1989,2,M6,Base,Convertible,1
+1990,2,5 Series,525xi,Sedan,1
+1991,6,S8,quattro,Sedan,1
+1992,2,5 Series,530xi,Sedan,1
+1993,2,7 Series,760Li,Sedan,1
+1994,2,M6,Base,Convertible,2
+1995,2,3 Series,328xi,Sedan,2
+1996,2,6 Series,650i,Convertible,2
+1997,2,Z4,3.0i,Convertible,2
+1998,8,CTS,Base,Sedan,2
+1999,12,Terraza,CXL,Minivan,1
+2000,12,Terraza,CX,Minivan,1
+2001,12,Lucerne,CXS,Sedan,1
+2002,5,Silverado 1500 Classic,Work Truck,Regular Cab,1
+2003,5,Aveo,LT,Sedan,1
+2004,5,Silverado 2500HD Classic,LT3,Crew Cab,1
+2005,5,Silverado 2500HD Classic,LS,Extended Cab,1
+2006,5,Silverado 1500 Classic,Work Truck,Extended Cab,1
+2007,5,Silverado 1500,LT1,Extended Cab,1
+2008,5,Silverado 2500HD,LTZ,Extended Cab,1
+2009,5,Cobalt,LTZ,Sedan,1
+2010,5,Corvette,Base,Convertible,2
+2011,5,Cobalt,LT,Coupe,2
+2012,27,Dakota,SLT,Quad Cab,1
+2013,27,Dakota,ST,Quad Cab,1
+2014,27,Dakota,ST,Club Cab,2
+2015,27,Ram Pickup 2500,SLT,Mega Cab,1
+2016,7,Edge,SEL Plus,SUV,1
+2017,7,Five Hundred,SEL,Sedan,1
+2018,7,F-150,XLT,Regular Cab,1
+2019,7,Taurus,SE Fleet,Sedan,1
+2020,7,Focus,ZX5 SES,Hatchback,1
+2021,7,Ranger,XL,SuperCab,2
+2022,32,Yukon XL,SLE 1500,SUV,1
+2023,32,Envoy,Denali,SUV,1
+2024,31,Accord,EX-L,Sedan,2
+2025,32,Sierra 1500,SLE1,Regular Cab,1
+2026,31,Accord,Special Edition,Sedan,1
+2027,11,Accent,SE,Hatchback,2
+2028,31,Accord,Special Edition V-6,Sedan,1
+2029,31,Element,SC,SUV,1
+2030,7,Focus ST,Base,Hatchback,2
+2031,7,Fusion Energi,Titanium,Sedan,1
+2032,13,M35,x,Sedan,1
+2033,11,Tiburon,SE,Hatchback,2
+2034,11,Veracruz,SE,SUV,1
+2035,11,Entourage,Limited,Minivan,1
+2036,13,G35,Journey,Sedan,1
+2037,1,Spectra,LX,Sedan,2
+2038,14,Compass,Limited,SUV,1
+2039,14,Wrangler,X,SUV,2
+2040,14,Wrangler,Sahara,SUV,2
+2041,10,IS 250,Base,Sedan,2
+2042,17,B-Series Truck,B4000,Cab Plus 4,2
+2043,17,Mazda6,i Grand Touring,Hatchback,1
+2044,15,CLS-Class,CLS63 AMG,Sedan,1
+2045,15,R-Class,R500,Wagon,1
+2046,17,Mazdaspeed Mazda6,Grand Touring,Sedan,2
+2047,15,C-Class,C280 Luxury 4MATIC,Sedan,1
+2048,39,Mountaineer,Base,SUV,1
+2049,16,Eclipse Spyder,GS,Convertible,1
+2050,39,Montego,Premier,Sedan,1
+2051,16,Eclipse,SE,Hatchback,2
+2052,4,Frontier,LE,Crew Cab,2
+2053,16,Raider,LS,Extended Cab,1
+2054,4,350Z,Enthusiast,Convertible,1
+2055,4,Versa,1.8 SL,Sedan,2
+2056,36,G5,GT,Coupe,1
+2057,23,Camry,CE,Sedan,2
+2058,41,9-3,Aero,Convertible,1
+2059,24,B9 Tribeca,Limited 7-Passenger,SUV,1
+2060,37,Sky,Base,Convertible,2
+2061,42,XL7,Luxury,SUV,1
+2062,23,Highlander,Sport,SUV,1
+2063,23,FJ Cruiser,Base,SUV,2
+2064,23,Camry Solara,SE V6,Convertible,1
+2065,22,Jetta,Base PZEV,Sedan,2
+2066,22,Jetta,2.5 PZEV,Sedan,2
+2067,22,New Beetle,Triple White,Convertible,1
+2068,22,Eos,2.0T,Convertible,1
+2069,22,Rabbit,Base,Hatchback,1
+2070,22,Passat,Base,Sedan,1
+2071,22,New Beetle,2.5,Hatchback,1
+2072,3,S40,2.4i,Sedan,2
+2073,23,Yaris,S,Sedan,2
+2074,2,M6,Base,Coupe,1
+2075,2,3 Series,330xi,Sedan,2
+2076,2,3 Series,325xi,Sedan,1
+2077,7,Transit Connect,Wagon Titanium LWB,Minivan,1
+2078,8,Escalade EXT,Base,Crew Cab,1
+2079,12,Rainier,CXL,SUV,1
+2080,5,Silverado 1500HD,LT2,Crew Cab,1
+2081,5,Silverado 3500,Work Truck,Crew Cab,1
+2082,5,Aveo,LT,Hatchback,2
+2083,5,Silverado 2500HD,LS,Regular Cab,1
+2084,5,Silverado 1500,LT1,Regular Cab,1
+2085,29,PT Cruiser,GT,Convertible,1
+2086,5,Silverado 1500,LS,Regular Cab,2
+2087,29,Crossfire,Limited,Convertible,2
+2088,5,TrailBlazer EXT,LT,SUV,1
+2089,29,PT Cruiser,Limited,Wagon,1
+2090,27,Sprinter Cargo,2500 140 WB,Van,1
+2091,7,Expedition,XLS,SUV,1
+2092,27,Ram Pickup 3500,ST,Quad Cab,2
+2093,32,Envoy XL,Denali,SUV,1
+2094,7,Freestar,SEL,Minivan,1
+2095,7,Focus,ZX5 SE,Hatchback,2
+2096,7,Focus,ZX5 SE,Hatchback,1
+2097,7,Ranger,FX4 Off-Road,SuperCab,2
+2098,7,Freestyle,SE,Wagon,1
+2099,7,Mustang,Standard,Coupe,2
+2100,31,Accord,EX V-6,Sedan,2
+2101,31,Accord,LX Special Edition,Sedan,2
+2102,31,Accord,LX V-6,Sedan,1
+2103,32,Sierra 1500HD,SLT,Crew Cab,1
+2104,31,Accord,LX Special Edition,Sedan,1
+2105,31,Civic,EX,Sedan,2
+2106,11,Tiburon,GT,Hatchback,1
+2107,11,Elantra,Limited SULEV,Sedan,1
+2108,32,Terrain,SLT-2,SUV,1
+2109,31,Accord,Sport,Sedan,2
+2110,11,Accent,GLS,Sedan,2
+2111,32,Savana,LS 3500,Van,1
+2112,32,Sierra 1500,SLE,Double Cab,1
+2113,32,Acadia,SLE-2,SUV,1
+2114,7,Transit Connect,Wagon XLT LWB,Minivan,1
+2115,20,Zephyr,Base,Sedan,1
+2116,15,E-Class,E320 CDI,Sedan,1
+2117,17,MPV,LX,Minivan,1
+2118,38,Quattroporte,Base,Sedan,1
+2119,15,S-Class,S500,Sedan,1
+2120,15,SLK-Class,SLK55 AMG,Convertible,1
+2121,4,350Z,Touring,Convertible,1
+2122,16,Galant,SE,Sedan,1
+2123,16,Lancer,Ralliart,Sedan,2
+2124,36,G6,GTP,Coupe,1
+2125,36,G6,GTP,Sedan,1
+2126,4,Xterra,X,SUV,2
+2127,36,G6,GTP,Convertible,1
+2128,42,Forenza,Base,Sedan,2
+2129,37,Relay,3,Minivan,1
+2130,26,Cayenne,Turbo S,SUV,1
+2131,37,ION,3,Sedan,1
+2132,42,XL-7,Base,SUV,1
+2133,24,Impreza,2.5 i,Sedan,2
+2134,41,9-3,2.0T,Convertible,2
+2135,24,B9 Tribeca,Limited 5-Passenger,SUV,1
+2136,42,Verona,Base,Sedan,1
+2137,24,B9 Tribeca,5-Passenger,SUV,1
+2138,3,V70,2.5T,Wagon,1
+2139,23,Tundra,SR5,Access Cab,2
+2140,22,Passat,3.6,Sedan,1
+2141,22,Jetta,2.5,Sedan,2
+2142,22,Passat,3.6 4Motion,Sedan,1
+2143,3,V70,2.4,Wagon,1
+2144,22,Jetta,GLI,Sedan,1
+2145,2,X3,3.0i,SUV,2
+2146,2,6 Series,645Ci,Convertible,1
+2147,12,Century,Standard,Sedan,1
+2148,5,Silverado 1500,Z71,Crew Cab,1
+2149,12,Park Avenue,Ultra,Sedan,1
+2150,5,Silverado 1500HD,LT,Crew Cab,1
+2151,11,Elantra Coupe,Base,Elantra Coupe,1
+2152,13,Q50,Base,Sedan,1
+2153,5,Colorado,Z85 LS Base,Crew Cab,1
+2154,5,Silverado 2500HD,LT,Extended Cab,1
+2155,5,Express,3500,Van,1
+2156,5,Colorado,ZQ8,Extended Cab,1
+2157,5,Cavalier,Base,Coupe,1
+2158,5,Silverado 2500HD,Base,Regular Cab,1
+2159,5,Classic,Fleet,Sedan,1
+2160,5,Malibu Maxx,LS,Hatchback,1
+2161,5,Silverado 3500,LS,Crew Cab,1
+2162,5,Silverado 3500,LT,Crew Cab,1
+2163,5,TrailBlazer EXT,LS,SUV,1
+2164,29,PT Cruiser,Base,Convertible,2
+2165,27,Neon,SRT-4,Sedan,2
+2166,27,Neon,SXT,Sedan,1
+2167,7,Escape,XLT Sport,SUV,1
+2168,7,Focus,ZX4 SE,Sedan,2
+2169,7,Mustang,GT Deluxe,Coupe,1
+2170,7,Freestar,Limited,Minivan,1
+2171,7,Ranger,EDGE,SuperCab,1
+2172,31,Accord,LX Special Edition PZEV,Coupe,1
+2173,32,Sierra 2500HD,SLT,Extended Cab,1
+2174,13,G35,Base,Sedan,2
+2175,31,Element,LX,SUV,2
+2176,11,Elantra,GT,Hatchback,1
+2177,21,S-Type,4.2,Sedan,1
+2178,11,XG350,L,Sedan,1
+2179,14,Wrangler,SE,SUV,1
+2180,1,Spectra,Spectra5,Wagon,2
+2181,17,Tribute,i,SUV,1
+2182,17,Mazda6,s Sport,Sedan,2
+2183,17,Mazda6,s Sport,Sedan,1
+2184,15,C-Class,C230 Kompressor,Hatchback,1
+2185,17,Mazda6,i,Sedan,1
+2186,17,Mazda3,i,Sedan,1
+2187,15,C-Class,C230 Kompressor,Sedan,2
+2188,17,Mazda3,s,Hatchback,2
+2189,17,Mazda3,SP23 Special Edition,Sedan,1
+2190,13,Q60 Coupe,Journey,Q60 Coupe,1
+2191,13,Q50,Sport,Sedan,1
+2192,13,Q70,Base,Sedan,1
+2193,14,Cherokee,Trailhawk,SUV,1
+2194,13,QX50,Journey,SUV,1
+2195,13,Q60 Coupe,Base,Q60 Coupe,1
+2196,39,Grand Marquis,LS Premium,Sedan,1
+2197,4,Altima,2.5 S,Sedan,2
+2198,39,Montego,Luxury,Sedan,1
+2199,16,Galant,GTS V6,Sedan,1
+2200,4,Xterra,Off-Road,SUV,1
+2201,36,GTO,Base,Coupe,2
+2202,4,Xterra,Off-Road,SUV,2
+2203,26,Boxster,Base,Convertible,2
+2204,26,911,Turbo S,Coupe,2
+2205,36,Grand Am,SE Fleet,Sedan,1
+2206,4,Titan,LE,King Cab,1
+2207,36,Bonneville,GXP,Sedan,1
+2208,42,Forenza,S,Sedan,1
+2209,23,Camry,SE,Sedan,2
+2210,42,Verona,S,Sedan,1
+2211,24,Baja,Sport,Crew Cab,2
+2212,24,Outback,2.5i,Wagon,1
+2213,23,ECHO,Base,Coupe,1
+2214,23,Corolla,LE,Sedan,2
+2215,24,Legacy,2.5 GT,Sedan,1
+2216,23,Matrix,Base,Wagon,1
+2217,22,New Beetle,GL,Hatchback,2
+2218,22,Jetta,Value Edition,Sedan,2
+2219,6,A4,3.0 quattro,Sedan,2
+2220,6,A6,3.0 quattro,Sedan,1
+2221,3,XC70,Base,Wagon,1
+2222,2,3 Series,325Ci,Convertible,1
+2223,6,A4,1.8T quattro,Sedan,2
+2224,6,A6,3.0 Avant quattro,Wagon,1
+2225,9,RL,3.5,Sedan,1
+2226,9,TSX,Base,Sedan,2
+2227,5,Silverado 1500,Base,Regular Cab,1
+2228,2,Z4,2.5i,Convertible,2
+2229,2,Z4,2.5i,Convertible,1
+2230,5,Silverado 1500,Base,Regular Cab,2
+2231,2,X5,4.8is,SUV,1
+2232,5,Silverado 1500,Z71,Extended Cab,1
+2233,29,Concorde,LX,Sedan,1
+2234,5,Silverado 2500,LT,Crew Cab,1
+2235,5,Blazer,Xtreme,SUV,1
+2236,29,Crossfire,Base,Hatchback,2
+2237,29,300M,Base,Sedan,1
+2238,29,Sebring,GTC,Convertible,1
+2239,29,Concorde,Limited,Sedan,1
+2240,5,Venture,LT Entertainer,Minivan,1
+2241,7,Escape,XLS,SUV,2
+2242,27,Intrepid,SE,Sedan,1
+2243,27,Stratus,SXT,Coupe,1
+2244,7,Explorer,XLS Sport,SUV,1
+2245,7,F-150 Heritage,XL,Regular Cab,1
+2246,7,F-150 Heritage,XLT,SuperCab,1
+2247,14,Patriot,Latitude,SUV,1
+2248,14,Grand Cherokee,Summit,SUV,1
+2249,7,Ranger,Edge,SuperCab,1
+2250,7,Mustang,Mach 1 Premium,Coupe,1
+2251,7,Focus,SVT,Hatchback,2
+2252,32,Sierra 2500HD,SLE,Extended Cab,1
+2253,32,Envoy XUV,SLT,SUV,1
+2254,11,Elantra,GT,Sedan,1
+2255,31,accord,ex v-6,sedan,1
+2256,31,Element,EX,SUV,2
+2257,11,Santa Fe,Base,SUV,1
+2258,31,CR-V,EX,SUV,2
+2259,21,X-Type,3,Sedan,1
+2260,45,Rodeo,S,SUV,1
+2261,45,Ascender,S 5-Passenger,SUV,1
+2262,14,Liberty,Renegade,SUV,2
+2263,20,Town Car,Signature,Sedan,1
+2264,17,Mazda6,i,Sedan,2
+2265,10,IS 300,Base,Sedan,1
+2266,17,Mazda6,s,Wagon,1
+2267,20,Aviator,Ultimate,SUV,1
+2268,19,Freelander,SE,SUV,1
+2269,17,Tribute,ES-V6,SUV,1
+2270,16,Lancer,LS,Sedan,1
+2271,15,SL-Class,SL600,Convertible,1
+2272,15,SLK-Class,SLK230,Convertible,1
+2273,16,Eclipse,GTS,Hatchback,2
+2274,15,S-Class,S500 4MATIC,Sedan,1
+2275,15,CL-Class,CL55 AMG,Coupe,1
+2276,39,Grand Marquis,LS Ultimate,Sedan,1
+2277,4,Sentra,1.8,Sedan,1
+2278,36,Grand Am,GT,Sedan,1
+2279,4,Frontier,XE-V6,King Cab,1
+2280,36,Bonneville,SLE,Sedan,1
+2281,4,Titan,SE,King Cab,1
+2282,4,Sentra,SE-R,Sedan,2
+2283,37,ION,Red Line,Coupe,2
+2284,24,Outback,H6-3.0 L.L. Bean Edition,Wagon,1
+2285,42,XL-7,EX,SUV,1
+2286,37,L300,1,Sedan,1
+2287,24,Outback,Base,Wagon,1
+2288,36,Sunfire,Base,Coupe,2
+2289,36,Sunfire,Base,Coupe,1
+2290,36,Grand Prix,GT2,Sedan,1
+2291,22,Passat,GLS 1.8T 4Motion,Wagon,1
+2292,22,Jetta,GLI 1.8T,Sedan,1
+2293,22,Jetta,GLI VR6,Sedan,2
+2294,23,Tacoma,PreRunner V6,Xtracab,1
+2295,23,Camry Solara,SLE,Convertible,1
+2296,22,Passat,GL 1.8T,Sedan,2
+2297,22,Jetta,GLI 1.8T,Sedan,2
+2298,23,MR2 Spyder,Base,Convertible,1
+2299,22,Passat,GLX,Wagon,1
+2300,3,C70,HPT,Convertible,1
+2301,23,Matrix,XRS,Wagon,1
+2302,3,S80,2.5T,Sedan,1
+2303,6,A4,3,Sedan,1
+2304,2,3 Series,330i,Sedan,2
+2305,9,TL,3.2 Type-S,Sedan,1
+2306,6,RS 6,quattro,Sedan,1
+2307,1,Optima,LX Hybrid,Sedan,1
+2308,5,Venture,LT,Minivan,1
+2309,5,S-10,Base,Extended Cab,1
+2310,5,S-10,Base,Regular Cab,1
+2311,27,Neon,SXT,Sedan,2
+2312,7,Escape,XLT Popular,SUV,1
+2313,7,Explorer,XLT Sport,SUV,1
+2314,7,Focus,LX,Sedan,1
+2315,7,Explorer Sport,XLS,SUV,1
+2316,7,Focus,SE,Wagon,1
+2317,31,Civic,Hybrid,Sedan,2
+2318,7,Thunderbird,Deluxe,Convertible,1
+2319,32,Yukon XL,2500 SLE,SUV,1
+2320,7,Taurus,LX,Sedan,1
+2321,11,Accent,GL,Sedan,2
+2322,21,S-Type,R,Sedan,1
+2323,17,Protege5,Base,Wagon,2
+2324,17,MX-5 Miata,Base,Convertible,2
+2325,1,Spectra,Base,Sedan,2
+2326,20,Navigator,Premium,SUV,1
+2327,1,Spectra,Base,Sedan,1
+2328,1,Optima,SE,Sedan,1
+2329,17,Mazda6,s,Sedan,2
+2330,20,Town Car,Executive,Sedan,1
+2331,16,Montero Sport,LS,SUV,1
+2332,16,Montero Sport,XLS,SUV,1
+2333,16,Diamante,LS,Sedan,1
+2334,39,Mountaineer,Luxury,SUV,1
+2335,16,Outlander,LS,SUV,1
+2336,15,C-Class,C320 Sport,Sedan,1
+2337,36,Bonneville,SSEi,Sedan,1
+2338,41,9-3,SE,Convertible,1
+2339,41,9-5,Arc 3.0t,Sedan,1
+2340,37,L-Series,L200,Sedan,1
+2341,4,Frontier,SE-V6,Crew Cab,1
+2342,22,New Beetle,GL 1.8T,Hatchback,1
+2343,23,Celica,GT,Hatchback,2
+2344,22,New Beetle,GL 1.8T,Hatchback,2
+2345,23,ECHO,Base,Sedan,1
+2346,24,Baja,Base,Crew Cab,1
+2347,24,Legacy,L,Wagon,1
+2348,22,Passat,GL,Sedan,2
+2349,22,Jetta,GLS 1.8T,Sedan,1
+2350,6,A4,1.8T Avant quattro,Wagon,2
+2351,3,S40,Base,Sedan,1
+2352,2,3 Series,330Ci,Convertible,2
+2353,2,5 Series,530i,Sedan,2
+2354,1,Rio,EX,Sedan,1
+2355,2,Z3,2.5i,Convertible,1
+2356,8,Seville,STS,Sedan,1
+2357,27,Dakota,SLT,Quad Cab,2
+2358,5,Prizm,Base,Sedan,1
+2359,5,TrailBlazer,LTZ,SUV,1
+2360,5,TrailBlazer,EXT LT,SUV,1
+2361,5,Venture,Warner Brothers,Minivan,1
+2362,27,Grand Caravan,eL,Minivan,1
+2363,7,Explorer Sport Trac,Choice,Crew Cab,1
+2364,7,Escape,XLS Choice,SUV,1
+2365,7,Escape,XLT Choice,SUV,1
+2366,7,Excursion,XLT,SUV,1
+2367,27,Grand Caravan,eX,Minivan,1
+2368,27,Grand Caravan,Sport,Minivan,1
+2369,27,Grand Caravan,ES,Minivan,1
+2370,27,Stratus,R/T,Coupe,1
+2371,7,Windstar,LX,Minivan,1
+2372,7,Windstar,LX Standard,Minivan,1
+2373,7,Focus,ZTS,Sedan,1
+2374,7,Focus,ZX5,Hatchback,1
+2375,32,Sierra 1500,Denali,Extended Cab,1
+2376,7,Focus,ZTW,Wagon,1
+2377,7,Taurus,SEL Deluxe,Sedan,1
+2378,7,Mustang,GT Deluxe,Convertible,2
+2379,7,Focus,SE Comfort,Sedan,1
+2380,7,Windstar,SE,Minivan,1
+2381,31,Accord,SE,Coupe,1
+2382,14,Grand Cherokee,Sport,SUV,1
+2383,15,C-Class,C240,Sedan,1
+2384,4,Altima,2.5 SL,Sedan,2
+2385,17,Protege,DX,Sedan,1
+2386,15,CLK-Class,CLK430,Coupe,1
+2387,15,E-Class,E430,Sedan,1
+2388,36,Firebird,Base,Hatchback,1
+2389,43,Alero,GL2,Sedan,1
+2390,43,Alero,GL2,Coupe,1
+2391,26,911,Turbo,Coupe,2
+2392,36,Bonneville,SE,Sedan,1
+2393,43,Aurora,3.5,Sedan,1
+2394,26,911,Carrera,Convertible,2
+2395,37,S-Series,SC2,Coupe,2
+2396,43,Silhouette,GLS,Minivan,1
+2397,37,S-Series,SC1,Coupe,2
+2398,36,Grand Prix,GT,Coupe,1
+2399,22,Passat,GLS 1.8T,Sedan,2
+2400,22,Passat,GLS V6 4Motion,Wagon,1
+2401,22,Passat,GLX 4Motion,Wagon,1
+2402,23,Sienna,LE,Minivan,1
+2403,3,C70,HT,Convertible,1
+2404,22,New Beetle,GLS 1.8T,Hatchback,1
+2405,23,Celica,GT,Hatchback,1
+2406,3,S80,2.9,Sedan,1
+2407,2,X5,3.0i,SUV,2
+2408,6,A4,2.8 quattro,Sedan,1
+2409,5,Astro,Base,Minivan,1
+2410,6,TT,225hp quattro,Convertible,2
+2411,2,3 Series,325i,Sedan,2
+2412,2,3 Series,325Ci,Coupe,2
+2413,17,Mazda3,i Grand Touring,Sedan,1
+2414,10,GX 460,Luxury,SUV,1
+2415,38,Quattroporte,S Q4,Sedan,1
+2416,29,Sebring,LXi,Coupe,1
+2417,5,Venture,Warner Bros.,Minivan,1
+2418,29,Sebring,LXi,Sedan,1
+2419,27,Dakota,Base,Club Cab,1
+2420,7,Explorer Sport Trac,Base,Crew Cab,1
+2421,7,Crown Victoria,Base,Sedan,1
+2422,7,Econoline Wagon,E-150 XLT,Van,1
+2423,7,Escort,ZX2,Coupe,1
+2424,7,Focus,ZTS,Sedan,2
+2425,7,Windstar,SEL,Minivan,1
+2426,31,Accord,Value Package,Sedan,1
+2427,11,Tiburon,Base,Hatchback,2
+2428,17,626,LX V6,Sedan,1
+2429,17,MX-5 Miata,Base,Convertible,1
+2430,10,GS 430,Base,Sedan,1
+2431,39,Sable,LS,Sedan,1
+2432,39,Sable,LS Premium,Sedan,1
+2433,29,Prowler,Base,Convertible,1
+2434,16,Montero,XLS,SUV,1
+2435,36,Aztek,Base,SUV,1
+2436,16,Eclipse,RS,Hatchback,2
+2437,43,Alero,GLS,Sedan,1
+2438,4,Maxima,SE 20th Anniversary,Sedan,1
+2439,15,M-Class,ML55 AMG,SUV,1
+2440,22,Cabrio,GLS,Convertible,1
+2441,22,Jetta,GLS Wolfsburg Edition 1.8T,Sedan,2
+2442,37,S-Series,SW2,Wagon,1
+2443,24,Forester,L,Wagon,1
+2444,3,V70,2.4M,Wagon,1
+2445,9,Integra,GS,Hatchback,1
+2446,2,3 Series,328Ci,Coupe,1
+2447,9,Integra,LS,Hatchback,2
+2448,29,Cirrus,LXi,Sedan,1
+2449,7,Contour,SE,Sedan,1
+2450,27,Intrepid,Base,Sedan,1
+2451,29,Sebring,JX,Convertible,1
+2452,31,Accord,EX V6,Coupe,1
+2453,7,Mustang,Base,Convertible,1
+2454,32,Yukon XL,1500 SLT,SUV,1
+2455,7,Ranger,XLT,Extended Cab,1
+2456,31,CR-V,LX,SUV,2
+2457,11,Tiburon,Base,Hatchback,1
+2458,19,Range Rover,4.6 Vitesse,SUV,1
+2459,10,LX 470,Base,SUV,1
+2460,15,E-Class,E350 4MATIC,Coupe,1
+2461,15,C-Class,C63 AMG,Sedan,1
+2462,15,E-Class,E350 Sport 4MATIC,Sedan,1
+2463,15,C-Class,C350 4MATIC,Coupe,1
+2464,37,L-Series,LS1,Sedan,1
+2465,43,Alero,GLS,Coupe,1
+2466,4,Altima,GXE,Sedan,1
+2467,36,Grand Am,GT,Coupe,1
+2468,4,Frontier,XE,Extended Cab,1
+2469,4,Pathfinder,XE,SUV,1
+2470,37,L-Series,LS2,Sedan,1
+2471,43,Alero,GX,Sedan,1
+2472,24,Impreza,Outback Sport,Wagon,1
+2473,16,Mirage,DE,Coupe,1
+2474,6,A6,2.8 quattro,Sedan,1
+2475,3,S70,Base,Sedan,1
+2476,8,DeVille,Concours,Sedan,1
+2477,2,Z3,2.3,Convertible,2
+2478,8,Catera,Base,Sedan,1
+2479,22,Cabrio,GL,Convertible,2
+2480,22,Jetta,GLS 1.8T,Sedan,2
+2481,27,Ram Pickup 1500,Laramie SLT,Regular Cab,1
+2482,5,Express Cargo,G1500,Van,1
+2483,5,Cavalier,Z24,Coupe,1
+2484,5,Blazer,LT,SUV,1
+2485,7,Escort,LX,Sedan,2
+2486,31,Accord,LX V6,Coupe,1
+2487,7,Mustang SVT Cobra,Base,Coupe,2
+2488,7,Ranger,XLT,Regular Cab,2
+2489,32,Suburban,1500 SLT,SUV,1
+2490,31,Passport,EX,SUV,1
+2491,15,E-Class,E320 4MATIC,Sedan,1
+2492,4,Altima,XE,Sedan,1
+2493,15,S-Class,S320 SWB,Sedan,1
+2494,17,Protege,LX,Sedan,2
+2495,1,Sportage,Base,SUV,1
+2496,4,Sentra,XE,Sedan,2
+2497,39,Sable,LS,Wagon,1
+2498,39,Cougar,V6,Hatchback,1
+2499,9,RL,3.5 Premium,Sedan,1
+2500,8,DeVille,D'elegance,Sedan,1
+2501,8,Eldorado,Base,Coupe,1
+2502,22,Jetta,GL (1999.5),Sedan,1
+2503,5,C/K 1500 Series,Silverado,Extended Cab,1
+2504,23,RAV4,Base,SUV,2
+2505,27,Ram Pickup 1500,WS,Regular Cab,1
+2506,45,Rodeo,LS,SUV,1
+2507,19,Discovery,LE,SUV,1
+2508,15,SLK-Class,SLK230 Kompressor,Convertible,1
+2509,17,626,DX,Sedan,1
+2510,21,XK-Series,XK8,Convertible,1
+2511,43,Bravada,Base,SUV,1
+2512,7,Crown Victoria,LX,Sedan,1
+2513,23,Corolla,VE,Sedan,1
+2514,12,Century,Custom,Sedan,1
+2515,9,CL,2.2,Coupe,1
+2516,2,3 Series,318i,Sedan,1
+2517,7,Taurus,GL,Wagon,1
+2518,36,Grand Prix,GTP,Coupe,1
+2519,7,F-150,XL,Extended Cab,2
+2520,16,Mirage,ES,Hatchback,2
+2521,16,Mirage,DE,Hatchback,1
+2522,16,Outlander,GT,SUV,1
+2523,16,Mirage,ES,Hatchback,1
+2524,15,SLK-Class,SLK250,Convertible,1
+2525,16,Lancer,SE,Sedan,1
+2526,16,Mirage,DE,Hatchback,2
+2527,15,Sprinter,2500 144 WB Cargo,Van,1
+2528,15,S-Class,S63 AMG 4MATIC,Sedan,1
+2529,17,B-Series Pickup,B2300,Regular Cab,1
+2530,14,Cherokee,Country,SUV,1
+2531,10,SC 300,Base,Coupe,1
+2532,5,Lumina,Base,Sedan,1
+2533,2,Z3,1.9,Convertible,1
+2534,4,Truck,Base,Regular Cab,2
+2535,12,Century,Limited,Sedan,1
+2536,27,Ram Pickup 1500,LT,Regular Cab,1
+2537,15,S-Class,S420,Sedan,1
+2538,8,Seville,Base,Sedan,1
+2539,15,E-Class,E420,Sedan,1
+2540,23,Pickup,DX V6,Extended Cab,2
+2541,15,E-Class,E320,Convertible,1
+2542,15,500-Class,500SL,Convertible,1
+2543,23,Corolla,Deluxe,Sedan,1
+2544,23,Camry,Deluxe,Sedan,1
+2545,14,Cherokee,Laredo,SUV,1
+2546,4,Versa,1.6 SL,Sedan,1
+2547,14,Wrangler,Unlimited Freedom Edition,SUV,1
+2548,4,Murano CrossCabriolet,Base,SUV,1
+2549,4,GT-R,Track Edition,Coupe,1
+2550,4,Versa Note,1.6 SV,Hatchback,2
+2551,4,Versa,1.6 SV,Sedan,2
+2552,33,1500,Tradesman,Regular Cab,1
+2553,33,1500,Tradesman,Quad Cab,1
+2554,26,Cayman,S,Coupe,1
+2555,24,Impreza,2.0i Premium PZEV,Hatchback,1
+2556,24,Impreza,2.0i PZEV,Sedan,1
+2557,24,XV Crosstrek,Premium,SUV,1
+2558,24,Forester,2.5i Premium PZEV,SUV,1
+2559,33,3500,Laramie Longhorn,Crew Cab,1
+2560,24,Forester,2.5i Touring PZEV,SUV,1
+2561,23,4Runner,Trail,SUV,1
+2562,24,Forester,2.5i Limited PZEV,SUV,1
+2563,23,RAV4,LE,SUV,1
+2564,23,Yaris,SE,Hatchback,1
+2565,23,Yaris,SE,Hatchback,2
+2566,22,Jetta Hybrid,Base,Sedan,1
+2567,23,Corolla,S Plus,Sedan,1
+2568,23,Tundra,Platinum,CrewMax Cab,1
+2569,23,Tundra,1794,CrewMax Cab,1
+2570,23,Tundra,1794 FFV,CrewMax Cab,1
+2571,23,Corolla,LE Plus,Sedan,1
+2572,23,Tundra,Limited FFV,Double Cab,1
+2573,6,A6,3.0T Premium Plus quattro,Sedan,1
+2574,9,TL,Advance Package,Sedan,1
+2575,6,A5,2.0T Premium quattro,Coupe,2
+2576,6,allroad,Premium Plus quattro,Wagon,1
+2577,6,S7,Prestige quattro,Sedan,1
+2578,6,A4,2.0T Prestige quattro,Sedan,1
+2579,6,A8,3.0T quattro,Sedan,1
+2580,6,A5,2.0T Premium,Convertible,1
+2581,6,A6,2.0T Premium,Sedan,1
+2582,9,TSX,Technology Package,Sedan,1
+2583,2,7 Series,750i xDrive,Sedan,1
+2584,2,X1,xDrive28i,SUV,1
+2585,2,7 Series,740Li xDrive,Sedan,1
+2586,2,6 Series Gran Coupe,640i,Sedan,1
+2587,12,Regal,Premium 1,Sedan,1
+2588,8,ATS,Premium,Sedan,1
+2589,12,Encore,Leather,SUV,1
+2590,12,Verano,Leather Group,Sedan,1
+2591,12,Verano,Convenience Group,Sedan,1
+2592,12,Regal,Premium 1 Turbo,Sedan,1
+2593,12,Encore,Convenience,SUV,1
+2594,2,5 Series,ActiveHybrid 5,Sedan,1
+2595,12,Verano,Base,Sedan,1
+2596,8,XTS,Premium,Sedan,1
+2597,5,Black Diamond Avalanche,LTZ,Crew Cab,1
+2598,5,Camaro,ZL1,Coupe,2
+2599,5,Camaro,SS,Coupe,1
+2600,5,Camaro,ZL1,Convertible,1
+2601,5,Camaro,ZL1,Convertible,2
+2602,8,XTS,Luxury,Sedan,1
+2603,5,Black Diamond Avalanche,LT,Crew Cab,1
+2604,5,Camaro,SS,Convertible,1
+2605,6,A6,2.0T Premium quattro,Sedan,1
+2606,2,3 Series,328i xDrive SULEV,Sedan,1
+2607,2,4 Series,428i,Coupe,1
+2608,6,A6,2.0T Premium Plus,Sedan,1
+2609,9,RLX,Technology Package,Sedan,1
+2610,6,Q7,TDI Premium Plus quattro,SUV,1
+2611,2,2 Series,228i,Coupe,1
+2612,6,A6,2.0T Premium Plus quattro,Sedan,1
+2613,6,A6,TDI Premium Plus quattro,Sedan,1
+2614,5,Malibu,Eco,Sedan,1
+2615,5,Spark,1LT,Hatchback,2
+2616,5,Sonic,LS,Sedan,1
+2617,5,Sonic,LT,Sedan,2
+2618,5,Spark,LS,Hatchback,1
+2619,29,200,S,Convertible,1
+2620,27,Dart,Limited,Sedan,1
+2621,27,Dart,Limited,Sedan,2
+2622,28,500,Pop,Hatchback,1
+2623,7,Expedition,EL XLT,SUV,1
+2624,7,Focus,Electric,Hatchback,1
+2625,7,Fiesta,Titanium,Hatchback,2
+2626,7,Fiesta,Titanium,Hatchback,1
+2627,7,Fiesta,S,Hatchback,1
+2628,7,Focus,SE,Hatchback,2
+2629,2,M6 Gran Coupe,Base,Sedan,1
+2630,8,ATS,Standard,Sedan,1
+2631,12,Regal,Base,Sedan,1
+2632,7,Fusion Hybrid,Titanium,Sedan,1
+2633,7,Taurus,SHO,Sedan,1
+2634,32,Sierra 3500HD,SLT,Crew Cab,1
+2635,32,Sierra 2500HD,Denali,Crew Cab,1
+2636,31,Pilot,EX-L w/Navigation,SUV,1
+2637,31,Civic,Hybrid PZEV,Sedan,1
+2638,11,Elantra GT,Base,Hatchback,2
+2639,11,Elantra Coupe,GS PZEV,Elantra Coupe,2
+2640,11,Genesis Coupe,2.0T,Genesis Coupe,1
+2641,11,Genesis Coupe,2.0T,Genesis Coupe,2
+2642,11,Veloster,Base,Hatchback,2
+2643,1,Forte,Koup EX,Koup,2
+2644,20,MKZ,Hybrid,Sedan,1
+2645,17,Mazdaspeed3,Touring,Hatchback,2
+2646,18,Cooper Paceman,S ALL4,Hatchback,2
+2647,8,XTS,Vsport Platinum,Sedan,1
+2648,5,Silverado 1500,LTZ,Double Cab,1
+2649,5,Silverado 1500,High Country,Crew Cab,1
+2650,15,CLS-Class,CLS550 4MATIC,Sedan,1
+2651,15,E-Class,E350 Sport BlueTEC,Sedan,1
+2652,15,Sprinter,2500 144 WB Crew,Van,1
+2653,16,Lancer Sportback,GT,Hatchback,1
+2654,16,Lancer,GT,Sedan,2
+2655,4,Sentra,SL,Sedan,1
+2656,4,Quest,SL,Minivan,1
+2657,4,Sentra,SR,Sedan,2
+2658,4,Titan,SV,Crew Cab,1
+2659,34,fortwo,pure coupe,Hatchback,1
+2660,24,Legacy,2.5i PZEV,Sedan,1
+2661,33,C/V Tradesman,Base,Minivan,1
+2662,33,1500,Tradesman,Crew Cab,1
+2663,26,Panamera,GTS,Sedan,1
+2664,33,3500,Laramie Longhorn Edition,Crew Cab,1
+2665,24,Impreza,2.0i Sport Limited PZEV,Hatchback,1
+2666,24,BRZ,Limited,Coupe,2
+2667,24,Impreza WRX,STI,Hatchback,2
+2668,24,Forester,2.5X Premium PZEV,SUV,2
+2669,24,Forester,2.5X PZEV,SUV,1
+2670,46,Model S,Performance,Sedan,1
+2671,42,SX4,LE Popular Package,Sedan,2
+2672,23,Tacoma,V6,Double Cab,2
+2673,23,Sienna,L 7-Passenger,Minivan,1
+2674,23,RAV4,XLE,SUV,1
+2675,23,Tacoma,Base,Double Cab,1
+2676,23,Tundra,Tundra FFV,CrewMax Cab,1
+2677,23,Prius c,One,Hatchback,1
+2678,22,GTI,Driver's Edition PZEV,Hatchback,2
+2679,22,CC,VR6 4Motion Executive,Sedan,1
+2680,22,Passat,V6 SE,Sedan,1
+2681,22,Golf R,Base,Hatchback,2
+2682,22,Tiguan,S 4Motion,SUV,1
+2683,22,Touareg,VR6 Executive,SUV,1
+2684,22,Passat,Wolfsburg Edition,Sedan,1
+2685,9,TSX Sport Wagon,Technology Package,TSX Sport Wagon,1
+2686,6,A3,2.0 TDI Premium,Wagon,1
+2687,9,TL,SH-AWD w/Technology Package,Sedan,1
+2688,9,TL,SH-AWD w/Advance Package,Sedan,1
+2689,9,TSX,Special Edition,Sedan,2
+2690,5,Corvette Stingray,Base,Coupe,1
+2691,5,Corvette Stingray,Z51,Coupe,2
+2692,6,TTS,Premium Plus quattro,Convertible,1
+2693,6,S4,Premium Plus quattro,Sedan,2
+2694,2,3 Series,328i xDrive,Wagon,1
+2695,2,6 Series,650i xDrive,Coupe,1
+2696,8,CTS-V Coupe,Base,CTS-V Coupe,2
+2697,8,CTS Coupe,Base,CTS Coupe,1
+2698,12,LaCrosse,Premium I Group,Sedan,1
+2699,12,LaCrosse,Premium II Group,Sedan,1
+2700,5,Captiva Sport,1LS Fleet,SUV,1
+2701,5,Colorado,1LT,Crew Cab,1
+2702,5,Colorado,2LT,Crew Cab,1
+2703,29,200,Touring,Convertible,1
+2704,5,Sonic,LT,Hatchback,2
+2705,5,Sonic,LS,Hatchback,2
+2706,27,Journey,American Value Package,SUV,1
+2707,28,500,Sport,Hatchback,1
+2708,27,Challenger,SRT8 392,Coupe,2
+2709,28,500,Lounge,Hatchback,1
+2710,7,F-350 Super Duty,King Ranch,Crew Cab,1
+2711,7,Fiesta,S,Sedan,2
+2712,7,Focus,BEV,Hatchback,1
+2713,5,Spark,LS,Hatchback,2
+2714,5,SS,Base,Sedan,1
+2715,31,Crosstour,EX,Hatchback,1
+2716,11,Genesis,5,Sedan,1
+2717,11,Sonata,GLS PZEV,Sedan,1
+2718,1,Optima,EX Turbo,Sedan,1
+2719,14,Liberty,Limited Jet,SUV,1
+2720,1,Rio,SX,Sedan,1
+2721,1,Forte,Koup SX,Koup,1
+2722,29,200,Limited,Convertible,1
+2723,19,LR2,Base,SUV,1
+2724,10,IS 250 C,Base,Convertible,1
+2725,17,Mazda6,i Touring Plus,Sedan,1
+2726,17,6,s Touring Plus,Sedan,1
+2727,18,Cooper Countryman,Base,Wagon,2
+2728,17,Mazdaspeed 3,Touring,Hatchback,2
+2729,17,Mazda3,s Touring,Hatchback,2
+2730,15,Sprinter,2500 170 WB Cargo,Van,1
+2731,16,i-MiEV,ES,Hatchback,1
+2732,4,Juke,SL,Hatchback,1
+2733,4,Frontier,SV,King Cab,1
+2734,4,Frontier,PRO-4X,King Cab,1
+2735,4,Frontier,S,Crew Cab,1
+2736,4,Quest,S,Minivan,1
+2737,4,Titan,PRO-4X,Crew Cab,1
+2738,4,Xterra,Pro-4X,SUV,2
+2739,26,911,Carrera Black Edition,Coupe,1
+2740,26,911,Carrera Black Edition,Convertible,1
+2741,1,Forte,SX,Sedan,2
+2742,24,Forester,2.5X,SUV,2
+2743,4,Armada,Titanium,SUV,1
+2744,22,Jetta,Limited Edition,Sedan,1
+2745,23,Prius,IV,Hatchback,1
+2746,2,X3,xDrive30i,SUV,1
+2747,5,Tahoe,LT2 XFE,SUV,1
+2748,21,XF,Luxury,Sedan,1
+2749,4,370Z,Touring,Coupe,1
+2750,15,SL-Class,SL63 AMG,Convertible,1
+2751,27,Caliber,SRT4,Wagon,2
+2752,30,F430,Spider F1,Convertible,1
+2753,40,H3,Base,SUV,2
+2754,1,Spectra,Spectra5 SX,Wagon,1
+2755,17,Mazda6,i Sport Value Edition,Sedan,1
+2756,15,E-Class,E320 BLUETEC,Sedan,1
+2757,36,Torrent,GXP,SUV,1
+2758,37,Astra,XE,Hatchback,2
+2759,37,Astra,XE,Hatchback,1
+2760,22,R32,Base,Hatchback,1
+2761,5,Silverado 3500HD,LT1,Crew Cab,1
+2762,5,Malibu Maxx,LS Fleet,Hatchback,1
+2763,21,XK-Series,XK,Convertible,1
+2764,15,C-Class,C350 Luxury,Sedan,1
+2765,22,Jetta,Wolfsburg Edition,Sedan,2
+2766,5,Silverado 1500,LS,Regular Cab,1
+2767,7,Fusion,S,Sedan,2
+2768,16,Raider,Duro Cross V8,Extended Cab,1
+2769,5,Colorado,Z85,Extended Cab,1
+2770,7,F-150,Lariat,SuperCab,2
+2771,6,A6,2.7T quattro,Sedan,1
+2772,5,Silverado 2500,LS,Crew Cab,1
+2773,2,3 Series,325Ci,Coupe,1
+2774,7,Escape,XLS Popular,SUV,1
+2775,4,Sentra,SE-R Spec V,Sedan,1
+2776,4,Xterra,SE S/C,SUV,1
+2777,22,Passat,GL,Wagon,2
+2778,6,A6,3,Sedan,1
+2779,7,Explorer Sport Trac,Premium,Crew Cab,1
+2780,13,I35,Base,Sedan,1
+2781,24,Impreza,TS,Wagon,1
+2782,13,Q45,Luxury,Sedan,1
+2783,36,Firebird,Trans Am,Hatchback,1
+2784,37,L-Series,L100,Sedan,1
+2785,43,Intrigue,GL,Sedan,1
+2786,3,V70,T5,Wagon,1
+2787,5,Blazer,Base,SUV,1
+2788,3,V70,R,Wagon,1
+2789,3,S70,GLT,Sedan,1
+2790,31,Civic,DX,Hatchback,2
+2791,43,Cutlass Supreme,SL,Coupe,1
+2792,15,CLA-Class,CLA250 4MATIC,Sedan,1
+2793,33,1500,Longhorn,Crew Cab,1
+2794,23,Corolla,LE Eco,Sedan,1
+2795,5,Camaro,ZL1,Coupe,1
+2796,2,3 Series,320i xDrive,Sedan,1
+2797,32,Terrain,Denali,SUV,1
+2798,31,Ridgeline,Sport,Crew Cab,1
+2799,26,911,Carrera 4S,Coupe,1
+2800,4,Quest,SV,Minivan,1
+2801,24,BRZ,Premium,Coupe,2
+2802,33,3500,Tradesman,Crew Cab,1
+2803,2,3 Series,335is,Convertible,2
+2804,2,Z4,sDrive35i,Convertible,1
+2805,8,CTS Wagon,Premium,CTS Wagon,1
+2806,8,SRX,Premium,SUV,1
+2807,27,Challenger,SRT8 392,Coupe,1
+2808,7,Escape,Hybrid,SUV,1
+2809,7,Mustang,V6,Convertible,2
+2810,31,Odyssey,Touring Elite,Minivan,1
+2811,10,IS 350 C,Base,Convertible,1
+2812,15,E-Class,E550 Sport 4MATIC,Sedan,1
+2813,16,i-MiEV,SE,Hatchback,1
+2814,23,Highlander,SE,SUV,1
+2815,2,5 Series Gran Turismo,550i xDrive,Hatchback,1
+2816,14,Wrangler,Unlimited 70th Anniversary,SUV,1
+2817,16,Eclipse,GS-Sport,Hatchback,1
+2818,23,Sequoia,Platinum FFV,SUV,1
+2819,23,Tacoma,V6,Access Cab,1
+2820,5,Silverado 3500HD,Work Truck,Crew Cab,1
+2821,33,1500,Laramie,Quad Cab,1
+2822,3,XC60,3.2 R-Design,SUV,1
+2823,23,Sienna,LE 7-Passenger Mobility Auto Access,Minivan,2
+2824,6,A5,3.2 Premium Plus quattro,Coupe,1
+2825,23,Sequoia,Limited FFV,SUV,1
+2826,8,CTS Wagon,Performance,CTS Wagon,1
+2827,5,Silverado 1500,LT,Regular Cab,1
+2828,29,300,Limited Fleet,Sedan,1
+2829,29,Town and Country,Touring Plus,Minivan,1
+2830,27,Ram Pickup 2500,SLT,Crew Cab,1
+2831,7,Ranger,XLT,Regular Cab,1
+2832,1,Rio,Base,Sedan,2
+2833,17,CX-7,s Touring,SUV,1
+2834,42,Grand Vitara,Limited,SUV,1
+2835,22,Tiguan,Wolfsburg Edition 4Motion,SUV,1
+2836,23,Prius,II,Hatchback,1
+2837,23,Matrix,S,Hatchback,1
+2838,6,Q7,4.2 Prestige quattro,SUV,1
+2839,31,Accord,LX-S,Coupe,2
+2840,32,Yukon,SLT1 XFE,SUV,1
+2841,32,Sierra 2500HD,Work Truck,Crew Cab,1
+2842,15,M-Class,ML320 BlueTEC,SUV,1
+2843,23,Corolla,XRS,Sedan,1
+2844,23,Corolla,XRS,Sedan,2
+2845,22,Tiguan,SE 4Motion,SUV,1
+2846,6,TT,2.0T,Convertible,1
+2847,5,Colorado,LT,Extended Cab,1
+2848,5,HHR,LS,Wagon,2
+2849,5,Silverado 2500HD,LT2,Crew Cab,1
+2850,5,Malibu Classic,LT,Sedan,1
+2851,27,Sprinter Cargo,2500 144 WB,Van,1
+2852,7,Mustang,Premium,Coupe,2
+2853,31,Element,LX,SUV,1
+2854,31,Pilot,Value Package,SUV,1
+2855,13,EX35,Journey,SUV,1
+2856,13,G37,Base,Coupe,2
+2857,13,G37,Sport,Coupe,2
+2858,31,Ridgeline,RTX,Crew Cab,1
+2859,39,Sable,Base,Sedan,1
+2860,17,Mazdaspeed Mazda3,Sport,Hatchback,2
+2861,15,C-Class,C300 Sport,Sedan,2
+2862,15,GL-Class,GL320 CDI,SUV,1
+2863,25,xD,Base,Hatchback,2
+2864,23,Camry,XLE,Sedan,2
+2865,42,Grand Vitara,Base,SUV,2
+2866,25,tC,Spec,Hatchback,1
+2867,42,SX4,Base,Hatchback,2
+2868,37,VUE,Red Line,SUV,1
+2869,37,Sky,Red Line,Convertible,2
+2870,42,XL7,Base,SUV,1
+2871,24,Outback,2.5I,Wagon,1
+2872,37,Astra,XR,Hatchback,1
+2873,22,New Beetle,SE,Convertible,1
+2874,23,Matrix,XR,Hatchback,1
+2875,23,Yaris,S,Sedan,1
+2876,8,DTS,Luxury II,Sedan,1
+2877,5,Silverado 1500 Classic,Work Truck,Regular Cab,2
+2878,27,Dart,GT,Sedan,2
+2879,5,Cobalt,SS,Coupe,1
+2880,5,Colorado,LT,Regular Cab,1
+2881,27,Caliber,Base,Wagon,2
+2882,7,Ranger,STX,SuperCab,1
+2883,7,Fusion,SE,Sedan,2
+2884,16,Eclipse Spyder,GT,Convertible,1
+2885,24,Impreza,WRX STI Limited,Sedan,2
+2886,36,Solstice,Base,Convertible,1
+2887,25,tC,Spec,Hatchback,2
+2888,24,Outback,2.5i,Wagon,2
+2889,6,A3,2.0T,Wagon,1
+2890,3,S60,R,Sedan,1
+2891,2,5 Series,530xi,Wagon,2
+2892,2,3 Series,325xi,Wagon,1
+2893,5,Cobalt,SS,Sedan,1
+2894,5,Silverado 2500HD,LT2,Extended Cab,1
+2895,29,PT Cruiser,GT,Convertible,2
+2896,5,Monte Carlo,LTZ,Coupe,1
+2897,7,Ranger,XL,Regular Cab,2
+2898,32,Yukon,SL,SUV,1
+2899,11,Tiburon,GS,Hatchback,2
+2900,13,M35,Sport,Sedan,1
+2901,7,F-350 Super Duty,Platinum,Crew Cab,1
+2902,17,Mazda3,s,Sedan,1
+2903,17,Mazdaspeed Mazda6,Sport,Sedan,2
+2904,39,Mariner,Convenience,SUV,1
+2905,41,9-5,Base,Sedan,1
+2906,42,Reno,Base,Hatchback,1
+2907,24,Outback,2.5i Limited,Sedan,1
+2908,24,Legacy,2.5 GT Limited,Sedan,1
+2909,24,Legacy,2.5i Special Edition,Sedan,1
+2910,22,GTI,1.8T,Hatchback,1
+2911,22,Jetta,Value Edition,Sedan,1
+2912,5,Astro Cargo,Base,Minivan,1
+2913,5,Tahoe,Fleet,SUV,1
+2914,5,Cavalier,LS Sport,Coupe,1
+2915,5,Uplander,Base,Minivan,1
+2916,7,Escape,HEV,SUV,1
+2917,7,Explorer Sport Trac,Adrenalin,Crew Cab,1
+2918,7,Freestar,SES,Minivan,1
+2919,32,Savana Cargo,3500,Van,1
+2920,17,Mazda6,i Sport,Hatchback,2
+2921,39,Grand Marquis,GS Convenience,Sedan,1
+2922,16,Outlander,LS,SUV,2
+2923,42,Forenza,EX,Sedan,1
+2924,36,Montana,SV6,Minivan,1
+2925,42,Aerio,SX,Wagon,1
+2926,22,Passat,GLS TDI,Sedan,1
+2927,5,Cavalier,LS,Coupe,1
+2928,5,Colorado,ZQ8 LS,Crew Cab,1
+2929,29,300M,Special,Sedan,1
+2930,7,F-150 Heritage,XL,SuperCab,1
+2931,7,Ranger,Tremor,SuperCab,1
+2932,11,Accent,GL,Sedan,1
+2933,31,Accord,EX V-6,Coupe,2
+2934,45,Ascender,S 7-Passenger,SUV,1
+2935,15,C-Class,C320 4MATIC,Sedan,1
+2936,17,Mazda3,s,Sedan,2
+2937,17,Mazdaspeed MX-5 Miata,Base,Convertible,2
+2938,16,Eclipse Spyder,GTS,Convertible,1
+2939,4,Frontier,XE-V6,Crew Cab,2
+2940,4,Frontier,XE-V6,Crew Cab,1
+2941,41,9-5,Arc 2.3T,Sedan,1
+2942,24,Impreza,WRX STi,Sedan,2
+2943,37,ION,3,Coupe,1
+2944,24,Legacy,L 35th Anniversary Edition,Wagon,1
+2945,36,Montana,Base,Minivan,1
+2946,36,Grand Prix,GTP,Sedan,1
+2947,42,Verona,LX,Sedan,1
+2948,36,Grand Am,GT1,Coupe,1
+2949,9,CL,3.2 Type-S,Coupe,1
+2950,3,V40,Base,Wagon,1
+2951,22,Passat,GL 1.8T,Sedan,1
+2952,6,TT,180hp,Coupe,1
+2953,27,Durango,SLT Plus,SUV,1
+2954,7,Explorer,NBX,SUV,1
+2955,7,Explorer Sport,XLT,SUV,1
+2956,32,Safari,Base,Minivan,1
+2957,31,Civic,DX,Coupe,2
+2958,7,F-150,STX,SuperCrew,1
+2959,37,ION,2,Coupe,2
+2960,4,Frontier,SE-V6,King Cab,1
+2961,37,L-Series,L200,Sedan,2
+2962,37,ION,1,Sedan,1
+2963,24,Legacy,L,Wagon,2
+2964,37,L-Series,LW200,Wagon,1
+2965,3,S80,T6 Elite,Sedan,1
+2966,23,Tundra,Limited,Access Cab,1
+2967,2,Z3,3.0i,Convertible,2
+2968,27,Dakota,Sport,Quad Cab,1
+2969,27,Ram Cargo,1500 Maxi,Van,1
+2970,7,Escape,XLT Premium,SUV,1
+2971,7,Explorer Sport,Choice,SUV,1
+2972,7,F-250 Super Duty,XLT,SuperCab,2
+2973,45,Axiom,XS,SUV,1
+2974,11,XG350,Base,Sedan,1
+2975,45,Axiom,Base,SUV,1
+2976,19,Freelander,HSE,SUV,1
+2977,39,Cougar,Base,Hatchback,1
+2978,20,LS,LSE,Sedan,1
+2979,17,Millenia,Premium,Sedan,1
+2980,16,Montero Sport,ES,SUV,1
+2981,24,Forester,S,Wagon,2
+2982,24,Forester,S,Wagon,1
+2983,4,Quest,GLE,Minivan,1
+2984,41,9-3,SE,Hatchback,1
+2985,22,New Beetle,Turbo S,Hatchback,2
+2986,2,3 Series,325Ci,Convertible,2
+2987,6,A6,2.8 Avant quattro,Wagon,1
+2988,2,5 Series,525i,Sedan,2
+2989,7,Explorer Sport,Base,SUV,1
+2990,27,Stratus,SE,Sedan,1
+2991,27,Grand Caravan,EX,Minivan,1
+2992,13,I30,Touring,Sedan,1
+2993,32,Safari Cargo,SL,Minivan,1
+2994,16,Mirage,ES,Sedan,1
+2995,19,Range Rover,4.6 SE,SUV,1
+2996,14,Cherokee,Limited,SUV,1
+2997,16,Galant,GTZ,Sedan,1
+2998,21,XJ-Series,XJR,Sedan,1
+2999,16,Galant,ES V6,Sedan,1
+3000,17,Protege,LX,Sedan,1
+3001,43,Silhouette,GL,Minivan,1
+3002,43,Aurora,4,Sedan,1
+3003,3,V70,XC,Wagon,1
+3004,2,3 Series,328i,Sedan,2
+3005,2,3 Series,323iT,Wagon,1
+3006,7,F-150,XL,Extended Cab,1
+3007,19,Discovery Series II,Base,SUV,1
+3008,20,LS,V8,Sedan,1
+3009,16,Mirage,DE,Sedan,1
+3010,22,Passat,GLS V6,Wagon,1
+3011,22,Jetta,GLS VR6,Sedan,1
+3012,2,3 Series,323i,Convertible,2
+3013,9,Integra,LS,Hatchback,1
+3014,7,F-250 Super Duty,XLT,Extended Cab,1
+3015,43,Aurora,Base,Sedan,1
+3016,41,9-5,SE,Sedan,1
+3017,2,3 Series,318ti,Hatchback,1
+3018,32,envoy,Base,SUV,1
+3019,31,Prelude,Base,Coupe,1
+3020,14,Cherokee,Classic,SUV,1
+3021,27,Neon,Highline,Sedan,1
+3022,7,Escort,Base,Sedan,1
+3023,36,Sunfire,GT,Coupe,1
+3024,9,CL,3,Coupe,1
+3025,4,200SX,SE,Coupe,1
+3026,43,Eighty-Eight,LS,Sedan,1
+3027,32,Suburban,1500,SUV,1
+3028,22,Passat,GLX V6,Sedan,1
+3029,15,C-Class,C220,Sedan,1
+3030,9,Legend,LS,Sedan,1
+3031,9,Integra,LS,Sedan,1
+3032,23,Camry,DX,Sedan,1
+3033,23,Camry,LE,Coupe,1
+3034,37,S-Series,SC2,Coupe,1
+3035,3,850,GLT,Sedan,1
+3036,5,S-10,LS,Extended Cab,2
+3037,39,Cougar,XR7,Coupe,1
+3038,31,Accord,10th Anniversary,Sedan,1
+3039,5,C/K 1500 Series,Cheyenne,Regular Cab,1
+3040,5,Corvette,Base,Hatchback,1
+3041,32,Sierra 1500,Base,Double Cab,1
+3042,13,Q60 Coupe,IPL,Q60 Coupe,2
+3043,14,Grand Cherokee,SRT,SUV,1
+3044,1,Cadenza,Limited,Sedan,1
+3045,31,Fit,EX,Hatchback,1
+3046,14,Wrangler,Unlimited Rubicon Hard Rock,SUV,1
+3047,24,Forester,2.5i PZEV,SUV,2
+3048,33,Promaster Cargo Van,1500 High Roof,Promaster Cargo Van,1
+3049,2,1 Series,128i SULEV,Convertible,1
+3050,23,Tundra,Limited FFV,CrewMax Cab,1
+3051,22,Passat,V6 SEL Premium,Sedan,1
+3052,12,Enclave,Convenience Group,SUV,1
+3053,5,Silverado 2500HD,Work Truck,Regular Cab,1
+3054,2,4 Series,428i SULEV,Convertible,1
+3055,2,3 Series,328d,Sedan,1
+3056,5,Sonic,LS,Hatchback,1
+3057,29,300,C John Varvatos,Sedan,1
+3058,27,Dart,SXT,Sedan,2
+3059,28,500,C Abarth,Convertible,2
+3060,28,500,Abarth,Hatchback,2
+3061,7,Fusion Energi,SE Luxury,Sedan,1
+3062,2,2 Series,M235i,Coupe,1
+3063,7,Transit Connect,Wagon XLT Premium,Minivan,1
+3064,31,Fit,Sport w/Navigation,Hatchback,1
+3065,14,Grand Cherokee,SRT8,SUV,1
+3066,19,Range Rover Sport,Luxury,SUV,1
+3067,18,Cooper Paceman,S,Hatchback,1
+3068,18,Cooper Paceman,S ALL4,Hatchback,1
+3069,18,Cooper Countryman,S ALL4,Wagon,2
+3070,4,Altima,3.5 S,Sedan,1
+3071,4,Juke,NISMO,Hatchback,1
+3072,4,Sentra,FE+ S,Sedan,2
+3073,12,Regal,Premium I,Sedan,1
+3074,8,XTS,Vsport Premium,Sedan,1
+3075,8,CTS,Standard,Sedan,1
+3076,24,Impreza WRX,Premium,Sedan,2
+3077,24,Impreza,2.0i Premium PZEV,Sedan,1
+3078,24,Tribeca,3.6R Limited,SUV,1
+3079,23,Tundra,Platinum FFV,CrewMax Cab,1
+3080,23,Tacoma,PreRunner V6,Access Cab,1
+3081,23,Highlander,Plus,SUV,1
+3082,23,Prius v,Five,Wagon,1
+3083,22,Touareg,TDI Executive,SUV,1
+3084,22,Beetle,2.0L TDI,Hatchback,2
+3085,12,Enclave,Premium Group,SUV,1
+3086,12,LaCrosse,Convenience Group,Sedan,1
+3087,2,1 Series,135i,Convertible,2
+3088,5,Cruze,1LT,Sedan,2
+3089,29,300,S V8,Sedan,1
+3090,29,300,C Luxury Series,Sedan,1
+3091,5,Sonic,LTZ,Hatchback,1
+3092,27,Avenger,SXT Plus,Sedan,1
+3093,7,Edge,SE Fleet,SUV,1
+3094,5,Corvette Stingray,Base,Convertible,1
+3095,5,Cruze,Diesel,Sedan,1
+3096,5,Silverado 1500,Work Truck,Double Cab,1
+3097,13,G Coupe,IPL,G Coupe,2
+3098,5,Cruze,2LT,Sedan,2
+3099,4,NV,2500 SV,Van,1
+3100,24,Impreza,2.0i Sport Premium PZEV,Hatchback,1
+3101,33,3500,Laramie Longhorn Limited Edition,Crew Cab,1
+3102,23,Tacoma,X-Runner V6,Access Cab,1
+3103,22,Eos,Komfort SULEV,Convertible,1
+3104,6,S5,Premium Plus quattro,Coupe,2
+3105,6,Q7,TDI Premium quattro,SUV,1
+3106,22,Passat,SEL PZEV,Sedan,1
+3107,2,3 Series,328i xDrive,Coupe,1
+3108,5,Aveo,Aveo5 1LT,Hatchback,1
+3109,5,Aveo,Aveo5 2LT,Hatchback,1
+3110,5,Impala Limited,LS Fleet,Sedan,1
+3111,27,Caliber,Express,Wagon,2
+3112,13,FX,FX50,SUV,1
+3113,11,Genesis Coupe,2.0T R-Spec,Genesis Coupe,1
+3114,13,M37,x,Sedan,1
+3115,1,Forte,Koup SX,Koup,2
+3116,1,Rio,Rio5 LX,Hatchback,1
+3117,17,CX-7,i Touring,SUV,1
+3118,17,Mazdaspeed 3,Sport,Hatchback,2
+3119,16,Lancer Sportback,ES,Hatchback,2
+3120,2,1 Series,135i,Coupe,2
+3121,8,STS,V8 Luxury,Sedan,1
+3122,7,F-250 Super Duty,XL,SuperCab,2
+3123,22,Passat,Turbo,Sedan,1
+3124,2,3 Series,328xi,Wagon,1
+3125,6,Q7,4.2 quattro,SUV,1
+3126,5,Colorado,Base,Extended Cab,1
+3127,42,Aerio,SX Premium,Wagon,1
+3128,27,Dakota,Laramie,Quad Cab,1
+3129,29,Crossfire,Limited,Convertible,1
+3130,14,Wrangler,Unlimited,SUV,1
+3131,5,Colorado,Z71 LS,Crew Cab,1
+3132,7,Freestar,S,Minivan,1
+3133,7,F-150,SVT Lightning,Regular Cab,1
+3134,42,Forenza,S,Sedan,2
+3135,41,9-3,Arc,Sedan,2
+3136,3,S60,2.4,Sedan,2
+3137,27,Caravan,eC,Minivan,1
+3138,7,Ranger,Edge,SuperCab,2
+3139,5,Tracker,LT,SUV,1
+3140,1,Sephia,Base,Sedan,1
+3141,17,Protege,ES,Sedan,1
+3142,32,Jimmy,SLE,SUV,1
+3143,36,Firebird,Formula,Hatchback,1
+3144,31,Civic,HX,Coupe,1
+3145,31,CR-V,Base,SUV,1
+3146,31,Accord,EX-L V-6 w/Navigation,Sedan,1
+3147,17,Mazda2,Touring,Hatchback,2
+3148,9,MDX,SH-AWD w/Technology and Entertainment Packages,SUV,1
+3149,19,Range Rover Evoque,Prestige Premium,SUV,1
+3150,2,2 Series,M235i,Coupe,2
+3151,16,Lancer,GT,Sedan,1
+3152,24,Impreza,2.0i Limited PZEV,Hatchback,1
+3153,9,MDX,Advance Package,SUV,1
+3154,28,500,C Pop,Convertible,1
+3155,17,Mazda3,s Grand Touring,Sedan,2
+3156,17,Mazda3,i Touring,Hatchback,2
+3157,22,GLI,Base,Sedan,1
+3158,5,Colorado,LT1,Extended Cab,1
+3159,2,7 Series,750Li xDrive,Sedan,1
+3160,1,Rio,SX,Sedan,2
+3161,31,Accord,LX-P,Sedan,2
+3162,4,Quest,3.5,Minivan,1
+3163,24,Impreza,WRX,Sedan,1
+3164,2,3 Series,335xi,Sedan,2
+3165,5,Silverado 3500HD,LT2,Crew Cab,1
+3166,5,Malibu Hybrid,Base,Sedan,1
+3167,5,HHR,SS,Wagon,1
+3168,5,Colorado,LS,Regular Cab,1
+3169,27,Caliber,SXT,Wagon,2
+3170,29,Pacifica,LX,Wagon,1
+3171,27,Dakota,SXT,Crew Cab,1
+3172,17,Tribute,i Grand Touring,SUV,1
+3173,4,Altima,3.5 SE,Sedan,2
+3174,36,Vibe,Base,Wagon,2
+3175,22,New Beetle,S,Hatchback,2
+3176,3,C30,T5 Version 1.0,Hatchback,1
+3177,22,Passat,Lux,Wagon,1
+3178,22,Rabbit,S,Hatchback,1
+3179,7,Focus,ZXW SES,Wagon,1
+3180,32,Sierra 1500 Classic,SLT,Crew Cab,1
+3181,32,Sierra 1500 Classic,SL2,Crew Cab,1
+3182,17,Mazda3,s Touring,Sedan,1
+3183,16,Eclipse Spyder,GS,Convertible,2
+3184,41,9-3,2.0T,Sedan,2
+3185,9,RSX,Base,Hatchback,2
+3186,6,A4,2.0T Avant quattro,Wagon,1
+3187,29,Sebring,Base,Convertible,1
+3188,27,Ram Pickup 1500,SLT,Quad Cab,2
+3189,16,Lancer Evolution,IX,Sedan,2
+3190,4,Altima,3.5 SE-R,Sedan,1
+3191,37,ION,3,Coupe,2
+3192,36,G6,GTP,Coupe,2
+3193,36,GTO,Base,Coupe,1
+3194,22,Jetta,2.0T,Sedan,1
+3195,5,Cobalt,Base,Coupe,1
+3196,5,Colorado,Z71,Extended Cab,1
+3197,5,Colorado,Z85,Regular Cab,1
+3198,29,Sebring,Limited,Coupe,1
+3199,7,Focus,ZX3 SES,Hatchback,1
+3200,32,Canyon,Z71 SLE Base,Crew Cab,1
+3201,11,Tucson,LX,SUV,1
+3202,37,Relay,2,Minivan,1
+3203,22,Jetta,GLS PZEV,Sedan,1
+3204,6,A4,3,Convertible,1
+3205,5,Cavalier,LS,Coupe,2
+3206,7,F-150 Heritage,XLT,SuperCab,2
+3207,7,Ranger,Edge,Regular Cab,1
+3208,32,Canyon,Z71 SLE,Crew Cab,1
+3209,39,Monterey,Luxury,Minivan,1
+3210,16,Galant,LS V6,Sedan,1
+3211,4,Frontier,SVE-V6,Crew Cab,1
+3212,42,Verona,EX,Sedan,1
+3213,42,Forenza,LX,Sedan,1
+3214,37,ION,2,Coupe,1
+3215,23,Tacoma,Base,Xtracab,1
+3216,6,TT,180hp,Convertible,1
+3217,5,S-10,Base,Extended Cab,2
+3218,5,Silverado 1500,SS,Extended Cab,1
+3219,27,Ram Cargo,2500,Van,1
+3220,7,F-150,XL,SuperCab,2
+3221,7,Windstar,Limited,Minivan,1
+3222,7,Mustang,Premium,Convertible,2
+3223,22,New Beetle,GLS,Convertible,2
+3224,22,Passat,GLS V6,Sedan,1
+3225,27,Neon,Base,Sedan,1
+3226,27,Neon,Base,Sedan,2
+3227,15,C-Class,C230,Hatchback,2
+3228,17,Truck,B3000,Cab Plus,1
+3229,45,Rodeo Sport,S V6,SUV,1
+3230,39,Grand Marquis,LSE,Sedan,1
+3231,36,Sunfire,SE,Sedan,1
+3232,16,Eclipse,RS,Hatchback,1
+3233,15,E-Class,E430 4MATIC,Sedan,1
+3234,6,A6,4.2 quattro,Sedan,2
+3235,6,A6,2.8,Sedan,1
+3236,5,Tracker,Base,SUV,1
+3237,15,CLK-Class,CLK430,Convertible,1
+3238,1,Spectra,GSX,Hatchback,1
+3239,2,3 Series,323i,Sedan,2
+3240,22,Jetta,GLS,Wagon,2
+3241,2,3 Series,323Ci,Coupe,1
+3242,6,A4,2.8 quattro,Sedan,2
+3243,7,Escort,ZX2,Coupe,2
+3244,5,Blazer,Trailblazer,SUV,1
+3245,32,Sierra 1500,SL,Regular Cab,1
+3246,43,Alero,GL,Sedan,1
+3247,4,Frontier,XE,Regular Cab,2
+3248,23,ECHO,Base,Coupe,2
+3249,7,Explorer,XL,SUV,1
+3250,7,F-150,Work,Extended Cab,1
+3251,17,626,LX,Sedan,1
+3252,17,B-Series Pickup,B3000 SE,Extended Cab,1
+3253,42,Grand Vitara,JLX,SUV,1
+3254,17,626,ES V6,Sedan,1
+3255,23,4Runner,SR5,SUV,2
+3256,22,Jetta,GLS (1999.5),Sedan,1
+3257,7,Escort,LX,Sedan,1
+3258,9,TL,2.5 Premium,Sedan,1
+3259,43,Cutlass,GLS,Sedan,1
+3260,23,Tacoma,Base,Extended Cab,1
+3261,32,Sonoma,SL,Regular Cab,2
+3262,3,850,GLT,Wagon,1
+3263,5,S-10,Base,Regular Cab,2
+3264,27,Spirit,Base,Sedan,1
+3265,23,Corolla,DX,Wagon,1
+3266,36,Bonneville,SSE,Sedan,1
+3267,31,Accord Hybrid,EX-L,Sedan,1
+3268,4,NV Cargo,2500 S,Van,1
+3269,4,NV Cargo,3500 S,Van,1
+3270,4,Pathfinder,SV Hybrid,SUV,1
+3271,33,3500,Tradesman,Crew Cab,2
+3272,12,Encore,Base,SUV,1
+3273,2,3 Series,328d xDrive,Sedan,1
+3274,2,3 Series Gran Turismo,328i xDrive,Hatchback,1
+3275,2,6 Series Gran Coupe,640i xDrive,Sedan,1
+3276,2,4 Series,435i,Coupe,1
+3277,2,4 Series,428i xDrive SULEV,Coupe,1
+3278,2,4 Series,435i,Convertible,1
+3279,2,4 Series,435i xDrive,Coupe,1
+3280,2,5 Series,535d xDrive,Sedan,1
+3281,2,4 Series,428i xDrive,Coupe,1
+3282,4,Juke,NISMO,Hatchback,2
+3283,16,Outlander Sport,ES,SUV,2
+3284,4,Xterra,Pro-4X,SUV,1
+3285,22,Beetle,Turbo PZEV Fender Edition,Hatchback,1
+3286,22,Passat,SEL Premium PZEV,Sedan,1
+3287,12,Regal,GS,Sedan,1
+3288,29,200,S,Sedan,1
+3289,31,Civic,Natural Gas,Sedan,1
+3290,18,Cooper Roadster,John Cooper Works,Convertible,2
+3291,15,C-Class,C350,Coupe,1
+3292,22,Beetle,Base,Hatchback,2
+3293,5,Camaro,1LT,Coupe,2
+3294,5,Colorado,LT1,Crew Cab,1
+3295,27,Caliber,Uptown,Wagon,1
+3296,13,G Convertible,G37,G Convertible,2
+3297,14,Patriot,Latitude X,SUV,1
+3298,4,Cube,1.8 S,Wagon,2
+3299,7,F-350 Super Duty,XLT,Regular Cab,1
+3300,1,Forte,EX,Sedan,2
+3301,42,Kizashi,GTS,Sedan,1
+3302,4,370Z,NISMO,Coupe,2
+3303,6,A5,quattro,Coupe,1
+3304,22,Beetle,2.5L,Hatchback,2
+3305,22,Beetle,2.0T Turbo,Hatchback,2
+3306,22,GLI,Autobahn,Sedan,1
+3307,22,Passat,SEL,Sedan,1
+3308,22,Passat,SE PZEV,Sedan,2
+3309,7,F-150,Lariat Limited,SuperCrew,1
+3310,32,Sierra 2500HD,Work Truck,Extended Cab,1
+3311,31,Civic,DX-VP,Sedan,2
+3312,11,Tucson,GL,SUV,2
+3313,11,Santa Fe,GLS,SUV,2
+3314,1,Sorento,Base,SUV,2
+3315,23,Tundra,Tundra FFV,Double Cab,1
+3316,6,A3,2.0T PZEV Premium,Wagon,2
+3317,27,Ram Pickup 1500,Laramie,Crew Cab,1
+3318,4,Versa,1.6,Sedan,2
+3319,22,Golf,TDI,Hatchback,1
+3320,6,A4,3.2 Premium Plus quattro,Sedan,1
+3321,32,Yukon,SLT1,SUV,1
+3322,38,GranTurismo,S,Coupe,1
+3323,6,A3,2.0T PZEV,Wagon,1
+3324,38,Quattroporte,Sport GT S Automatic,Sedan,1
+3325,24,Legacy,3.0 R Limited,Sedan,1
+3326,32,Sierra 1500 Classic,SLE1,Extended Cab,1
+3327,31,Civic,GX,Sedan,1
+3328,13,G35,Sport,Sedan,2
+3329,24,Impreza,Outback Sport Special Edition,Wagon,1
+3330,22,Eos,3.2L,Convertible,1
+3331,27,Viper,SRT-10,Coupe,2
+3332,27,Ram Pickup 2500,SLT,Quad Cab,2
+3333,7,F-250 Super Duty,Lariat,Crew Cab,2
+3334,32,Sierra 2500HD,Work Truck,Regular Cab,1
+3335,32,Sierra 2500HD,SLE1,Regular Cab,1
+3336,31,Element,EX-P,SUV,2
+3337,42,Aerio,Base,Sedan,1
+3338,24,Outback,3.0 R VDC Limited,Wagon,1
+3339,24,Impreza,WRX,Wagon,2
+3340,5,Aveo,Special Value,Sedan,1
+3341,7,F-150,FX4,Regular Cab,1
+3342,31,Accord,LX PZEV,Sedan,1
+3343,31,Civic,Si,Hatchback,2
+3344,32,Canyon,Z85 SL,Extended Cab,1
+3345,28,500L,Trekking,Wagon,1
+3346,17,Mazda3,SP23 Special Edition,Sedan,2
+3347,24,Impreza,Outback Sport,Wagon,2
+3348,42,XL-7,LX,SUV,1
+3349,23,Matrix,XR,Wagon,2
+3350,5,Colorado,Z71 LS,Extended Cab,1
+3351,5,Colorado,ZQ8 LS,Extended Cab,1
+3352,7,Mustang,Mach 1 Premium,Coupe,2
+3353,32,Sierra 2500,SLE,Crew Cab,1
+3354,1,Rio,Cinco,Wagon,1
+3355,16,Endeavor,Limited,SUV,1
+3356,15,C-Class,C240 4MATIC,Sedan,1
+3357,17,MX-5 Miata,LS,Convertible,2
+3358,11,Accent,GL,Hatchback,2
+3359,31,Accord,LX V-6,Coupe,1
+3360,17,Protege,DX,Sedan,2
+3361,41,9-5,Aero,Sedan,1
+3362,1,Spectra,GS,Hatchback,1
+3363,43,Silhouette,Premiere,Minivan,1
+3364,22,Cabrio,GLX,Convertible,1
+3365,2,5 Series,525i,Wagon,1
+3366,5,Blazer,TrailBlazer,SUV,1
+3367,17,626,ES,Sedan,1
+3368,16,Montero Sport,3.5XS,SUV,1
+3369,22,Passat,GLX V6 4Motion,Sedan,1
+3370,2,Z3,2.8,Convertible,2
+3371,2,3 Series,328Ci,Coupe,2
+3372,31,Accord,LX V6,Sedan,1
+3373,45,Trooper,Limited,SUV,1
+3374,32,Yukon Denali,Denali,SUV,1
+3375,24,Legacy,Outback,Wagon,1
+3376,7,F-150,Lariat,Extended Cab,1
+3377,17,Millenia,Base,Sedan,1
+3378,21,XJ-Series,XJ6,Sedan,1
+3379,23,Corolla,DX,Sedan,1
+3380,45,Trooper,S,SUV,1
+3381,21,XJ,XJL Portfolio,Sedan,1
+3382,33,2500,Laramie,Mega Cab,1
+3383,23,Avalon Hybrid,Limited,Sedan,1
+3384,23,Highlander,LE,SUV,1
+3385,22,Passat,SEL Premium,Sedan,1
+3386,22,GTI,Wolfsburg Edition,Hatchback,1
+3387,9,RLX,Base,Sedan,1
+3388,31,Ridgeline,RTL w/Leather,Crew Cab,1
+3389,11,Elantra Coupe,SE,Elantra Coupe,2
+3390,17,6,i Touring,Sedan,1
+3391,33,2500,Laramie,Crew Cab,2
+3392,23,Corolla,L,Sedan,2
+3393,24,Legacy,2.5i Sport,Sedan,1
+3394,23,Matrix,L,Hatchback,1
+3395,22,Beetle,Turbo Fender Edition,Hatchback,1
+3396,22,CC,Lux PZEV,Sedan,1
+3397,22,Jetta Hybrid,SEL,Sedan,1
+3398,22,GTI,Driver's Edition PZEV,Hatchback,1
+3399,6,A8,L W12 6.3 quattro,Sedan,1
+3400,5,Corvette,ZR1,Coupe,2
+3401,27,Charger,SRT8 Superbee,Sedan,1
+3402,7,Transit Connect,Wagon XLT,Minivan,1
+3403,4,Frontier,PRO-4X,Crew Cab,2
+3404,24,Impreza,WRX Premium,Sedan,2
+3405,33,Dakota,BigHorn,Crew Cab,1
+3406,24,Forester,2.5X Premium,SUV,2
+3407,22,Jetta SportWagen,S,Wagon,1
+3408,6,A3,2.0T PZEV Premium,Wagon,1
+3409,11,Elantra,Blue,Sedan,1
+3410,6,A3,2.0T PZEV,Wagon,2
+3411,5,Silverado 1500,XFE,Crew Cab,1
+3412,17,RX-8,Touring,Coupe,2
+3413,23,Matrix,XRS,Hatchback,2
+3414,47,V8 Vantage,N400 Roadster,Convertible,1
+3415,6,R8,quattro,Coupe,2
+3416,22,New Beetle,2.5L,Hatchback,2
+3417,27,Dakota,SLT,Crew Cab,1
+3418,15,M-Class,ML63 AMG,SUV,1
+3419,4,350Z,Touring,Coupe,1
+3420,4,Sentra,2.0 S,Sedan,2
+3421,42,SX4,Sport,Sedan,2
+3422,27,Nitro,SXT,SUV,2
+3423,32,Sierra 1500 Classic,SLE1,Crew Cab,1
+3424,26,911,Turbo,Coupe,1
+3425,29,PT Cruiser,Base,Wagon,2
+3426,32,Canyon,SLE,Extended Cab,1
+3427,17,Mazda6,s Sport,Hatchback,1
+3428,3,S40,T5,Sedan,2
+3429,29,PT Cruiser,Touring,Wagon,2
+3430,7,Expedition,XLT NBX,SUV,1
+3431,7,Mustang,GT Deluxe,Convertible,1
+3432,14,Wrangler,Unlimited,SUV,2
+3433,11,Sonata,GL V6,Sedan,1
+3434,4,Altima,3.5 SE-R,Sedan,2
+3435,6,TT,250hp quattro,Convertible,1
+3436,29,Crossfire,Base,Hatchback,1
+3437,20,Town Car,Ultimate,Sedan,1
+3438,22,Golf,GLS TDI,Hatchback,2
+3439,5,S-10,LS,Crew Cab,1
+3440,1,Sorento,EX,SUV,2
+3441,41,9-3,Linear,Sedan,2
+3442,3,V70,2.4T,Wagon,1
+3443,6,A4,1.8T Avant quattro,Wagon,1
+3444,5,S-10,LS,Regular Cab,2
+3445,7,Escort,ZX2 Deluxe,Coupe,1
+3446,10,IS 300,SportCross,Wagon,1
+3447,14,Wrangler,SE,SUV,2
+3448,11,Accent,L,Hatchback,1
+3449,23,Sienna,XLE,Minivan,1
+3450,22,Jetta,GLS,Sedan,2
+3451,9,CL,3.2,Coupe,1
+3452,3,S70,GLT SE,Sedan,1
+3453,7,Mustang,GT,Convertible,2
+3454,22,New Beetle,Base,Hatchback,2
+3455,2,3 Series,328is,Coupe,1
+3456,7,F-150,XLT,Regular Cab,2
+3457,23,Pickup,Deluxe,Extended Cab,1
+3458,24,Impreza WRX,Base,Hatchback,2
+3459,24,XV Crosstrek,Hybrid Touring,SUV,1
+3460,9,ILX,Hybrid w/Technology Package,Sedan,1
+3461,5,Express,LS 2500,Van,1
+3462,7,F-250 Super Duty,Platinum,Crew Cab,1
+3463,24,BRZ,Limited,Coupe,1
+3464,23,Avalon Hybrid,XLE Premium,Sedan,1
+3465,24,Outback,2.5i PZEV,Wagon,2
+3466,23,Venza,Limited,Wagon,1
+3467,2,Z4,sDrive35i,Convertible,2
+3468,28,500,C Lounge,Convertible,1
+3469,19,LR4,Base,SUV,1
+3470,18,Cooper Countryman,S,Wagon,2
+3471,18,Cooper Roadster,S,Convertible,2
+3472,4,Cube,1.8 Base,Wagon,2
+3473,22,Golf,2.0L TDI,Hatchback,1
+3474,22,Passat,S PZEV,Sedan,2
+3475,22,Jetta,S PZEV,Sedan,2
+3476,31,Civic,EX Special Edition,Coupe,1
+3477,22,Jetta,GLX VR6,Sedan,1
+3478,4,Sentra,SE,Sedan,1
+3479,11,Genesis Coupe,3.8 R-Spec,Genesis Coupe,1
+3480,42,Equator,Sport,Crew Cab,1
+3481,16,Eclipse,GS-Sport,Hatchback,2
+3482,4,Versa,1.8 S,Sedan,2
+3483,13,G37,Base,Convertible,1
+3484,17,Mazdaspeed 3,Grand Touring,Hatchback,2
+3485,17,RX-8,Touring,Coupe,1
+3486,2,5 Series,535xi,Sedan,2
+3487,7,Expedition EL,Limited,SUV,1
+3488,11,Entourage,GLS,Minivan,1
+3489,19,LR3,V8 HSE,SUV,1
+3490,4,350Z,Base,Coupe,2
+3491,22,Passat,Turbo,Wagon,1
+3492,5,Malibu Maxx,LTZ,Hatchback,1
+3493,5,Silverado 2500HD Classic,LS,Crew Cab,1
+3494,7,Focus,ZX3 S,Hatchback,1
+3495,32,Sierra 2500HD Classic,SLT,Crew Cab,1
+3496,11,Azera,GLS,Sedan,1
+3497,14,Compass,Sport,SUV,2
+3498,45,Ascender,S 7 Passenger,SUV,1
+3499,15,C-Class,C230 Sport,Sedan,2
+3500,31,Accord,DX,Sedan,1
+3501,7,F-250 Super Duty,XLT,Regular Cab,1
+3502,17,Tribute,s,SUV,1
+3503,41,9-2X,Linear,Wagon,1
+3504,41,9-2X,Linear,Wagon,2
+3505,25,xA,Base,Hatchback,1
+3506,5,Aveo,Base,Sedan,1
+3507,17,Mazda6,s,Hatchback,2
+3508,24,Impreza,Outback,Wagon,1
+3509,22,New Beetle,GLS 1.8T,Convertible,2
+3510,22,GTI,VR6,Hatchback,2
+3511,2,3 Series,325i,Wagon,1
+3512,7,Taurus,SEL Premium,Sedan,1
+3513,7,Expedition,XLT Premium,SUV,1
+3514,7,Windstar,Base,Minivan,1
+3515,15,S-Class,S430 4MATIC,Sedan,1
+3516,2,5 Series,540i,Sedan,2
+3517,22,Passat,GL,Sedan,1
+3518,5,Camaro,Base,Hatchback,2
+3519,22,Passat,W8 4Motion,Sedan,1
+3520,5,Corvette,Base,Coupe,2
+3521,39,Cougar,Base,Hatchback,2
+3522,22,Jetta,GLS,Wagon,1
+3523,23,Sienna,CE,Minivan,1
+3524,4,Sentra,XE,Sedan,1
+3525,36,Grand Am,GT1,Sedan,1
+3526,27,Ram Pickup 1500,Laramie SLT,Extended Cab,2
+3527,48,Prizm,Base,Sedan,1
+3528,4,Sentra,GXE,Sedan,2
+3529,24,Forester,2.5i PZEV,SUV,1
+3530,24,XV Crosstrek,Hybrid,SUV,1
+3531,24,Legacy,2.5i Sport PZEV,Sedan,1
+3532,6,Q5,3.0T Premium Plus quattro,SUV,1
+3533,2,3 Series,ActiveHybrid 3,Sedan,1
+3534,24,BRZ,Premium,Coupe,1
+3535,24,Outback,2.5i PZEV,Wagon,1
+3536,4,Juke,SV,Hatchback,2
+3537,24,Impreza,2.0i Limited PZEV,Sedan,1
+3538,5,Corvette,GS,Coupe,1
+3539,27,Caliber,Rush,Wagon,1
+3540,31,CR-Z,EX,Hatchback,2
+3541,15,E-Class,E550,Coupe,1
+3542,26,Cayman,S,Coupe,2
+3543,7,Focus,ZX3 SES,Hatchback,2
+3544,15,S-Class,S350,Sedan,1
+3545,25,xA,Base,Hatchback,2
+3546,1,Spectra,GS,Hatchback,2
+3547,15,SL-Class,SL320,Convertible,1
+3548,24,Legacy,Outback Limited,Wagon,2
+3549,4,Versa,1.6 S,Sedan,2
+3550,22,GTI,Autobahn PZEV,Hatchback,2
+3551,22,Golf,2.0L TDI,Hatchback,2
+3552,27,Caliber,Heat,Wagon,2
+3553,27,Durango,Heat,SUV,1
+3554,5,Express,LS 1500,Van,1
+3555,2,3 Series,335xi,Coupe,2
+3556,7,Focus,S,Coupe,2
+3557,13,G35,Sport,Sedan,1
+3558,24,Forester,Sports 2.5 X,Wagon,1
+3559,22,New Beetle,Black Tie Edition,Hatchback,1
+3560,5,Colorado,LS,Extended Cab,1
+3561,11,Azera,SE,Sedan,1
+3562,4,Xterra,S,SUV,2
+3563,5,Colorado,Base,Extended Cab,2
+3564,5,Malibu Maxx,SS,Hatchback,1
+3565,7,Ranger,FX4 Off-Road,SuperCab,1
+3566,16,Eclipse,GS,Hatchback,2
+3567,39,Milan,Base,Sedan,2
+3568,22,Jetta,GLI,Sedan,2
+3569,5,Cobalt,Base,Coupe,2
+3570,5,Silverado 2500HD,Base,Crew Cab,1
+3571,5,Colorado,Z71,Regular Cab,1
+3572,27,Sprinter Cargo,2500 High Roof 158 WB,Van,1
+3573,31,Accord,LX Special Edition,Coupe,2
+3574,24,Legacy,2.5 GT Limited,Sedan,2
+3575,27,Dart,Aero,Sedan,1
+3576,6,A4,3.0 quattro,Convertible,1
+3577,2,3 Series,325xi,Sedan,2
+3578,9,TL,3.2,Sedan,2
+3579,7,Explorer Sport Trac,XLS,Crew Cab,1
+3580,37,L300,3,Wagon,1
+3581,27,Sprinter Cargo,2500 High Ceiling 118 WB,Van,1
+3582,32,Sierra 1500,Base,Regular Cab,2
+3583,45,Axiom,S,SUV,1
+3584,27,Stratus,ES,Sedan,1
+3585,4,Xterra,SE,SUV,2
+3586,36,Firebird,Trans Am,Convertible,1
+3587,7,Mustang,Bullitt,Coupe,1
+3588,1,Sephia,LS,Sedan,2
+3589,11,XG300,Base,Sedan,1
+3590,4,Frontier,SE-V6,Crew Cab,2
+3591,5,C/K 3500 Series,LS,Crew Cab,1
+3592,45,Rodeo,LSE,SUV,1
+3593,4,Frontier,XE Desert Runner,Extended Cab,1
+3594,20,LS,V6,Sedan,1
+3595,4,Pathfinder,XE,SUV,2
+3596,20,Mark VIII,Base,Coupe,1
+3597,23,Pickup,Base,Regular Cab,2
+3598,6,A4,2.0T Premium Plus quattro,Sedan,2
+3599,6,Q5,TDI Premium Plus quattro,SUV,1
+3600,33,2500,Tradesman,Regular Cab,1
+3601,8,CTS,Vsport Premium,Sedan,1
+3602,4,NV200,SV,Minivan,1
+3603,22,Beetle Convertible,2.5L,Beetle Convertible,1
+3604,5,Camaro,SS,Convertible,2
+3605,22,GLI,Autobahn PZEV,Sedan,2
+3606,6,A4,2.0T Premium Avant quattro,Wagon,1
+3607,34,fortwo,BRABUS cabriolet,Convertible,1
+3608,6,A3,2.0T,Wagon,2
+3609,22,Rabbit,PZEV,Hatchback,1
+3610,15,C-Class,C350 Luxury 4MATIC,Sedan,1
+3611,27,Neon,R/T,Sedan,2
+3612,27,Dakota,Sport,Club Cab,1
+3613,12,Encore,Premium,SUV,1
+3614,11,Accent,GL,Hatchback,1
+3615,5,Corvette Stingray,Base,Coupe,2
+3616,12,Enclave,Base,SUV,1
+3617,12,LaCrosse,Premium III Group,Sedan,1
+3618,12,Verano,Convenience Group 2,Sedan,1
+3619,5,Sonic,LTZ,Sedan,2
+3620,4,370Z,Touring,Coupe,2
+3621,16,Lancer Sportback,ES,Hatchback,1
+3622,42,Kizashi,Sport GTS,Sedan,1
+3623,22,Eos,Executive SULEV,Convertible,1
+3624,7,Expedition,XL,SUV,1
+3625,38,GranTurismo Convertible,Base,GranTurismo Convertible,1
+3626,15,G-Class,G55 AMG,SUV,1
+3627,24,Outback,2.5i Premium,Wagon,2
+3628,22,Touareg,TDI Lux,SUV,1
+3629,22,Jetta SportWagen,SE,Wagon,1
+3630,27,Dakota,BigHorn,Extended Cab,1
+3631,27,Charger,Rallye,Sedan,1
+3632,27,Ram Pickup 3500,SLT,Crew Cab,1
+3633,27,Ram Pickup 1500,ST,Crew Cab,1
+3634,32,Canyon,SLT,Crew Cab,1
+3635,11,Tucson,GLS PZEV,SUV,1
+3636,23,Prius,V,Hatchback,1
+3637,5,Impala,LT2,Sedan,1
+3638,13,G37,Journey,Sedan,1
+3639,1,Spectra,SX,Sedan,2
+3640,36,G5,GT,Coupe,2
+3641,24,Tribeca,Limited 7-Passenger,SUV,1
+3642,22,New Beetle,2.5L,Convertible,1
+3643,23,Matrix,Base,Hatchback,2
+3644,27,Caliber,SE,Wagon,2
+3645,7,Focus,S,Coupe,1
+3646,7,Taurus X,Eddie Bauer,Wagon,1
+3647,7,Taurus X,Limited,Wagon,1
+3648,32,Sierra 2500HD,SLE2,Crew Cab,1
+3649,32,Sierra 1500,SLE2,Extended Cab,1
+3650,17,Mazda6,i Sport Value Edition,Hatchback,1
+3651,42,SX4,Base,Hatchback,1
+3652,23,Camry,LE,Sedan,2
+3653,22,New Beetle,S PZEV,Hatchback,1
+3654,22,New Beetle,S PZEV,Convertible,1
+3655,22,Passat,Lux,Sedan,1
+3656,6,A6,3.2 Avant quattro,Wagon,1
+3657,5,Silverado 1500 Classic,LS,Regular Cab,1
+3658,4,Frontier,LE,King Cab,1
+3659,36,Solstice,GXP,Convertible,2
+3660,42,SX4,Sport,Hatchback,1
+3661,24,Impreza,WRX TR,Sedan,2
+3662,22,New Beetle,Triple White PZEV,Convertible,1
+3663,22,Passat,3.6 4Motion,Wagon,1
+3664,5,Aveo,Special Value,Sedan,2
+3665,7,F-350 Super Duty,Lariat,Crew Cab,2
+3666,11,Elantra,GLS,Hatchback,2
+3667,15,CLS-Class,CLS55 AMG,Sedan,1
+3668,41,9-3,Aero,Sedan,2
+3669,3,S60,R,Sedan,2
+3670,5,Venture,Plus,Minivan,1
+3671,31,Accord,EX PZEV,Sedan,1
+3672,17,Mazda6,s Sport,Hatchback,2
+3673,16,Lancer Evolution,VIII,Sedan,2
+3674,4,Maxima,3.5 SL,Sedan,2
+3675,41,9-2X,Aero,Wagon,1
+3676,24,Baja,Turbo,Crew Cab,1
+3677,37,L300,Base,Sedan,1
+3678,22,Passat,GLS TDI,Wagon,1
+3679,6,S4,quattro,Sedan,2
+3680,5,Aveo,Base,Sedan,2
+3681,27,Dakota,SXT,Regular Cab,2
+3682,29,Town and Country,Family Value,Minivan,1
+3683,7,F-150 Heritage,XL,SuperCab,2
+3684,21,X-Type,2.5,Sedan,2
+3685,37,L300,3,Sedan,1
+3686,5,Venture,Base,Minivan,1
+3687,27,Sprinter Cargo,3500 SH Ceiling 158 WB,Van,1
+3688,27,Ram Pickup 2500,ST,Quad Cab,2
+3689,7,Escape,XLS Value,SUV,2
+3690,23,4Runner,Sport Edition,SUV,1
+3691,22,Passat,GLX,Sedan,2
+3692,5,Cavalier,LS Sport,Sedan,1
+3693,5,Tracker,Base,SUV,2
+3694,7,Focus,ZX5,Hatchback,2
+3695,43,Intrigue,GLS,Sedan,1
+3696,24,Impreza,2.5 RS,Sedan,1
+3697,24,Legacy,GT Limited,Sedan,2
+3698,29,Voyager,LX,Minivan,1
+3699,7,Mustang,Bullitt,Coupe,2
+3700,36,Grand Am,SE,Coupe,1
+3701,24,Legacy,L,Sedan,1
+3702,2,5 Series,528i,Sedan,2
+3703,7,Focus,LX,Sedan,2
+3704,13,G20,Touring,Sedan,1
+3705,15,SLK-Class,SLK230 Kompressor,Convertible,2
+3706,7,Fiesta,Titanium,Sedan,1
+3707,36,Firebird,Base,Convertible,1
+3708,24,Outback,Limited,Sedan,1
+3709,22,Golf,GL,Hatchback,2
+3710,2,5 Series,528i,Wagon,1
+3711,22,Jetta,GLX VR6 (1999.5),Sedan,1
+3712,27,Ram Pickup 1500,ST,Extended Cab,1
+3713,5,Monte Carlo,Z34,Coupe,1
+3714,31,Civic,HX,Coupe,2
+3715,10,GS 400,Base,Sedan,1
+3716,49,Neon,Style,Sedan,1
+3717,43,Cutlass,GL,Sedan,1
+3718,49,Neon,Expresso,Sedan,1
+3719,22,New Beetle,Base,Hatchback,1
+3720,23,Tacoma,V6,Extended Cab,1
+3721,4,Truck,XE,Extended Cab,1
+3722,5,Caprice,Base,Sedan,1
+3723,43,Eighty-Eight Royale,Base,Sedan,1
+3724,15,C-Class,C280,Sedan,1
+3725,23,Tercel,DX,Sedan,1
+3726,15,300-Class,300E,Sedan,1
+3727,17,B-Series Pickup,B4000 SE,Extended Cab,1
+3728,31,Odyssey,EX-L w/Rear Entertainment,Minivan,1
+3729,11,Genesis Coupe,3.8 Ultimate,Genesis Coupe,2
+3730,1,Optima,SXL,Sedan,1
+3731,23,Tundra,SR5 FFV,CrewMax Cab,1
+3732,22,Jetta GLI,Base,Sedan,1
+3733,22,Beetle,1.8T,Hatchback,1
+3734,6,A7,Premium Plus quattro,Sedan,1
+3735,6,S4,Prestige quattro,Sedan,1
+3736,12,Regal,Premium 2 Turbo,Sedan,1
+3737,8,XTS,Platinum,Sedan,1
+3738,6,A8,L TDI quattro,Sedan,1
+3739,18,Cooper Coupe,S,Hatchback,1
+3740,22,Beetle,R-Line PZEV,Hatchback,1
+3741,22,Eos,Sport SULEV,Convertible,1
+3742,22,Jetta GLI,Autobahn PZEV,Sedan,1
+3743,22,Beetle Convertible,2.5L PZEV,Beetle Convertible,1
+3744,12,LaCrosse,Touring Group,Sedan,1
+3745,33,3500,Laramie Longhorn Limited Edition,Mega Cab,1
+3746,22,Beetle,2.0T White Turbo Launch Edition,Hatchback,1
+3747,22,Tiguan,LE,SUV,1
+3748,6,A8,4.2 quattro,Sedan,1
+3749,2,ActiveHybrid 7,750Li,Sedan,1
+3750,11,Genesis Coupe,3.8 Grand Touring,Genesis Coupe,2
+3751,42,SX4,Sport S,Sedan,2
+3752,22,Jetta SportWagen,TDI,Wagon,2
+3753,22,CC,Lux,Sedan,1
+3754,17,MX-5 Miata,Sport,Convertible,2
+3755,15,CL-Class,CL550 4MATIC,Coupe,1
+3756,22,Golf,2.5L PZEV,Hatchback,2
+3757,23,Camry,Base,Sedan,2
+3758,7,Expedition EL,King Ranch,SUV,1
+3759,10,GS 460,Base,Sedan,1
+3760,17,Tribute,s Grand Touring,SUV,1
+3761,17,Tribute Hybrid,Touring,SUV,1
+3762,37,Aura Hybrid,Green Line,Sedan,1
+3763,24,Legacy,2.5 I,Sedan,1
+3764,22,Touareg 2,V8 FSI,SUV,1
+3765,3,V70,3.2,Wagon,1
+3766,2,M5,Base,Sedan,2
+3767,21,XK-Series,XK,Coupe,1
+3768,39,Montego,Base,Sedan,1
+3769,45,Ascender,S 5 Passenger,SUV,1
+3770,5,Aveo,LS,Hatchback,2
+3771,5,Silverado 2500HD,LS,Extended Cab,2
+3772,11,Elantra,GLS,Hatchback,1
+3773,15,C-Class,C55 AMG,Sedan,1
+3774,24,Outback,2.5 XT Limited,Wagon,1
+3775,42,Forenza,S,Wagon,1
+3776,5,Colorado,ZQ8,Extended Cab,2
+3777,27,Stratus,R/T,Sedan,1
+3778,15,CLK-Class,CLK55 AMG,Convertible,1
+3779,22,Jetta,GL TDI,Wagon,1
+3780,22,Passat,GLX 4Motion,Sedan,1
+3781,24,Outback,VDC,Sedan,1
+3782,4,Frontier,Standard,King Cab,1
+3783,23,Celica,GT-S,Hatchback,2
+3784,37,L-Series,LW300,Wagon,1
+3785,22,Passat,GLS 1.8T,Wagon,2
+3786,32,Jimmy,SLT,SUV,1
+3787,41,9-3,Base,Hatchback,2
+3788,31,Passport,LX,SUV,1
+3789,37,S-Series,SL,Sedan,2
+3790,4,Sentra,Base,Sedan,1
+3791,12,Regal,Olympic Gold,Sedan,1
+3792,24,Legacy,Outback,Wagon,2
+3793,22,Golf GTI,S,Hatchback,2
+3794,17,Mazda5,Sport,Minivan,2
+3795,15,E-Class,E350 Luxury 4MATIC,Wagon,1
+3796,4,NV Cargo,1500 S,Van,1
+3797,33,2500,Longhorn,Crew Cab,1
+3798,22,Touareg,V6 R-Line,SUV,1
+3799,2,Z4,sDrive35is,Convertible,1
+3800,24,Impreza,2.0i Premium PZEV,Hatchback,2
+3801,23,Sequoia,SR5 FFV,SUV,1
+3802,22,Beetle Convertible,Turbo PZEV,Beetle Convertible,1
+3803,22,Beetle,2.5L PZEV,Hatchback,2
+3804,9,TSX Sport Wagon,Base,TSX Sport Wagon,1
+3805,24,Impreza,2.0i,Hatchback,2
+3806,22,Passat,S,Sedan,2
+3807,4,Frontier,PRO-4X,King Cab,2
+3808,4,Frontier,SL,Crew Cab,1
+3809,24,Impreza,2.5i Premium,Sedan,2
+3810,42,SX4,Crossover,Hatchback,1
+3811,29,300,Touring Plus,Sedan,1
+3812,17,Mazda6,s Touring Plus,Sedan,1
+3813,23,Corolla,XLE,Sedan,2
+3814,4,Cube,1.8 Krom,Wagon,1
+3815,37,Aura Hybrid,Base,Sedan,1
+3816,32,Sierra 2500HD,SLE1,Crew Cab,1
+3817,22,Rabbit,S PZEV,Hatchback,1
+3818,32,Canyon,SL,Regular Cab,2
+3819,45,i-Series,i-290 LS,Extended Cab,1
+3820,4,Sentra,1.8,Sedan,2
+3821,24,Outback,2.5 XT,Wagon,1
+3822,32,Sierra 1500HD,SLE,Crew Cab,1
+3823,4,Frontier,Standard,King Cab,2
+3824,24,Outback,L.L. Bean Edition,Wagon,1
+3825,6,A4,3.0 Avant quattro,Wagon,1
+3826,27,Dakota,Sport,Quad Cab,2
+3827,22,New Beetle,GLS TDI,Hatchback,1
+3828,22,Jetta,GLS VR6,Sedan,2
+3829,23,Tacoma,SR5,Extended Cab,2
+3830,27,Dakota,Base,Regular Cab,1
+3831,31,Accord,Touring V-6,Sedan,1
+3832,18,Cooper Paceman,Base,Hatchback,1
+3833,18,Cooper Paceman,S,Hatchback,2
+3834,9,MDX,SH-AWD w/Advance and Entertainment Packages,SUV,1
+3835,9,RLX,Advance Package,Sedan,1
+3836,2,6 Series Gran Coupe,650i xDrive,Sedan,1
+3837,2,4 Series,435i xDrive,Coupe,2
+3838,2,4 Series,435i,Coupe,2
+3839,17,6,i Touring Plus,Sedan,1
+3840,20,MKZ Hybrid,Base,Sedan,1
+3841,22,Touareg,VR6 Sport,SUV,1
+3842,22,New Beetle,2.5L Final Edition PZEV,Convertible,1
+3843,31,Accord,Special Edition,Sedan,2
+3844,29,Crossfire,Base,Convertible,2
+3845,29,Crossfire,Limited,Coupe,2
+3846,24,Baja,Sport,Crew Cab,1
+3847,11,Elantra,GT,Hatchback,2
+3848,24,Impreza,2.5 RS,Sedan,2
+3849,7,F-150,XLT,SuperCab,2
+3850,4,Xterra,XE V6,SUV,1
+3851,36,Sunfire,GT,Convertible,1
+3852,22,Cabrio,GL,Convertible,1
+3853,7,Explorer,Sport,SUV,2
+3854,3,850,GLT,Sedan,2
+3855,31,Accord,LX,Wagon,1
+3856,26,Macan,S,SUV,1
+3857,19,Range Rover,Autobiography,SUV,1
+3858,19,Range Rover,Supercharged LWB,SUV,1
+3859,24,Impreza,2.0i Sport Premium PZEV,Hatchback,2
+3860,33,Promaster Cargo Van,2500 High Roof,Promaster Cargo Van,1
+3861,12,Verano,Premium Group,Sedan,1
+3862,6,A3,2.0 TFSI Premium Plus quattro,Sedan,1
+3863,12,LaCrosse,Base,Sedan,1
+3864,16,Eclipse Spyder,GS-Sport,Convertible,1
+3865,42,SX4,SportBack,Hatchback,1
+3866,42,Kizashi,Sport SLS,Sedan,1
+3867,8,STS,V6 Luxury,Sedan,1
+3868,4,Pathfinder,LE V8,SUV,1
+3869,26,911,Carrera S,Convertible,2
+3870,26,911,Carrera 4S,Convertible,1
+3871,42,SX4,SportBack Technology,Hatchback,2
+3872,42,SX4,Sport S,Sedan,1
+3873,2,5 Series,535i xDrive,Wagon,1
+3874,5,Cobalt,XFE,Coupe,2
+3875,7,Expedition,SSV Fleet,SUV,1
+3876,29,Town and Country,S,Minivan,1
+3877,13,FX50,Base,SUV,1
+3878,24,Forester,2.5XT Premium,SUV,1
+3879,13,G37,x,Coupe,1
+3880,22,New Beetle,2.5L PZEV,Hatchback,2
+3881,5,Impala,50th Anniversary,Sedan,1
+3882,27,Sprinter Cargo,2500 170 WB,Van,1
+3883,1,Rio,Rio5 SX,Wagon,2
+3884,27,Dart,GT,Sedan,1
+3885,11,Tucson,GLS,SUV,2
+3886,17,Mazda6,s Grand Touring,Hatchback,1
+3887,15,C-Class,C280 Luxury,Sedan,1
+3888,6,S4,quattro,Convertible,2
+3889,8,STS-V,Base,Sedan,1
+3890,7,Expedition,XLT Sport,SUV,1
+3891,7,Freestar,Cargo,Minivan,1
+3892,4,Sentra,1.8 S,Sedan,2
+3893,22,Golf,GL,Hatchback,1
+3894,27,Dakota,Laramie,Club Cab,1
+3895,29,Sebring,TSi,Sedan,1
+3896,31,Accord,LX Special Edition V-6,Coupe,1
+3897,41,9-5,Arc 2.3T,Wagon,1
+3898,22,Jetta,GLS PZEV,Sedan,2
+3899,23,Camry Solara,SLE,Coupe,1
+3900,7,Ranger,XLT Value,SuperCab,1
+3901,4,Armada,SE Off-Road,SUV,1
+3902,23,Camry Solara,SE,Convertible,1
+3903,23,Tacoma,PreRunner,Regular Cab,1
+3904,29,Sebring,LX,Coupe,1
+3905,32,Sonoma,SLS,Extended Cab,1
+3906,11,Santa Fe,Base,SUV,2
+3907,16,Eclipse Spyder,GTS,Convertible,2
+3908,42,XL-7,Touring,SUV,1
+3909,5,Astro,LS,Minivan,1
+3910,16,Galant,LS,Sedan,1
+3911,23,Camry Solara,SE V6,Coupe,1
+3912,22,New Beetle,Sport,Hatchback,2
+3913,6,TT,225hp quattro,Coupe,2
+3914,5,Tracker,ZR2,SUV,1
+3915,7,Mustang,SVT Cobra,Convertible,2
+3916,32,Jimmy,SLS,SUV,1
+3917,17,Tribute,DX-V6,SUV,1
+3918,22,Passat,GLX V6,Wagon,1
+3919,22,GTI,GLS 1.8T,Hatchback,2
+3920,36,Grand Am,SE1,Coupe,1
+3921,16,Montero Sport,Limited,SUV,1
+3922,3,C70,LT,Convertible,1
+3923,22,Passat,GLS V6,Sedan,2
+3924,5,Lumina,LS,Sedan,1
+3925,41,9-3,SE HO,Convertible,2
+3926,9,CL,3.0 Premium,Coupe,1
+3927,4,Altima,SE,Sedan,1
+3928,38,Ghibli,S Q4,Sedan,1
+3929,9,TL,Special Edition,Sedan,1
+3930,2,1 Series,135is,Coupe,1
+3931,8,XTS,Base,Sedan,1
+3932,15,GL-Class,GL350 BlueTEC 4MATIC,SUV,1
+3933,26,911,Carrera S,Coupe,1
+3934,26,911,Carrera,Coupe,1
+3935,24,Impreza,2.0i PZEV,Hatchback,1
+3936,24,Impreza,2.0i PZEV,Sedan,2
+3937,22,Beetle,R-Line,Hatchback,1
+3938,6,A3,1.8 TFSI Premium Plus,Sedan,1
+3939,24,Impreza WRX,STI Limited,Sedan,2
+3940,22,Jetta GLI,Autobahn PZEV,Sedan,2
+3941,8,CTS-V Wagon,Base,CTS-V Wagon,2
+3942,5,Camaro,LT,Convertible,2
+3943,5,Sonic,LS,Sedan,2
+3944,50,Karma,Eco-Sport,Sedan,1
+3945,18,Cooper Coupe,John Cooper Works,Hatchback,2
+3946,24,Impreza,2.0i,Sedan,2
+3947,24,Impreza,2.0i,Sedan,1
+3948,22,Touareg,VR6 Lux,SUV,1
+3949,8,Escalade Hybrid,Platinum Edition,SUV,1
+3950,11,Genesis Coupe,2.0T R-Spec,Genesis Coupe,2
+3951,33,3500,Laramie,Mega Cab,1
+3952,2,6 Series,650i,Coupe,2
+3953,6,R8,5.2 quattro,Coupe,2
+3954,16,Lancer Evolution,SE,Sedan,1
+3955,4,Rogue,S Krom Edition,SUV,1
+3956,27,Dakota,ST,Extended Cab,1
+3957,17,Mazda3,s Grand Touring,Hatchback,2
+3958,22,GLI,Base,Sedan,2
+3959,5,Cobalt,Sport,Coupe,2
+3960,5,HHR,LT,Wagon,2
+3961,27,Dakota,Laramie,Crew Cab,1
+3962,1,Rio,Rio5 SX,Wagon,1
+3963,20,Navigator L,Base,SUV,1
+3964,24,Tribeca,7-Passenger,SUV,1
+3965,34,fortwo,passion cabrio,Convertible,1
+3966,9,TL,Type-S,Sedan,2
+3967,8,CTS-V,Base,Sedan,2
+3968,5,Silverado 2500HD,LT1,Regular Cab,1
+3969,38,Quattroporte,Executive GT DuoSelect,Sedan,1
+3970,16,Galant,DE,Sedan,1
+3971,16,Galant,Ralliart V6,Sedan,1
+3972,22,New Beetle,2.5 PZEV,Convertible,1
+3973,6,A4,3.2,Sedan,1
+3974,22,Rabbit,PZEV,Hatchback,2
+3975,2,5 Series,530xi,Sedan,2
+3976,16,Raider,Duro Cross V8,Double Cab,1
+3977,42,Aerio,Premium,Sedan,1
+3978,42,Forenza,Premium,Sedan,1
+3979,5,Colorado,Z85 LS Base,Crew Cab,2
+3980,21,X-Type,3.0L Sportwagon,Wagon,1
+3981,15,C-Class,C240 Luxury 4MATIC,Sedan,1
+3982,24,Legacy,2.5i,Wagon,2
+3983,22,Jetta,GLS TDI,Sedan,1
+3984,22,New Beetle,GL,Convertible,1
+3985,24,Impreza,Outback,Wagon,2
+3986,22,New Beetle,GL TDI,Hatchback,1
+3987,23,Tundra,Base,Regular Cab,1
+3988,5,Silverado 2500,Base,Extended Cab,1
+3989,42,Aerio,GS,Sedan,1
+3990,5,Suburban,2500 LS,SUV,1
+3991,29,Voyager,Base,Minivan,1
+3992,7,Escort,ZX2 Deluxe,Coupe,2
+3993,31,Accord,DX,Sedan,2
+3994,19,Freelander,S,SUV,1
+3995,19,Discovery Series II,SE,SUV,1
+3996,39,Villager,Sport,Minivan,1
+3997,4,Xterra,XE,SUV,2
+3998,22,Cabrio,GLX,Convertible,2
+3999,22,New Beetle,GLS 1.8T,Hatchback,2
+4000,5,Silverado 2500,HD,Extended Cab,1
+4001,27,Dakota,SLT,Crew Cab,2
+4002,32,Sierra 2500,HD SLT,Extended Cab,1
+4003,4,Altima,GXE,Sedan,2
+4004,23,4Runner,Base,SUV,1
+4005,21,XJ-Series,XJ8L,Sedan,1
+4006,45,Rodeo,S,SUV,2
+4007,4,Altima,SE,Sedan,2
+4008,9,CL,2.2 Premium,Coupe,2
+4009,7,F-150,XLT,Extended Cab,2
+4010,7,Escort,LX,Hatchback,1
+4011,3,850,Base,Sedan,1
+4012,43,Cutlass Supreme,S,Sedan,1
+4013,11,Sonata,Sport PZEV,Sedan,1
+4014,10,RX 350,F Sport,SUV,1
+4015,15,E-Class,E63 AMG 4MATIC S-Model,Sedan,1
+4016,4,NV Cargo,3500 SV,Van,1
+4017,33,Promaster Cargo Van,1500 Low Roof,Promaster Cargo Van,1
+4018,24,Impreza WRX,STI,Sedan,1
+4019,23,Tundra,SR,Double Cab,1
+4020,6,A8,L 4.0T quattro,Sedan,1
+4021,6,allroad,Prestige quattro,Wagon,1
+4022,19,Range Rover,HSE,SUV,2
+4023,18,Cooper Roadster,Base,Convertible,1
+4024,22,Beetle,2.0L TDI,Hatchback,1
+4025,7,Mustang,Boss 302,Coupe,2
+4026,1,Rio,LX,Hatchback,2
+4027,23,Yaris,Fleet,Sedan,2
+4028,32,Yukon Hybrid,Denali,SUV,1
+4029,17,MX-5 Miata,Special Edition,Convertible,1
+4030,4,Cube,1.8 S Krom Edition,Wagon,1
+4031,26,911,Carrera S,Coupe,2
+4032,27,Dakota,BigHorn,Crew Cab,1
+4033,22,Jetta,Limited Edition,Sedan,2
+4034,36,G3,Base,Hatchback,1
+4035,22,New Beetle,2.5L Blush Edition,Convertible,1
+4036,36,Solstice,GXP,Convertible,1
+4037,27,Ram Pickup 3500,Laramie,Mega Cab,1
+4038,32,Sierra 2500HD,SL1,Crew Cab,1
+4039,4,Altima,2.5,Sedan,2
+4040,7,Ranger,EDGE,Regular Cab,1
+4041,41,9-2X,Aero,Wagon,2
+4042,7,F-350 Super Duty,XL,Regular Cab,1
+4043,26,Cayenne,Tiptronic,SUV,1
+4044,16,Diamante,VR-X,Sedan,1
+4045,11,Santa Fe,GL,SUV,1
+4046,4,Pathfinder,LE,SUV,2
+4047,4,Frontier,SE-V6 Dessert Runner,King Cab,2
+4048,22,Golf,GLS 1.8T,Hatchback,1
+4049,32,Sonoma,SLS Sport,Extended Cab,1
+4050,9,TL,2.5,Sedan,1
+4051,17,B-Series Pickup,B2500 SE,Regular Cab,1
+4052,3,S70,T5,Sedan,1
+4053,7,Escort,LX,Wagon,2
+4054,24,Legacy,GT,Sedan,1
+4055,31,Accord,25th Anniversary,Sedan,1
+4056,15,300-Class,300SL,Convertible,1
+4057,23,Camry,Deluxe,Sedan,2
+4058,23,Highlander,XLE,SUV,1
+4059,5,Corvette,Grand Sport,Coupe,1
+4060,6,S4,Prestige quattro,Sedan,2
+4061,11,Veloster,RE:MIX,Hatchback,2
+4062,12,Regal,GS,Sedan,2
+4063,33,3500,ST,Crew Cab,2
+4064,33,2500,SLT,Mega Cab,1
+4065,31,Civic,EX-L,Sedan,2
+4066,2,Z4,3.0si,Convertible,1
+4067,7,F-250 Super Duty,XL,Crew Cab,2
+4068,13,EX35,Base,SUV,1
+4069,26,Cayenne,GTS,SUV,2
+4070,24,Legacy,2.5i Special Edition,Sedan,2
+4071,5,Silverado 1500,Z71,Regular Cab,1
+4072,5,Colorado,Z85,Regular Cab,2
+4073,29,Crossfire,Limited,Coupe,1
+4074,15,C-Class,C320 Luxury 4MATIC,Sedan,1
+4075,5,Colorado,Z85,Extended Cab,2
+4076,17,Mazda6,i,Hatchback,1
+4077,38,Coupe,Cambiocorsa,Coupe,1
+4078,26,Boxster,S Anniversary Edition,Convertible,2
+4079,7,Ranger,XLT Appearance,SuperCab,1
+4080,2,X5,4.6is,SUV,1
+4081,15,C-Class,C320,Wagon,1
+4082,4,Maxima,GXE,Sedan,2
+4083,32,Sierra 1500,SLT,Double Cab,1
+4084,1,Sorento,SXL,SUV,1
+4085,38,GranTurismo,MC,Coupe,1
+4086,4,NV,1500 SV,Van,1
+4087,5,Corvette,GS,Convertible,1
+4088,22,New Beetle,2.5L PZEV,Convertible,1
+4089,5,Colorado,Work Truck,Regular Cab,2
+4090,45,Ascender,LS 7 Passenger,SUV,1
+4091,4,Frontier,XE,Crew Cab,1
+4092,36,Firebird,Base,Hatchback,2
+4093,23,Tercel,Base,Coupe,1
+4094,36,Grand Prix,SE,Coupe,1
+4095,7,Tempo,GL,Sedan,1
+4096,6,TT,2.0T quattro,Coupe,1
+4097,28,500,Lounge,Hatchback,2
+4098,22,CC,Sport PZEV,Sedan,2
+4099,17,MX-5 Miata,Special Edition,Convertible,2
+4100,42,SX4,SportBack GTS,Hatchback,1
+4101,29,Aspen,Limited HEV,SUV,1
+4102,17,Mazda6,i SV,Sedan,2
+4103,3,C70,T5,Convertible,2
+4104,9,TL,Base,Sedan,2
+4105,5,Silverado 2500HD,LT1,Extended Cab,1
+4106,22,New Beetle,2.5,Convertible,2
+4107,3,S60,T5 Special Edition,Sedan,1
+4108,31,Fit,EX-L,Hatchback,1
+4109,15,C-Class,C240,Wagon,1
+4110,20,Blackwood,Base,Crew Cab,1
+4111,16,Diamante,ES,Sedan,1
+4112,4,Frontier,SE-V6 Dessert Runner,King Cab,1
+4113,5,Silverado 2500,HD LS,Regular Cab,1
+4114,7,Explorer,XLS,SUV,2
+4115,39,Tracer,LS,Sedan,1
+4116,24,Legacy,LSi,Wagon,1
+4117,21,F-TYPE,R,Coupe,1
+4118,33,CV Tradesman,Base,Minivan,1
+4119,22,Beetle Convertible,R-Line,Beetle Convertible,1
+4120,24,Impreza,2.5i Premium,Hatchback,2
+4121,8,Escalade EXT,Luxury,Crew Cab,1
+4122,38,GranTurismo,S Automatic,Coupe,1
+4123,7,Expedition EL,Eddie Bauer,SUV,1
+4124,6,TT,2.0T,Hatchback,1
+4125,29,Pacifica,Limited,Wagon,1
+4126,32,Sierra 1500 Classic,SL1,Regular Cab,1
+4127,47,DB9,Volante,Convertible,1
+4128,27,Neon,SE,Sedan,2
+4129,7,F-150,FX2,Regular Cab,1
+4130,41,9-3,SE,Hatchback,2
+4131,31,Fit,EX,Hatchback,2
+4132,7,Fiesta,S,Hatchback,2
+4133,5,C/K 2500 Series,Silverado,Extended Cab,1
+4134,2,3 Series,320i,Sedan,2
+4135,2,2 Series,228i,Coupe,2
+4136,5,Corvette,Grand Sport,Coupe,2
+4137,2,i8,Base,Coupe,1
+4138,47,Rapide,Base,Sedan,1
+4139,2,Z4,sDrive30i,Convertible,1
+4140,7,Fiesta,SES,Hatchback,2
+4141,6,S5,quattro,Coupe,1
+4142,16,Outlander,Limited,SUV,1
+4143,11,Accent,GLS,Hatchback,1
+4144,17,Mazda3,SP23 Special Edition,Hatchback,1
+4145,27,Stratus,R/T,Coupe,2
+4146,11,Elantra,GT,Sedan,2
+4147,5,Avalanche,2500,Crew Cab,1
+4148,51,Nubira,SE,Sedan,1
+4149,4,Pathfinder,(1999.5) XE,SUV,1
+4150,11,Veloster,RE:MIX,Hatchback,1
+4151,1,Rio,SX,Hatchback,1
+4152,42,SX4,Base,Sedan,2
+4153,5,Silverado 3500HD,Work Truck,Regular Cab,1
+4154,13,G Sedan,G25 Journey,G Sedan,1
+4155,4,370Z,Touring,Convertible,2
+4156,16,Galant,Sport Edition,Sedan,1
+4157,23,Yaris,S,Hatchback,1
+4158,22,New Beetle,S,Convertible,2
+4159,24,Impreza,2.5 i,Wagon,1
+4160,6,A4,3.2 quattro,Sedan,2
+4161,32,Sierra 2500HD,Base,Extended Cab,1
+4162,41,9-3,Arc,Convertible,2
+4163,7,Ranger,Tremor,SuperCab,2
+4164,24,Impreza,2.5,Wagon,2
+4165,42,Aerio,LX,Sedan,1
+4166,24,Legacy,L 35th Anniversary Edition,Wagon,2
+4167,17,Mazdaspeed Protege,Base,Sedan,2
+4168,23,Tacoma,Base,Xtracab,2
+4169,37,ION,1,Sedan,2
+4170,7,Explorer Sport,Choice,SUV,2
+4171,32,Safari,SLE,Minivan,1
+4172,2,Z3,3.0i,Convertible,1
+4173,5,Tahoe Limited/Z71,Z71,SUV,1
+4174,19,Discovery,Series II,SUV,1
+4175,3,960,Base,Sedan,1
+4176,14,Compass,Latitude,SUV,2
+4177,8,SRX,Performance,SUV,2
+4178,15,M-Class,ML350 BlueTEC 4MATIC,SUV,1
+4179,5,Colorado,1LT,Regular Cab,1
+4180,7,F-150,STX,Regular Cab,2
+4181,24,Forester,2.5 X,Wagon,1
+4182,32,Sierra 1500 Classic,SLT,Extended Cab,1
+4183,41,9-3,2.0T SportCombi,Wagon,1
+4184,5,Cavalier,Base,Sedan,2
+4185,17,Protege,ES,Sedan,2
+4186,9,ILX,Premium Package,Sedan,2
+4187,11,Elantra Touring,GLS,Hatchback,2
+4188,4,Versa,1.6 Base,Sedan,1
+4189,22,Passat,Turbo,Sedan,2
+4190,22,Rabbit,Base,Hatchback,2
+4191,7,Ranger,FX4 Level II,SuperCab,1
+4192,22,Jetta,GLS TDI,Sedan,2
+4193,5,Prizm,LSi,Sedan,1
+4194,36,Montana,Value,Minivan,1
+4195,24,Legacy,GT,Sedan,2
+4196,11,Elantra,GLS,Wagon,1
+4197,24,Forester,2.5i Premium PZEV,SUV,2
+4198,32,Canyon,SLE-2,Crew Cab,1
+4199,27,Nitro,SE,SUV,1
+4200,22,Rabbit,S,Hatchback,2
+4201,22,Touareg,V10 TDI,SUV,1
+4202,11,Sonata,GL,Sedan,2
+4203,11,Tiburon,GT Limited,Hatchback,2
+4204,36,Montana SV6,Base,Minivan,1
+4205,11,Sonata,GLS Special Value,Sedan,1
+4206,22,Passat,GLS 1.8T 4Motion,Sedan,2
+4207,7,Taurus,SEL Deluxe,Wagon,1
+4208,31,Civic,DX,Sedan,2
+4209,7,Windstar,SE Sport,Minivan,1
+4210,2,3 Series,323is,Coupe,1
+4211,23,Corolla,VE,Sedan,2
+4212,39,Cougar,I4,Hatchback,1
+4213,24,Impreza,L,Sedan,1
+4214,5,Suburban,LS,SUV,1
+4215,26,Cayenne,Diesel,SUV,1
+4216,5,Corvette,427,Convertible,2
+4217,5,Corvette,GS,Convertible,2
+4218,5,Silverado 2500HD Classic,Work Truck,Extended Cab,1
+4219,32,Canyon,Work Truck,Regular Cab,1
+4220,4,Pathfinder,SE Off Road,SUV,1
+4221,1,Spectra,LS,Sedan,1
+4222,16,Eclipse,GTS,Hatchback,1
+4223,17,Tribute,DX,SUV,1
+4224,9,TL,3.2 Premium,Sedan,1
+4225,9,Legend,L,Sedan,1
+4226,5,Corsica,Base,Sedan,1
+4227,4,Truck,XE,Regular Cab,1
+4228,23,4Runner,SR5 V6,SUV,1
+4229,23,Celica,ST,Hatchback,1
+4230,31,Civic,Base,Hatchback,2
+4231,15,C-Class,C32 AMG,Sedan,1
+4232,4,NV Passenger,3500 SV,Van,1
+4233,6,A3,2.0T Premium Plus,Wagon,1
+4234,18,Cooper Coupe,John Cooper Works,Hatchback,1
+4235,5,Silverado 2500HD Classic,Work Truck,Regular Cab,1
+4236,24,Impreza,2.5 i,Wagon,2
+4237,24,Forester,L,Wagon,2
+4238,1,Rio,Rio5 LX,Wagon,1
+4239,3,XC90,V8 Sport,SUV,1
+4240,7,Focus,ZX4 ST,Sedan,2
+4241,17,Mazda3,SP23 Special Edition,Hatchback,2
+4242,39,Sable,LS Premium,Wagon,1
+4243,15,CLS-Class,CLS63 AMG 4MATIC S-Model,Sedan,1
+4244,27,Ram Pickup 1500,LT,Regular Cab,2
+4245,11,Elantra Coupe,GS,Elantra Coupe,2
+4246,22,Beetle,2.0T Turbo PZEV,Hatchback,2
+4247,2,3 Series,335is,Coupe,2
+4248,5,Camaro,1LT,Convertible,1
+4249,1,Forte,SX,Hatchback,2
+4250,33,2500,Laramie Longhorn Edition,Crew Cab,2
+4251,22,CC,Luxury PZEV,Sedan,1
+4252,4,Rogue,S SULEV,SUV,1
+4253,15,E-Class,E350,Sedan,2
+4254,22,New Beetle,Bi-Color Edition,Hatchback,2
+4255,2,Z3,2.5i,Convertible,2
+4256,38,Spyder,GT,Convertible,1
+4257,48,Prizm,Base,Sedan,2
+4258,6,S5,Prestige quattro,Convertible,1
+4259,22,Passat,TDI SE,Sedan,2
+4260,5,Colorado,LT2,Crew Cab,1
+4261,18,Cooper,Base,convertible,2
+4262,10,LS 600h L,Base,Sedan,1
+4263,47,V8 Vantage,Base,Coupe,2
+4264,17,MX-5 Miata,Cloth,Convertible,2
+4265,26,911,Turbo,Convertible,2
+4266,17,Mazda6,i,Hatchback,2
+4267,19,Freelander,SE3,SUV,1
+4268,16,Galant,GTZ V6,Sedan,1
+4269,45,Trooper,S,SUV,2
+4270,2,Z3,1.9,Convertible,2
+4271,23,Corolla,DX,Sedan,2
+4272,23,Celica,ST,Hatchback,2
+4273,32,Yukon XL,SLT,SUV,1
+4274,13,Q60 Convertible,IPL,Q60 Convertible,1
+4275,13,Q60 Convertible,Sport,Q60 Convertible,1
+4276,23,Tundra,SR FFV,Double Cab,1
+4277,27,Caliber,SXT Plus,Wagon,1
+4278,26,911,Carrera Black Edition,Coupe,2
+4279,9,ZDX,Base,Hatchback,1
+4280,42,Kizashi,SLS,Sedan,1
+4281,5,Silverado 3500,LT1,Crew Cab,1
+4282,45,Ascender,LS 5 Passenger,SUV,1
+4283,5,Aveo,Base,Hatchback,1
+4284,4,200SX,Base,Coupe,1
+4285,5,Caprice,Classic,Sedan,1
+4286,15,400-Class,400SEL,Sedan,1
+4287,5,Corvette Stingray,Z51,Coupe,1
+4288,22,Jetta GLI,Autobahn,Sedan,2
+4289,33,2500,ST,Crew Cab,2
+4290,3,C30,T5 R-Design,Hatchback,2
+4291,8,Escalade EXT,Premium,Crew Cab,1
+4292,27,Nitro,Shock,SUV,1
+4293,22,Jetta,SportWagen S,Wagon,1
+4294,27,Ram Pickup 3500,Laramie,Quad Cab,2
+4295,4,Rogue,SL SULEV,SUV,1
+4296,5,Silverado 2500HD Classic,LT3,Crew Cab,2
+4297,17,Mazda3,s Touring,Sedan,2
+4298,17,Mazda6,s Grand Touring,Hatchback,2
+4299,37,Sky,Base,Convertible,1
+4300,27,Ram Pickup 2500,Laramie,Quad Cab,2
+4301,31,Accord,LX,Coupe,2
+4302,22,New Beetle,TDI,Hatchback,1
+4303,41,9-5,Linear 2.3T,Wagon,1
+4304,22,New Beetle,GLX 1.8T,Convertible,1
+4305,22,GTI,20th Anniversary Edition,Hatchback,2
+4306,24,Impreza,TS,Wagon,2
+4307,22,Jetta,GLS TDI,Wagon,2
+4308,24,Legacy,GT Limited,Sedan,1
+4309,4,Frontier,SC-V6,Crew Cab,1
+4310,3,C70,HT,Convertible,2
+4311,23,Camry Solara,SE,Coupe,2
+4312,2,3 Series,323Ci,Convertible,1
+4313,42,Grand Vitara,JLS,SUV,1
+4314,22,Golf,GLS (1999.5),Hatchback,1
+4315,21,XJ-Series,XJ6 Vanden Plas,Sedan,1
+4316,5,Corvette,Grand Sport,Convertible,2
+4317,23,Avalon,XLE Touring,Sedan,1
+4318,33,3500,SLT,Mega Cab,1
+4319,23,Yaris,L,Hatchback,2
+4320,16,Endeavor,SE,SUV,1
+4321,13,G37,Base,Sedan,2
+4322,11,Elantra,GT SULEV,Hatchback,2
+4323,11,XG300,L,Sedan,1
+4324,22,Cabrio,GLS (1999.5),Convertible,1
+4325,4,Altima,XE (1997.5),Sedan,1
+4326,12,Century,Special,Sedan,1
+4327,13,J30,Base,Sedan,1
+4328,29,Concorde,Base,Sedan,1
+4329,40,H3T,Base,Crew Cab,1
+4330,2,M3,Base,Sedan,2
+4331,17,Mazda5,Touring,Minivan,2
+4332,22,New Beetle,S,Convertible,1
+4333,32,Sierra 2500HD Classic,SLE1,Crew Cab,1
+4334,31,Accord,EX-L,Coupe,2
+4335,22,Golf,GLS,Hatchback,2
+4336,24,Impreza,2.5 RS,Wagon,2
+4337,42,Vitara,JLX,SUV,1
+4338,49,Prowler,Base,Convertible,1
+4339,4,Pathfinder,(1999.5) XE,SUV,2
+4340,4,Frontier,Base,Regular Cab,2
+4341,10,LX 450,Base,SUV,1
+4342,17,626,LX,Sedan,2
+4343,2,3 Series,328d xDrive,Wagon,1
+4344,24,WRX,STI,Sedan,2
+4345,8,ATS,Luxury,Sedan,2
+4346,2,3 Series Gran Turismo,335i xDrive,Hatchback,1
+4347,2,6 Series,640i xDrive,Convertible,1
+4348,2,4 Series,428i,Coupe,2
+4349,22,Jetta GLI,Base,Sedan,2
+4350,14,Wrangler,70th Anniversary,SUV,2
+4351,6,A4,3.2 Avant quattro,Wagon,1
+4352,22,Tiguan,R-Line,SUV,1
+4353,2,Z4,sDrive28i,Convertible,2
+4354,4,Titan,S,Crew Cab,1
+4355,6,A3,2.0T Premium,Wagon,2
+4356,11,Tucson,GLS PZEV,SUV,2
+4357,2,X3,3.0si,SUV,2
+4358,27,Ram Pickup 1500,SLT,Mega Cab,1
+4359,6,A3,3.2 quattro,Wagon,1
+4360,27,Ram Pickup 1500,Laramie,Regular Cab,1
+4361,41,9-5,SportCombi,Wagon,1
+4362,37,ION,3,Sedan,2
+4363,27,Dakota,Base,Regular Cab,2
+4364,24,Legacy,L 35th Anniversary Edition,Sedan,1
+4365,36,Montana,MontanaVision,Minivan,1
+4366,14,Cherokee,Sport,SUV,2
+4367,6,TT,quattro,Coupe,2
+4368,28,500,Abarth,Hatchback,1
+4369,11,Elantra,Sport,Sedan,2
+4370,22,Beetle Convertible,R-Line PZEV,Beetle Convertible,1
+4371,5,Black Diamond Avalanche,LS,Crew Cab,1
+4372,2,4 Series,428i,Convertible,1
+4373,7,Focus ST,Base,Hatchback,1
+4374,24,Impreza,2.0i Premium PZEV,Sedan,2
+4375,22,Beetle,Turbo,Hatchback,2
+4376,2,3 Series,335i xDrive,Sedan,2
+4377,17,Tribute,i Touring,SUV,1
+4378,5,HHR,SS,Wagon,2
+4379,5,Silverado 3500 Classic,LT1,Crew Cab,1
+4380,5,C/K 3500 Series,Base,Regular Cab,1
+4381,31,Civic,DX,Hatchback,1
+4382,2,1 Series,128i SULEV,Coupe,2
+4383,34,fortwo,electric drive coupe,Hatchback,1
+4384,42,Grand Vitara,Ultimate Adventure,SUV,1
+4385,22,GTI,Autobahn,Hatchback,2
+4386,5,Spark,2LT,Hatchback,2
+4387,42,SX4,Sport GTS,Sedan,2
+4388,27,Ram Pickup 3500,Laramie,Crew Cab,1
+4389,32,Yukon,SLE1,SUV,1
+4390,27,Ram Pickup 2500,SLT,Regular Cab,1
+4391,27,Ram Pickup 3500,SLT,Mega Cab,2
+4392,7,Fusion,SEL,Sedan,2
+4393,22,Eos,Base,Convertible,2
+4394,3,S80,V8,Sedan,1
+4395,27,Sprinter Cargo,3500 High Roof 158 WB,Van,1
+4396,38,GranSport,Base,Coupe,1
+4397,42,Reno,LX,Hatchback,1
+4398,27,Neon,SRT-4,Sedan,1
+4399,7,Excursion,XLT Value,SUV,1
+4400,22,Jetta,GL,Wagon,2
+4401,3,S60,T5,Sedan,2
+4402,41,9-3,Base,Convertible,1
+4403,41,9-3,Base,Hatchback,1
+4404,43,Intrigue,Base,Sedan,1
+4405,32,Sonoma,SLS Sport,Regular Cab,1
+4406,4,200SX,SE,Coupe,2
+4407,27,Dakota,SLT,Extended Cab,2
+4408,31,Accord,Special Edition,Coupe,1
+4409,15,E-Class,E300D,Sedan,1
+4410,2,3 Series,325i,Convertible,1
+4411,15,E-Class,E250 Luxury BlueTEC 4MATIC,Sedan,1
+4412,6,A6,TDI Prestige quattro,Sedan,1
+4413,28,500e,Base,Hatchback,1
+4414,2,3 Series,328i xDrive,Coupe,2
+4415,5,Camaro,Z28,Hatchback,1
+4416,40,H3,Luxury,SUV,1
+4417,16,Lancer,O-Z Rally,Sedan,1
+4418,23,MR2 Spyder,Base,Convertible,2
+4419,6,TT,2.0T Premium Plus quattro,Coupe,1
+4420,33,3500,Laramie Longhorn Edition,Mega Cab,1
+4421,7,F-450 Super Duty,XLT,Crew Cab,1
+4422,3,C30,T5 R-Design,Hatchback,1
+4423,35,Continental Supersports,Base,Coupe,1
+4424,32,Sierra 1500,SLE,Regular Cab,1
+4425,32,Canyon,SL,Extended Cab,1
+4426,17,Tribute,i Grand Touring,SUV,2
+4427,24,Outback,2.5 XT Limited,Wagon,2
+4428,2,Z4 M,Base,Coupe,2
+4429,7,Focus,ZX5 SES,Hatchback,2
+4430,32,Sierra 1500 Classic,Work Truck,Regular Cab,1
+4431,22,Passat,2.0T,Sedan,2
+4432,45,i-Series,i-280 S,Extended Cab,1
+4433,6,A4,2.0T Avant quattro,Wagon,2
+4434,41,9-7X,Linear,SUV,1
+4435,24,Legacy,2.5i,Wagon,1
+4436,22,Jetta,GL PZEV,Sedan,1
+4437,23,Matrix,XRS,Wagon,2
+4438,11,Sonata,V6,Sedan,1
+4439,29,PT Cruiser,Limited Edition,Wagon,2
+4440,16,Lancer Evolution,Base,Sedan,1
+4441,41,9-5,Linear 2.3T,Sedan,2
+4442,22,EuroVan,MV,Minivan,1
+4443,7,Windstar Cargo,Base,Minivan,1
+4444,5,Silverado 1500,Base,Extended Cab,2
+4445,7,Mustang,Base,Convertible,2
+4446,22,Cabrio,GL (1999.5),Convertible,1
+4447,16,Galant,S,Sedan,1
+4448,3,850,GLTS,Wagon,1
+4449,31,Civic,Hybrid w/Leather,Sedan,1
+4450,21,F-TYPE,Base,Convertible,1
+4451,15,E-Class,E250 Sport BlueTEC,Sedan,1
+4452,18,Cooper Clubman,John Cooper Works,Hatchback,2
+4453,23,Corolla,S Premium,Sedan,1
+4454,23,Tacoma,V6,Access Cab,2
+4455,6,R8,4.2 quattro,Coupe,2
+4456,13,EX,EX35 Journey,SUV,1
+4457,33,2500,Laramie Longhorn Edition,Mega Cab,1
+4458,27,Charger,Base,Sedan,2
+4459,4,Altima,GLE,Sedan,2
+4460,26,911,Carrera,Convertible,1
+4461,34,fortwo,electric drive cabriolet,Convertible,1
+4462,7,Focus,Titanium,Hatchback,2
+4463,13,M,M56x,Sedan,1
+4464,17,3,s Grand Touring,Hatchback,1
+4465,4,Altima,3.5 SR,Coupe,2
+4466,33,2500,ST,Regular Cab,1
+4467,24,Forester,2.5X Limited PZEV,SUV,1
+4468,42,SX4,Sport SE,Sedan,1
+4469,27,Caliber,SE Fleet,Wagon,1
+4470,17,RX-8,Sport,Coupe,1
+4471,32,Yukon XL,SLT1 1500,SUV,1
+4472,7,Focus,SES,Coupe,2
+4473,40,H3T,Alpha,Crew Cab,1
+4474,22,CC,VR6 Sport,Sedan,1
+4475,22,New Beetle,2.5L PZEV,Hatchback,1
+4476,12,LaCrosse,Super,Sedan,1
+4477,1,Spectra,Spectra5 SX,Wagon,2
+4478,20,Town Car,Signature L,Sedan,1
+4479,17,6,s Sport Value Edition,Sedan,1
+4480,24,Legacy,2.5 I Limited,Sedan,1
+4481,22,New Beetle,SE PZEV,Hatchback,1
+4482,15,SLK-Class,SLK350,Convertible,2
+4483,42,Reno,Base,Hatchback,2
+4484,42,Forenza,Base,Wagon,1
+4485,5,Colorado,LS,Regular Cab,2
+4486,27,Magnum,SRT-8,Wagon,1
+4487,27,Ram Pickup 2500,Laramie,Mega Cab,1
+4488,32,Sierra 3500,SLT,Crew Cab,1
+4489,16,Raider,Duro Cross V6,Double Cab,1
+4490,3,V50,T5,Wagon,2
+4491,15,C-Class,C240 Luxury,Wagon,1
+4492,41,9-7X,Arc,SUV,1
+4493,7,Mustang,SVT Cobra,Coupe,2
+4494,11,Sonata,Base,Sedan,2
+4495,39,Monterey,Convenience,Minivan,1
+4496,24,Outback,H6-3.0 35th Anniversary Edition,Wagon,1
+4497,27,Sprinter Cargo,2500 SH Ceiling 140 WB,Van,1
+4498,32,Sonoma,SL,Extended Cab,1
+4499,31,Insight,Base,Hatchback,2
+4500,15,C-Class,C240 4MATIC,Wagon,1
+4501,36,Grand Am,SE2,Sedan,1
+4502,24,Impreza,2.5 TS,Wagon,2
+4503,24,Impreza,2.5 TS,Wagon,1
+4504,5,Cavalier,Z24,Sedan,1
+4505,7,F-250 Super Duty,XL,Regular Cab,2
+4506,4,Frontier,XE-V6 Dessert Runner,King Cab,2
+4507,8,Eldorado,ETC,Coupe,1
+4508,6,TT,225hp quattro,Coupe,1
+4509,15,CLK-Class,CLK55 AMG,Coupe,1
+4510,4,Quest,GXE,Minivan,1
+4511,42,Esteem,GLX Sport,Sedan,2
+4512,5,Suburban,2500,SUV,1
+4513,5,C/K 3500 Series,Base,Crew Cab,1
+4514,4,Frontier,XE,Crew Cab,2
+4515,39,Mystique,LS,Sedan,1
+4516,3,V70,SE,Wagon,1
+4517,7,F-150 SVT Lightning,Base,Regular Cab,1
+4518,13,QX4,Base (1999.5),SUV,1
+4519,23,Celica,GT,Convertible,1
+4520,22,Jetta,Wolfsburg,Sedan,2
+4521,41,9-5,2.3t,Sedan,2
+4522,2,3 Series,318ti,Hatchback,2
+4523,7,E-150,Econoline,Van,1
+4524,7,Escort,SE,Wagon,1
+4525,5,C/K 1500 Series,Cheyenne,Regular Cab,2
+4526,22,Jetta,GT,Sedan,2
+4527,9,CL,2.2 Premium,Coupe,1
+4528,31,Prelude,Base,Coupe,2
+4529,7,Thunderbird,LX,Coupe,1
+4530,49,Breeze,Base,Sedan,1
+4531,7,Contour,GL,Sedan,1
+4532,12,Riviera,Base,Coupe,1
+4533,12,Regal,Gran Sport,Sedan,1
+4534,2,3 Series,318i,Sedan,2
+4535,39,Tracer,Base,Sedan,1
+4536,13,G20,Base,Sedan,2
+4537,28,500,C Lounge,Convertible,2
+4538,27,Grand Caravan,SXT,minivan,1
+4539,14,Wrangler,Freedom Edition,SUV,1
+4540,23,Camry,SE,sedan,1
+4541,23,Camry,XLE,sedan,1
+4542,6,S5,Prestige quattro,Coupe,1
+4543,6,S7,quattro,Sedan,1
+4544,4,Sentra,2.0 SL,Sedan,2
+4545,22,Touareg,V6 TDI,SUV,1
+4546,20,Navigator L,Luxury,SUV,1
+4547,20,Town Car,Premium Signature,Sedan,1
+4548,22,EuroVan,GLS,Minivan,1
+4549,39,Cougar,V6,Hatchback,2
+4550,22,Beetle Convertible,Turbo 60's Edition,Beetle Convertible,1
+4551,32,Canyon,Work Truck,Extended Cab,1
+4552,32,Canyon,SLE-1,Crew Cab,1
+4553,6,R8,5.2 quattro Spyder,Convertible,2
+4554,5,Cobalt,XFE,Sedan,2
+4555,5,TrailBlazer,LT3,SUV,1
+4556,32,Yukon,SLE2 XFE,SUV,1
+4557,16,Galant,Sport V6,Sedan,1
+4558,29,Crossfire,Limited,Hatchback,1
+4559,7,F-350 Super Duty,FX4,SuperCab,1
+4560,24,Legacy,2.5 I,Sedan,2
+4561,5,Silverado 2500HD Classic,Work Truck,Crew Cab,1
+4562,27,Caliber,R/T,Wagon,2
+4563,15,C-Class,C230 Kompressor,Hatchback,2
+4564,5,Colorado,ZQ8 LS,Extended Cab,2
+4565,32,Sonoma,SL,Regular Cab,1
+4566,4,Frontier,SE-V6 Desert Runner,King Cab,1
+4567,5,Cavalier,LS Sport,Coupe,2
+4568,7,Escape,XLS Sport,SUV,2
+4569,38,Spyder,GT,Convertible,2
+4570,39,Cougar,Sport,Hatchback,1
+4571,4,Xterra,SE S/C,SUV,2
+4572,17,Tribute,DX,SUV,2
+4573,1,Sephia,LS,Sedan,1
+4574,22,GTI,GLS 1.8T,Hatchback,1
+4575,5,Corvette,Hardtop,Coupe,2
+4576,7,Transit Connect,Wagon XLT SWB,Minivan,1
+4577,14,Wrangler,Unlimited Freedom Edition,SUV,2
+4578,23,Camry,LE,sedan,1
+4579,20,MKC,Base,SUV,1
+4580,5,Corvette,427,Convertible,1
+4581,23,Tacoma,X-Runner V6,Access Cab,2
+4582,4,Frontier,S,Crew Cab,2
+4583,24,Forester,2.5XT Touring,SUV,1
+4584,3,C30,R-Design,Hatchback,2
+4585,3,S40,T5 R-Design,Sedan,1
+4586,16,Lancer Evolution,GSR,Sedan,1
+4587,22,Eos,VR6,Convertible,1
+4588,22,Passat,3.6,Wagon,1
+4589,5,Colorado,LT,Regular Cab,2
+4590,27,Ram Pickup 2500,Laramie,Mega Cab,2
+4591,32,Sierra 1500,SL1,Regular Cab,1
+4592,24,Outback,2.5i Limited,Wagon,2
+4593,24,Legacy,2.5i Limited,Wagon,1
+4594,31,Civic,Si,Hatchback,1
+4595,7,Focus,LX Premium,Sedan,1
+4596,41,9-5,Arc 3.0t,Wagon,1
+4597,22,New Beetle,Sport,Hatchback,1
+4598,5,Venture,Value,Minivan,1
+4599,19,Range Rover,4.0 SE,SUV,1
+4600,37,L-Series,LW2,Wagon,1
+4601,23,Tacoma,Prerunner,Extended Cab,1
+4602,17,B-Series Pickup,B3000 SE,Extended Cab,2
+4603,14,Cherokee,Classic,SUV,2
+4604,20,Mark VIII,LSC,Coupe,1
+4605,7,Aspire,Base,Hatchback,2
+4606,31,Fit,LX,Hatchback,1
+4607,7,Transit Connect,Cargo Van XLT LWB,Minivan,1
+4608,31,Ridgeline,RTL w/Leather and Navigation,Crew Cab,1
+4609,3,S60,T5 Drive-E,Sedan,1
+4610,6,A8,4.0T quattro,Sedan,1
+4611,17,3,s Grand Touring,Hatchback,2
+4612,17,RX-8,Sport,Coupe,2
+4613,16,Lancer Sportback,Ralliart,Hatchback,1
+4614,6,TT,3.2 quattro,Hatchback,2
+4615,27,Dakota,SXT,Extended Cab,1
+4616,24,Outback,2.5I,Wagon,2
+4617,32,Sierra 1500 Classic,Work Truck,Extended Cab,1
+4618,21,XK-Series,XKR,Coupe,1
+4619,15,E-Class,E350 4MATIC,Sedan,2
+4620,22,New Beetle,TDI,Hatchback,2
+4621,45,Ascender,Luxury 5 Passenger,SUV,1
+4622,17,6,s,Wagon,1
+4623,37,L300,2,Sedan,1
+4624,41,9-3,Vector,Sedan,1
+4625,22,New Beetle,GLS TDI,Hatchback,2
+4626,24,Outback,Limited,Wagon,2
+4627,41,9-3,Base,Convertible,2
+4628,7,Aspire,Base,Hatchback,1
+4629,36,Sunfire,SE,Coupe,2
+4630,3,940,Level I,Sedan,1
+4631,1,Optima,LX,sedan,1
+4632,17,Mazda3,i Sport,Hatchback,1
+4633,9,MDX,SH-AWD,SUV,1
+4634,7,Edge,SE,SUV,2
+4635,22,Jetta,SEL PZEV,Sedan,2
+4636,1,Rio,Rio5 LX,Wagon,2
+4637,24,Impreza,WRX,Wagon,1
+4638,7,Ranger,Edge,Regular Cab,2
+4639,43,Alero,GL,Coupe,1
+4640,23,Camry,L,sedan,1
+4641,3,V60,T5 Drive-E,Wagon,1
+4642,2,3 Series,328i,Wagon,2
+4643,5,Corvette Stingray,Z51,Convertible,1
+4644,38,Quattroporte,S,Sedan,1
+4645,24,Forester,2.5X Touring,SUV,1
+4646,26,911,Turbo S,Coupe,1
+4647,47,V8 Vantage,Base,Coupe,1
+4648,6,A6,2.7T quattro,Sedan,2
+4649,27,Intrepid,SXT,Sedan,1
+4650,24,Baja,Base,Crew Cab,2
+4651,2,3 Series,325i,Wagon,2
+4652,3,C70,HT,Coupe,1
+4653,15,190-Class,190E 2.3,Sedan,1
+4654,28,500L,Pop,Wagon,2
+4655,18,Cooper Countryman,John Cooper Works ALL4,Wagon,1
+4656,22,Jetta GLI,Edition 30 PZEV,Sedan,2
+4657,2,1 Series,128i SULEV,Convertible,2
+4658,35,Continental GT,V8,Coupe,1
+4659,19,Range Rover Evoque,Dynamic Premium,SUV,1
+4660,26,911,Carrera 4S,Coupe,2
+4661,33,2500,Tradesman,Crew Cab,2
+4662,17,3,s Grand Touring,Sedan,1
+4663,31,Civic,EX-L,Coupe,2
+4664,7,F-250 Super Duty,Lariat,SuperCab,2
+4665,11,Accent,Base,Hatchback,2
+4666,23,Celica,GT-S,Hatchback,1
+4667,4,Pathfinder,SE,SUV,2
+4668,9,Integra,RS,Hatchback,2
+4669,10,SC 300,Base,Coupe,2
+4670,5,Corvette,GS,Coupe,2
+4671,23,Prius Plug-in,Advanced,Hatchback,1
+4672,23,Tacoma,PreRunner,Access Cab,1
+4673,8,SRX,V8,SUV,1
+4674,5,Cobalt,Sport,Sedan,1
+4675,14,Compass,Limited,SUV,2
+4676,22,Passat,GL,Wagon,1
+4677,27,Caravan,Sport,Minivan,1
+4678,42,Vitara,JLS,SUV,2
+4679,5,Cavalier,Z24,Convertible,1
+4680,6,A4,2.8 Avant quattro,Wagon,1
+4681,27,Dakota,Base,Extended Cab,1
+4682,4,Truck,XE,Regular Cab,2
+4683,43,Cutlass Supreme,SL,Sedan,1
+4684,31,Prelude,Type SH,Coupe,2
+4685,21,XJ,XJR LWB,Sedan,1
+4686,6,A4,2.0T Prestige,Sedan,1
+4687,18,Cooper Roadster,S,Convertible,1
+4688,5,Silverado 1500,Z71 LT,Double Cab,1
+4689,4,NV,2500 S,Van,1
+4690,5,Colorado,1LT,Extended Cab,1
+4691,26,911,Carrera 4 GTS,Convertible,1
+4692,7,Shelby GT500,Base,Coupe,1
+4693,14,Wrangler,Unlimited 70th Anniversary,SUV,2
+4694,23,Matrix,XRS,Hatchback,1
+4695,24,Forester,2.5 X L.L.Bean Edition,Wagon,1
+4696,5,Silverado 1500 Classic,LS,Regular Cab,2
+4697,32,Sierra 2500HD Classic,SLT,Extended Cab,1
+4698,32,Sierra 1500,SLE2,Crew Cab,1
+4699,52,Gallardo,Spyder,Convertible,1
+4700,27,Sprinter Cargo,3500 High Roof 140 WB,Van,1
+4701,24,Outback,3.0 R,Wagon,1
+4702,5,Malibu Maxx,Fleet,Hatchback,1
+4703,3,V70,R,Wagon,2
+4704,14,Liberty,Rocky Mountain,SUV,1
+4705,1,Rio,Cinco,Wagon,2
+4706,22,Jetta,GLX VR6,Wagon,1
+4707,29,200,C,Sedan,1
+4708,24,Outback,VDC,Wagon,1
+4709,7,Escort,Base,Sedan,2
+4710,45,Amigo,S,SUV,1
+4711,9,Integra,Special Edition,Hatchback,1
+4712,3,850,Base,Wagon,1
+4713,5,Prizm,LSi,Sedan,2
+4714,24,Impreza,RS,Sedan,2
+4715,36,Grand Am,SE2,Coupe,1
+4716,5,C/K 1500 Series,454SS,Regular Cab,1
+4717,15,E-Class,E400 Hybrid,Sedan,1
+4718,26,911,Carrera 4,Convertible,1
+4719,46,Model S,Base,Sedan,1
+4720,5,Corvette Stingray,Base,Convertible,2
+4721,35,Continental Flying Spur Speed,Base,Sedan,1
+4722,26,911,Carrera S (Midyear Redesign),Coupe,2
+4723,23,Prius,I,Hatchback,1
+4724,15,E-Class,E320 BlueTEC,Sedan,1
+4725,26,911,GT2,Coupe,1
+4726,2,M,Base,Convertible,1
+4727,27,Viper,SRT-10,Convertible,2
+4728,36,G6,GTP,Sedan,2
+4729,22,Jetta,Value Edition PZEV,Sedan,2
+4730,17,Truck,B2300,Regular Cab,2
+4731,32,Savana Cargo,G3500,Van,1
+4732,45,Trooper,Limited,SUV,2
+4733,16,3000GT,Base,Hatchback,1
+4734,7,Taurus,G,Sedan,1
+4735,9,Integra,LS,Sedan,2
+4736,6,TT RS,quattro,Coupe,2
+4737,35,Continental GTC,V8,Convertible,1
+4738,24,WRX,Base,Sedan,2
+4739,6,R8,5.2 quattro,Coupe,1
+4740,42,Grand Vitara,JLX,SUV,2
+4741,4,300ZX,GS,Hatchback,2
+4742,46,Model S,85,Sedan,1
+4743,26,Panamera,Turbo S,Sedan,1
+4744,5,Colorado,LT1,Regular Cab,1
+4745,5,HHR,Panel LT,Wagon,1
+4746,32,Sierra 2500HD,SLE1,Extended Cab,1
+4747,13,M45,x,Sedan,1
+4748,45,i-Series,i-290 LS,Extended Cab,2
+4749,32,Sierra 3500,Base,Crew Cab,1
+4750,31,Civic,LX Special Edition,Coupe,1
+4751,2,X3,2.5i,SUV,2
+4752,24,Legacy,L,Sedan,2
+4753,28,500L,Trekking,Wagon,2
+4754,13,Q60 Coupe,IPL,Q60 Coupe,1
+4755,4,Juke,NISMO RS,Hatchback,1
+4756,15,C-Class,C63 AMG,Coupe,1
+4757,4,NV,3500 SV,Van,1
+4758,32,Terrain,SLT-1,SUV,2
+4759,17,Mazda5,Grand Touring,Minivan,2
+4760,27,Dakota,ST,Quad Cab,2
+4761,7,Ranger,EDGE,SuperCab,2
+4762,5,Express,1500,Van,1
+4763,29,PT Cruiser,Touring Edition,Wagon,2
+4764,2,3 Series,323i,Convertible,1
+4765,31,Civic,EX PZEV,Sedan,1
+4766,5,Impala,LTZ,Sedan,2
+4767,4,Frontier,SV,King Cab,2
+4768,5,Cobalt,SS,Sedan,2
+4769,32,Sierra 1500 Classic,SL1,Extended Cab,1
+4770,22,New Beetle,2.5,Hatchback,2
+4771,27,Dakota,SLT,Club Cab,2
+4772,42,Vitara,LX,SUV,1
+4773,7,Fiesta,Titanium,Sedan,2
+4774,14,Patriot,Latitude,SUV,2
+4775,4,Juke,NISMO RS,Hatchback,2
+4776,22,GTI,Wolfsburg Edition,Hatchback,2
+4777,3,XC60,T5 Drive-E Premier,SUV,1
+4778,33,3500,SLT,Crew Cab,2
+4779,5,Colorado,LT1,Extended Cab,2
+4780,24,Impreza,WRX STI,Hatchback,1
+4781,7,Ranger,SPORT,Regular Cab,2
+4782,7,Mustang,SVT Cobra,Coupe,1
+4783,7,Focus,SE Comfort,Sedan,2
+4784,32,Jimmy,Diamond Edition,SUV,1
+4785,2,7 Series,750iL,Sedan,1
+4786,7,Focus,Titanium,Sedan,2
+4787,2,ActiveHybrid 5,Base,Sedan,1
+4788,24,Legacy,3.6R Premium,Sedan,1
+4789,33,1500,Sport,Regular Cab,1
+4790,15,R-Class,R320 BlueTEC,Wagon,1
+4791,22,Passat,VR6 4Motion,Sedan,1
+4792,22,New Beetle,SE,Hatchback,1
+4793,24,Impreza,WRX Limited,Sedan,1
+4794,22,New Beetle,2.5 PZEV,Convertible,2
+4795,42,Grand Vitara,LX,SUV,1
+4796,17,Mazda6,s,Wagon,2
+4797,43,Alero,GL1,Coupe,1
+4798,16,Lancer Evolution,Base,Sedan,2
+4799,5,Blazer,LS,SUV,2
+4800,9,CL,2.3,Coupe,1
+4801,2,3 Series,323is,Coupe,2
+4802,22,Jetta,GLS TDI,Wagon,1
+4803,5,Colorado,ZQ8,Regular Cab,1
+4804,22,New Beetle,Dark Flint Edition,Convertible,2
+4805,29,Pacifica,Touring,Wagon,2
+4806,41,9-3,Aero SportCombi,Wagon,1
+4807,9,CL,3.2 Type-S,Coupe,2
+4808,9,TL,SH-AWD w/Technology Package,Sedan,2
+4809,5,Corvette Stingray,Z51,Convertible,2
+4810,4,350Z,Touring,Coupe,2
+4811,5,Colorado,ZQ8 LS,Regular Cab,1
+4812,23,4Runner,Base,SUV,2
+4813,37,S-Series,SW1,Wagon,1
+4814,2,3 Series,325i,Convertible,2
+4815,23,Tercel,Base,Coupe,2
+4816,23,Highlander,Base,SUV,2
+4817,15,C-Class,C320,Hatchback,1
+4818,23,Corolla,S Special Edition,Sedan,2
+4819,33,3500,Laramie,Crew Cab,2
+4820,22,Golf,TDI,Hatchback,2
+4821,4,Versa,1.6 Base,Sedan,2
+4822,32,Sierra 1500 Hybrid,Base,Crew Cab,1
+4823,32,Sierra 1500,Work Truck,Regular Cab,2
+4824,32,Sierra 3500,SL1,Crew Cab,1
+4825,45,i-Series,i-280 S,Extended Cab,2
+4826,39,Milan,Premier,Sedan,2
+4827,2,5 Series,540i,Wagon,1
+4828,9,Integra,GS-R,Hatchback,2
+4829,27,Dakota,Base,Club Cab,2
+4830,15,ML55 AMG,Base,SUV,1
+4831,17,626,LX V6,Sedan,2
+4832,9,Integra,GS,Hatchback,2
+4833,24,Forester,2.0XT Premium,SUV,1
+4834,28,500,t Turbo,Hatchback,2
+4835,24,Impreza WRX,STI Limited,Sedan,1
+4836,11,Tucson,Limited PZEV,SUV,1
+4837,27,Ram Pickup 2500,SLT,Mega Cab,2
+4838,32,Canyon,Z71 SL,Extended Cab,1
+4839,5,Camaro,Base,Convertible,1
+4840,9,ZDX,Advance Package,Hatchback,1
+4841,24,Legacy,2.5i Premium PZEV,Sedan,2
+4842,8,DTS,Platinum,Sedan,1
+4843,29,Sebring,Touring Fleet,Sedan,1
+4844,31,Accord,Value Package,Sedan,2
+4845,45,Ascender,S,SUV,1
+4846,5,Silverado 3500,LS,Crew Cab,2
+4847,22,New Beetle,GL 1.8T,Convertible,2
+4848,22,Jetta,GL TDI,Sedan,1
+4849,7,Explorer Sport Trac,Base,Crew Cab,2
+4850,7,Ranger,Edge Plus,SuperCab,1
+4851,32,Sierra 1500,SL,Regular Cab,2
+4852,22,Jetta,GLS VR6 (1999.5),Sedan,1
+4853,22,Jetta GLI,Autobahn,Sedan,1
+4854,5,Aveo,Aveo5 1LT,Hatchback,2
+4855,27,Ram Pickup 2500,SLT,Crew Cab,2
+4856,5,Corvette,Stingray,Coupe,1
+4857,22,Jetta,GLS 1.8T,Wagon,1
+4858,6,R8,5.2 quattro Spyder,Convertible,1
+4859,5,Suburban,LT 2500,SUV,1
+4860,15,SLK-Class,SLK230,Convertible,2
+4861,5,S-10 Blazer,Base,SUV,1
+4862,27,Journey,Crossroad,SUV,1
+4863,29,200,Touring,Sedan,2
+4864,36,Firebird,Formula,Hatchback,2
+4865,4,Maxima,3.5 SV,Sedan,2
+4866,1,Forte,EX,Hatchback,2
+4867,6,RS 4,quattro,Sedan,2
+4868,27,Caravan,C/V,Minivan,1
+4869,22,Jetta,2.0T,Sedan,2
+4870,5,Cobalt,Base,Sedan,2
+4871,20,Town Car,Premium Cartier,Sedan,1
+4872,7,Escort,Premium Fleet,Sedan,1
+4873,39,Villager,Value,Minivan,1
+4874,27,Ram Cargo,1500,Van,1
+4875,31,Accord,Value,Sedan,1
+4876,23,T100,SR5,Extended Cab,1
+4877,5,Sonic,RS,Hatchback,2
+4878,23,Tacoma,TRD PRO,Double Cab,1
+4879,6,TT,180hp,Coupe,2
+4880,17,Truck,B3000 Dual Sport,Cab Plus,2
+4881,17,3,s Sport,Sedan,2
+4882,27,Sprinter,2500 High Roof 140 WB,Van,1
+4883,7,F-150 Heritage,XL,Regular Cab,2
+4884,23,Tacoma,PreRunner V6,Access Cab,2
+4885,6,TTS,Premium Plus quattro,Coupe,1
+4886,35,Continental GTC Speed,Base,Convertible,1
+4887,27,Nitro,Detonator,SUV,1
+4888,29,Sebring,Base,Coupe,1
+4889,4,Sentra,Base,Sedan,2
+4890,19,Range Rover,Ebony Edition,SUV,1
+4891,24,WRX,Base,Sedan,1
+4892,7,Expedition,EL SSV Fleet,SUV,1
+4893,7,F-350 Super Duty,XLT,SuperCab,2
+4894,5,Silverado 1500,Work Truck,Regular Cab,2
+4895,11,Accent,GT,Hatchback,2
+4896,42,Reno,EX,Hatchback,2
+4897,5,Aveo,Base,Hatchback,2
+4898,24,Legacy,L 35th Anniversary Edition,Sedan,2
+4899,27,Dakota,Sport,Extended Cab,1
+4900,19,Range Rover,Base,SUV,1
+4901,24,Outback,2.5 XT,Wagon,2
+4902,7,Mustang,V6 Premium,Coupe,1
+4903,6,S5,Prestige quattro,Coupe,2
+4904,22,Jetta,TDI Cup Edition,Sedan,1
+4905,32,Canyon,Work Truck,Regular Cab,2
+4906,5,Silverado 2500,Base,Regular Cab,1
+4907,22,Passat,GLX V6,Sedan,2
+4908,14,Wrangler,Unlimited Rubicon Hard Rock,SUV,2
+4909,24,Outback,2.5i Premium PZEV,Wagon,2
+4910,8,STS,V6 Premium,Sedan,1
+4911,4,Frontier,SV,Crew Cab,2
+4912,24,Tribeca,3.6R Touring,SUV,1
+4913,32,Yukon XL,Denali,SUV,2
+4914,5,Colorado,LS,Extended Cab,2
+4915,31,Civic,Si,Coupe,1
+4916,15,SLK-Class,SLK280,Convertible,2
+4917,41,9-3,Aero,Convertible,2
+4918,11,Accent,L,Hatchback,2
+4919,7,Fiesta,ST,Hatchback,1
+4920,24,XV Crosstrek,Premium,SUV,2
+4921,8,SRX,Turbo Premium,SUV,1
+4922,4,Sentra,SE,Sedan,2
+4923,16,Montero,Base,SUV,1
+4924,4,Truck,Base,Regular Cab,1
+4925,5,Sonic,RS,Hatchback,1
+4926,7,Shelby GT500,Base,Convertible,2
+4927,24,Impreza,WRX,Hatchback,1
+4928,11,Elantra,Limited SULEV,Sedan,2
+4929,7,Focus,ZX3 Power Premium,Hatchback,1
+4930,4,Frontier,SE-V6,King Cab,2
+4931,7,Ranger,XL,Extended Cab,2
+4932,42,Sidekick,Sport JLX,SUV,1
+4933,2,3 Series,325is,Coupe,2
+4934,36,Grand Prix,LE,Sedan,1
+4935,17,6,i,Hatchback,1
+4936,22,Jetta,GLS (1999.5),Sedan,2
+4937,31,Accord,LX,Wagon,2
+4938,5,S-10 Blazer,Base,SUV,2
+4939,5,Camaro,Z/28,Coupe,2
+4940,11,Elantra,SE SULEV,Sedan,2
+4941,22,New Beetle,GL TDI,Hatchback,2
+4942,26,Cayman,R,Coupe,2
+4943,9,TL,SH-AWD,Sedan,2
+4944,22,New Beetle,2.5L Red Rock Edition,Hatchback,2
+4945,11,Accent,GT,Hatchback,1
+4946,17,3,i,Sedan,1
+4947,24,Impreza,2.5 RS,Wagon,1
+4948,7,Taurus,SE Premium,Wagon,1
+4949,31,Element,DX,SUV,2
+4950,31,S2000,Base,Convertible,1
+4951,39,Villager,Base,Minivan,1
+4952,7,E-250,Econoline,Van,1
+4953,5,C/K 1500 Series,Cheyenne,Extended Cab,1
+4954,23,4Runner,Limited,SUV,2
+4955,22,Golf,GLS TDI,Hatchback,1
+4956,7,F-350 Super Duty,Lariat,SuperCab,2
+4957,31,Element,DX,SUV,1
+4958,6,TT,180hp quattro,Coupe,2
+4959,32,Jimmy,SLS,SUV,2
+4960,2,8 Series,850i,Coupe,1
+4961,15,420-Class,420SEL,Sedan,1
+4962,5,Corvette,Z06 Competition Sport Spec Ed,Coupe,2
+4963,5,HHR,Panel LT,Wagon,2
+4964,24,Forester,2.5XT Limited,SUV,1
+4965,2,3 Series,328xi,Coupe,2
+4966,27,Charger,SRT-8,Sedan,2
+4967,5,SSR,LS,Regular Cab,2
+4968,17,B-Series Truck,B2300,Regular Cab,1
+4969,4,Frontier,SE,Extended Cab,1
+4970,16,Montero,LS,SUV,1
+4971,5,Camaro,Base,Convertible,2
+4972,18,Cooper Countryman,John Cooper Works ALL4,Wagon,2
+4973,46,Model S,60,Sedan,1
+4974,24,WRX,STI Limited,Sedan,2
+4975,22,CC,VR6 Lux,Sedan,1
+4976,4,Frontier,XE,Regular Cab,1
+4977,43,Achieva,SL,Sedan,1
+4978,6,TT,3.2 quattro,Convertible,2
+4979,15,300-Class,300SE,Sedan,1
+4980,7,Fusion,SE,sedan,1
+4981,7,F-150,Base,Extended Cab,1
+4982,27,Ram Pickup 3500,ST,Crew Cab,1
+4983,45,i-Series,i-290 S,Extended Cab,1
+4984,4,Altima,2.5 S,sedan,1
+4985,15,300-Class,300E 2.8,Sedan,1
+4986,4,Altima,2.5,sedan,1
+4987,24,Baja,Turbo,Crew Cab,2
+4988,11,Elantra,GLS,sedan,1
+4989,1,Sephia,Base,Sedan,2

@@ -1,0 +1,3 @@
+REM INSERTING into MARCAS
+SET DEFINE OFF;
+Insert into MARCAS (MAR_ID,MAR_NOME) values ('53','Lotus');

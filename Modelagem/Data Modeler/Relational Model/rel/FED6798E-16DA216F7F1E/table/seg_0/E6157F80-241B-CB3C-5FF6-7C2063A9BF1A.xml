@@ -1,0 +1,56 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="E6157F80-241B-CB3C-5FF6-7C2063A9BF1A" name="Vendedores">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<comment><![CDATA[Tabela que armazena os vendedores que venderam o(s) carro(s)]]></comment>
+<commentInRDBMS><![CDATA[Tabela com todos os vndedores cadastrados]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>FD9E9D30-75BE-C6BF-D218-1DFF0355A9FA</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="vdr_id" id="67438357-53BA-7037-9A83-D8BCE2434444">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Identificador único do vendedor]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>BEC7CB32-E65F-843F-20AB-70A59AD2C56E</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>CK_VDR_NN_01</notNullConstraintName>
+</Column>
+<Column name="vdr_nome" id="75055502-CD76-DF02-582D-8EEE283E0F4C">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Nome do vendedor]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>93376B85-12AB-4A6A-D335-535495AE656D</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="EA6A33FB-645E-50E4-D02F-D0B94B6F1844" name="PK_VDR">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>360915FE-0394-5F71-7C52-FBF5EA5A4216</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="67438357-53BA-7037-9A83-D8BCE2434444"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,138 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="84DF18E7-BFA6-F94E-270B-57C640DDE7F7" name="Modelos">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<comment><![CDATA[Tabela que armazena os modelos de carros ]]></comment>
+<commentInRDBMS><![CDATA[Tabela referente aos modelos dos carros]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>FDAAFD64-CAF8-096C-340B-6E86A307B5C7</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="mod_id" id="5CA3022A-913C-F87D-4FC5-85C60C4E60D8">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Identificador único do modelo do carro]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>9BFC5448-E0AB-988A-4565-1210C1635260</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>CK_MOD_NN_01</notNullConstraintName>
+</Column>
+<Column name="mod_nome" id="22818686-D869-6F64-59C4-9E35EACF0B09">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Nome do modelo do carro]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>440F7C2F-42EE-29A0-7E6E-B404731476B2</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="mod_body" id="7F34BE63-4075-AEA4-C22B-8069EE984B97">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Tipo de arquitetura do carro]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>2230AA7E-CB3F-A84A-DC34-49654C70314C</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="mod_trim" id="40F52C2C-1795-2F20-8DDE-EA42D350B38C">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Nível de acabamento do veículo]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>3BD7B8A1-D322-566F-DCE5-DADB57635B12</importedID>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="mod_mar_id" id="269AB9FB-96DD-EF8B-2854-7149B1768CCA">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Chave estrangeira da tabela de marcas]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>F9D0E9E2-0B50-556E-C0F9-2F99573C2937</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>CK_MOD_NN_02</notNullConstraintName>
+<associations>
+<colAssociation fkAssociation="4F5B1F2C-10E0-DECD-3C1A-BC97EE9758FB" referredColumn="51BC0735-17A9-9957-623C-94F0EFEDB5B9"/>
+</associations>
+</Column>
+<Column name="mod_trs_id" id="A87F1897-E277-44CD-EDF7-1AD9D7CFE70B">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<commentInRDBMS><![CDATA[Chave estrangeira da tabela de transmissões]]></commentInRDBMS>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>733F6BAB-3D33-BA95-65FA-737F65D3126F</importedID>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<notNullConstraintName>CK_MOD_NN_03</notNullConstraintName>
+<associations>
+<colAssociation fkAssociation="EED47E43-80F5-1869-C604-37848B1B4333" referredColumn="C05521A8-E148-07BA-2B11-7D67358BA7C5"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="F82B2A5F-BF82-5B55-20A8-528DCC0CD493" name="PK_MOD">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>F1AFD724-F14F-DBF7-5E1E-07508377DD3B</importedID>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5CA3022A-913C-F87D-4FC5-85C60C4E60D8"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="370A95C5-AC75-0D25-F7D4-6CBA50AE9809" name="FK_MOD_TRS">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A87F1897-E277-44CD-EDF7-1AD9D7CFE70B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="EABC25C3-01D8-6E25-08E5-5D4FA813707D" name="FK_MOD_MAR">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="269AB9FB-96DD-EF8B-2854-7149B1768CCA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

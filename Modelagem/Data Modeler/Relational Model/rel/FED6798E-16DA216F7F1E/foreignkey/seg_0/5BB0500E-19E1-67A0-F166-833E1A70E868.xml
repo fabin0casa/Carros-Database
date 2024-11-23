@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="5BB0500E-19E1-67A0-F166-833E1A70E868" containerWithKeyObject="1EA618F9-73D5-9F3E-52EE-243EC410AA70" localFKIndex="43553C88-30D2-E127-77DF-60799217B847" name="FK_VND_VDR">
+<createdBy>joao7</createdBy>
+<createdTime>2024-09-19 21:02:20 UTC</createdTime>
+<generatorID>C3A061C8-43C9-E8E2-A6F8-6479E8041000</generatorID>
+<ownerDesignName>Modelo Relacional</ownerDesignName>
+<importedID>7F99F3A9-468D-FAE0-A05E-F503358FD980</importedID>
+<referredTableLongName>Vendedores</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>E6157F80-241B-CB3C-5FF6-7C2063A9BF1A</referredTableID>
+<keyObject>EA6A33FB-645E-50E4-D02F-D0B94B6F1844</keyObject>
+<referredKeyID>EA6A33FB-645E-50E4-D02F-D0B94B6F1844</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>vdr_id</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

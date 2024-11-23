@@ -1,0 +1,8 @@
+LOAD DATA
+INFILE 'sellers.csv'
+APPEND INTO TABLE VENDEDORES
+FIELDS TERMINATED BY ','
+(
+  vdr_id,
+  vdr_nome
+)
